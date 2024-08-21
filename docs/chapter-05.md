@@ -97,3 +97,93 @@ Estructura de las ramas:
 **Gherkin:**
 
 - Gherkin es un lenguaje de dominio especializado usado en el desarrollo guiado por comportamiento (BDD), diseñado para mejorar la comunicación entre equipos de negocios y técnicos al abordar problemas específicos. Utiliza saltos de línea y palabras clave como "Given", "When", "Then" y "And" para mejorar la legibilidad y organización de los escenarios en BDD, facilitando una estructura clara y efectiva de diferentes tipos de casos.
+
+### 5.1.4 Software Deployment Configuration
+
+#### Landing Page Deployment
+
+Para desplegar la landing page de BiciBreeze resultó necesario cumplir una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos (se utilizará la plataforma Github Pages y Github Actions, para la implementación y despegue). Cumplido lo anterior, será posible comenzar el despliegue de la landing page. Estos son los pasos a seguir:
+
+<ol>
+  <li>Crear una carpeta Docs para alojar el landing page y especificar en Github Pages como fuente de la página.
+  </li>
+  <li>Asegurarse de que los archivos sigan los terminales correctos "index.html", para la landing page; "style.css" para los estilos y una carpeta "img" que contendrá las imágenes.
+  </li>
+  <li>Cargar los archivos mediante un push a la rama main del repositorio.</li>
+  <li>Verificar que se haya desplegado correctamente.</li>
+
+
+## 5.2 Landing Page, Services & Applications Implementation
+
+### 5.2.1 Sprint 1
+
+#### 5.2.1.1 Sprint Planning 1
+
+<table>
+  
+  <thead>
+    <tr>
+      <th colspan="2">Sprint #1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="2">Sprint Planning Background</th>
+    </tr>
+    <tr>
+      <td>Date</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Time</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Prepared by</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Atendees (to planning meeting)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 1 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Summary</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 1 Velocity</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### 5.2.1.2 Sprint Backlog 1
