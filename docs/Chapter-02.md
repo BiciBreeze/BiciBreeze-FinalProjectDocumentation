@@ -110,10 +110,38 @@
 Para posicionar BiciBreeze frente a competidores, se pueden implementar estrategias como alianzas con universidades para ofrecer descuentos exclusivos a estudiantes, programas de referidos para incentivar la recomendación entre amigos, y campañas de marketing digital enfocadas en resaltar la conveniencia y accesibilidad sobre el modelo de suscripción mensual. Además, se pueden organizar eventos y actividades en campus universitarios para generar comunidad y fidelizar a nuestros clientes. También, podemos considerar ofrecer servicios adicionales como talleres de mantenimiento de bicicletas o rutas guiadas para estudiantes, diferenciándonos aún más de la competencia.
 
 ## 2.2. Entrevistas
-La entrevista se realiza con el objetivo de obtener mayor información acerca de los usuarios y del servicio de tecnología. De este modo, podremos conocer cuál es sus puntos de vista respecto a los servicios electrónicos, qué problemas tuvieron y cuáles son sus expectativas frente a los nuevos servicios educativos virtuales.
+Las entrevistas buscan entender mejor a los usuarios y cómo usan la tecnología. Queremos saber qué piensan sobre los servicios en línea, los problemas que han tenido y qué esperan sobre nuestro proyecto.
 
 ### 2.2.1 Diseño de entrevistas 
 
+**Preguntas para ambos segmentos**
+
+- Presentación:
+    - ¿Cual es su nombre?
+    - ¿Que edad tiene?
+    - ¿En qué Distrito vive?
+    - ¿Estado Civil?
+    - ¿Cual es su ocupación? ¿Estudia y/o trabaja?
+    - Vamos relacionandonos un poco mas al tema tecnologico ¿Cuál es la herramienta tecnologica que mas usa? Entre PC y/o Celular, especificar si es Windows, Mac, Android o Iphone.
+    - ¿Cuales son los navegadores de internet que mas usa a dia de hoy? (Edge, Chrome, Firefox, Opera o Safari)
+    - ¿Qué canal de comunicación prefiere usar: Reuniones presenciales, llamadas telefónicas o mensajes de texto (WhatsApp, SMS, Redes Sociales)?
+    -¿Qué marcas y/o influencias han tenido mayor impacto en usted?
+
+**Preguntas para Estudiantes Universitarios**
+- ¿Cuáles son los principales desafíos que enfrentas al desplazarte a la universidad? (tráfico, costo, tiempo, etc.)
+- ¿Qué tan frecuentemente utilizas medios de transporte alternativos como bicicletas o scooters?
+- ¿Estarías dispuesto a considerar un servicio de suscripción de bicicletas para tus desplazamientos diarios a la universidad? ¿Por qué o por qué no?
+- ¿Qué características consideras más importantes en un servicio de suscripción de bicicletas? (precio, ubicación de estaciones, tipo de bicicletas, etc.)
+- ¿Qué precio mensual estarías dispuesto a pagar por un servicio de suscripción de bicicletas que te permita desplazarte a la universidad y a otros lugares de interés?
+- ¿Qué tipo de promociones o beneficios te gustaría recibir como estudiante universitario suscrito a BiciBreeze?
+
+**Preguntas para Publico General**
+- ¿Con qué frecuencia utilizas la bicicleta como medio de transporte en tu vida diaria?
+- ¿Qué factores influyen en tu decisión de utilizar la bicicleta en lugar de otros medios de transporte?
+- ¿Qué barreras o desafíos encuentras al utilizar la bicicleta en la ciudad?
+- ¿Qué te atraería de un servicio de alquiler de bicicletas por horas o días?
+- ¿Qué características o servicios adicionales valorarías en un servicio de alquiler de bicicletas? (seguros, asistencia en carretera, rutas guiadas, etc.)
+- ¿Qué precio por hora o por día consideras razonable para alquilar una bicicleta en buen estado?
 
 ### 2.2.2. Registro de entrevistas 
 
