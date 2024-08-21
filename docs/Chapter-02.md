@@ -196,3 +196,49 @@ Link de la entrevista:
 ## 2.3. Needfinding
 Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
 Esta información también nos ayudará a realizar los esquemas para las secciones de User Personas, User Task Matrix, User Journey Maps y el Empathy Mapping.
+
+### 2.3.1. User Persona
+Para desarrollar BiciBreeze, hemos entrevistado a estudiantes y usuarios de bicicletas. Estos datos nos permiten crear "User Personas" detalladas, que guiarán el diseño y desarrollo de nuestra plataforma para satisfacer las necesidades específicas de nuestros usuarios, ofreciendo una solución de movilidad eficiente y sostenible.
+
+**_Segmento 1: Estudiantes Universitarios_**
+
+
+
+**_Segmento 2: Publico General_**
+
+### 2.3.2. User Task Matrix
+
+Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la frecuencia con la que los usuarios llevan a cabo diversas actividades, lo que nos permite visualizar la importancia de ciertas tareas.
+
+**_Segmento 1: Estudiantes Universitarios_**
+
+| Tareas                                                        | Universitario/a Importancia   | Universitario/a  Frecuencia               |
+|---------------------------------------------------------------|--------------------------|--------------------------
+| Movilizarse a la universidad y otros lugares de interés	                        |Alta                     | Siempre
+| Buscar rutas eficientes y seguras en bicicleta	 |Alta                 | Siempre                  
+| Comparar precios y opciones de transporte |Media         | A veces           
+| Asistir a conferencias y eventos académicos                   |Media                   | A veces                  
+| Acceder a información sobre promociones y descuentos |Media            | A veces                  
+| Gestionar su tiempo y organizar su agenda        |Media                     | Diaria/Semanal                  
+| Lidiar con el tráfico y la congestión	     |Alta                    | Diaria                 
+| Preocuparse por la seguridad al viajar de noche                    |Media                     | Ocasionalmente    
+
+**_Segmento 2: Publico General_**
+
+| Tareas                                                        | Universitario/a Importancia   | Universitario/a  Frecuencia               |
+|---------------------------------------------------------------|--------------------------|--------------------------
+| Desplazarse al trabajo		                        |Alta                     | Diaria
+| Ir a citas médicas, reuniones o eventos sociales	 |Media                 | Semanal/Mensual                  
+| Comparar precios y opciones de transporte |Media         | Diaria/Semanal
+| Evitar el tráfico y la congestión en horas pico                  |Alta                 | Diaria               
+| Reducir gastos en transporte	 |Alta            | Semanal                  
+| Gestionar su tiempo y organizar su agenda        |Media                     | Diaria/Semanal                              
+| Preocuparse por la seguridad al viajar de noche                    |Media                     | Ocasionalmente    
+
+**Analisis y Explicación:**
+
+-Los estudiantes universitarios buscan transporte diario eficiente y económico, con seguridad y opciones flexibles.
+
+-El público general busca alternativas al tráfico y al transporte público, con opciones recreativas y familiares.
+
+-BiciBreeze puede ofrecer soluciones a ambos segmentos, destacando la conveniencia, el ahorro y la sostenibilidad.
