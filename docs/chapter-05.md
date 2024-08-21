@@ -61,3 +61,39 @@ Estructura de las ramas:
 - Chapter-03 Branch: En esta rama se actualizará toda la información y documentación del capítulo 3 del producto presentado.
 - Chapter-04 Branch: En esta rama se actualizará toda la información y documentación del capítulo 4 del producto presentado.
 - Chapter-05 Branch: En esta rama se actualizará toda la información y documentación del capítulo 5 del producto presentado.
+
+### 5.1.3 Source Code Style Guide & Conventions
+
+**HTML: Mejores prácticas seguidas**
+
+- Utilizamos elementos HTML con un significado claro y preciso para el contenido marcado, como `header`, `nav`, `main`, `article`, `section`, `aside`, `footer`, entre otros, al estructurar la landing page. Esto evita redundancias y el uso incorrecto de elementos.
+- Aunque HTML5 permite algunas etiquetas auto-cerradas (como `img` e `input`), seguimos la práctica de cerrar todas las etiquetas correctamente para prevenir problemas de renderizado. Por ejemplo: `<p> Hola! Somos BiciBreeze!.</p>`
+- Para mejorar la accesibilidad, siempre incluimos el atributo `alt` en las etiquetas `img` para describir brevemente el contenido de la imagen. Por ejemplo: `<img src="image.img" alt="nombre corto de imagen">`
+- Aunque HTML permite el uso de mayúsculas y minúsculas en nombres de elementos y atributos, utilizamos solo minúsculas para mantener el orden y mejorar la legibilidad del código.
+- No omitimos etiquetas principales e importantes como `<html>`, `<body>`, `<header>`, entre otras.
+- Escribimos los comentarios cortos en una sola línea.
+
+**CSS: Buenas prácticas**
+
+- Los nombres de clases son claros, precisos y autodescriptivos.
+- Separamos los nombres de clases e IDs con guiones, por ejemplo: `#userWorker-id` o `button-shape{}`.
+- Utilizamos comentarios claros para explicar el código.
+- Aplicamos sangría a todo el contenido dentro de un bloque.
+- Separar declaraciones y selectores en nuevas líneas para mantener una buena legibilidad y orden.
+
+**JavaScript: Principales buenas prácticas**
+
+- Empleamos la nomenclatura camelCase para nombrar variables y funciones, por ejemplo, `miVariable` o `miFuncion`.
+- Usamos PascalCase para nombrar clases y constructores, por ejemplo, `MiClase`.
+- Evitamos nombres de variables genéricos o ambiguos.
+- Incluimos comentarios generales para explicar el propósito y la funcionalidad del código.
+- Usamos punto y coma al final de cada declaración.
+- Mantenemos consistencia en el uso de comillas simples (`''`) o dobles (`""`) para cadenas de texto.
+- Aplicamos operadores ternarios de manera cuidadosa para asegurar la legibilidad, por ejemplo, `(condición ? resultadoTrue : resultadoFalse)`.
+- Evitamos y eliminamos el uso de funciones obsoletas.
+- Utilizamos `try-catch` para manejar y gestionar errores.
+- Organizamos el código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+
+**Gherkin:**
+
+- Gherkin es un lenguaje de dominio especializado usado en el desarrollo guiado por comportamiento (BDD), diseñado para mejorar la comunicación entre equipos de negocios y técnicos al abordar problemas específicos. Utiliza saltos de línea y palabras clave como "Given", "When", "Then" y "And" para mejorar la legibilidad y organización de los escenarios en BDD, facilitando una estructura clara y efectiva de diferentes tipos de casos.
