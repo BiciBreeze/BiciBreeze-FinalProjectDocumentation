@@ -4,15 +4,12 @@
 
 ### 1.1.1. Descripción de la StartUp
 
-Nuestro sitio web ofrece el servicio de asistencia de perito en el área médica de anestesiología. Nuestros clientes pueden ser médicos que requieran alguna defensa legal y/o estudiantes de medicina que requieran de una asesoría sobre lo que implica estudiar peritaje en anestesiología, y además darle oportunidades laborales a personas que hayan estudiado peritaje en anestesiología. Para que nuestra plataforma sea autosostenible los clientes pueden adquirir diversos planes de suscripción.
+Nuestro sitio web ofrece el servicio de alquiler de bicicletas, en la brevedad de esas palabras buscamos lo innovador y llamativo, siendo los primeros en incluir un plan de suscripción mensual para jóvenes universitarios con un costo realmente accesible para que puedan trasladarse a su universidad u a otro lugares de intereses personales, también incluimos un plan mas elevado para otros usuarios mayores o profesionales que quieran usar una bicicleta por horas o días con un costo realmente accesible.
 
-Misión:
+- Misión: Nuestra misión se basa en apoyar a los jóvenes que quieran movilizarse de esta forma para que puedan conseguirlo sin tener que pagar tanto.
+<br>
+- Visión (Metas a medio o largo plazo): Poder asentarnos como la plataforma mas amigable para los jóvenes universitarios.
 
-- Nuestra misión se basa en apoyar a los médicos que necesitan dicha defensa en caso de presentarse en algún juicio y a su vez brindar oportunidades laborales a los médicos que deseen prestar sus servicios a sus colegas, mediante una solución tecnológica.
-
-Visión (Metas a medio o largo plazo):
-
-- Poder asentarnos como la primera plataforma en nuestro país de defensa médica a los mismos trabajadores en el área de medicina.
 
 ### 1.1.2. Perfiles de Integrantes del equipo
 
@@ -31,45 +28,46 @@ Visión (Metas a medio o largo plazo):
 
 Los antecedentes son esenciales para una comprensión más profunda de la problemática en cuestión. Por esta razón, hemos aplicado la técnica de las "5W 2H":
 
-**What:**
+**What (¿Qué?):**
+- ¿Qué necesidad específica o problema resuelve tu startup?
+-- Facilita el acceso a bicicletas para jóvenes universitarios y otros usuarios con precios accesibles, promoviendo un transporte económico y ecológico.
 
-- ¿Qué situación específica o problema surge cuando algo sale mal en una operación?
-- ¿Qué tipo de ayuda necesitan los médicos en estos casos?
-- ¿Qué papel desempeñan los abogados o personas de confianza en la defensa legal de los médicos?
+- ¿Qué diferencia tu servicio de otros similares en el mercado?
+-- Ofrecemos un plan de suscripción mensual único y accesible para jóvenes universitarios, además de opciones flexibles para otros usuarios.
 
-**Where:**
+**Where (¿Dónde?)**
+- ¿Dónde pueden los usuarios acceder a tus servicios?
+-- A través de una plataforma en línea que facilita la reserva y alquiler de bicicletas en ubicaciones cercanas a universidades y zonas urbanas.
+<br>
+- ¿Dónde es más probable que tu servicio tenga mayor demanda?
+-- En zonas urbanas con alta concentración de estudiantes universitarios y profesionales que prefieren un medio de transporte económico y ecológico.
 
-- ¿Dónde suelen ocurrir estos problemas durante las operaciones (en qué tipo de entorno médico)?
-- ¿Dónde podrían los médicos buscar ayuda legal en caso de enfrentar una situación complicada?
+**When (¿Cuándo?)**
+- ¿Cuándo es más probable que los usuarios necesiten tu servicio?
+-- Principalmente durante los días laborales, en horas pico, cuando los estudiantes y profesionales necesitan desplazarse a sus lugares de estudio o trabajo.
+<br>
+- ¿Cuándo deberían considerar los usuarios cambiar a un plan de suscripción?
+-- Cuando necesitan una opción de transporte regular y económica para sus desplazamientos diarios.
+**Who (¿Quién?)**
+¿Quiénes son los principales beneficiarios de tu servicio?
+Jóvenes universitarios y profesionales que buscan una alternativa de transporte económica y sostenible.
+¿Quiénes podrían ser los competidores directos de tu startup?
+Otros servicios de alquiler de bicicletas, empresas de transporte público, y proveedores de servicios de movilidad compartida.
 
-**When:**
+**Why (¿Por qué?)**
+- ¿Por qué los jóvenes universitarios preferirían tu servicio sobre otras opciones de transporte?
+-- Por la accesibilidad económica del plan de suscripción, la conveniencia y la posibilidad de contribuir al cuidado del medio ambiente.
+<br>
+- ¿Por qué es importante para tu startup ofrecer precios accesibles?
+-- Para democratizar el acceso al transporte ecológico y fomentar su uso entre un público joven que generalmente tiene recursos limitados.
 
-- ¿Cuándo suele surgir la necesidad de asesoramiento legal para los médicos en casos de problemas durante una operación?
-- ¿Cuándo se requiere la presencia de peritos en anestesiología en situaciones legales?
+**How (¿Cómo?)**
+- ¿Cómo pueden los usuarios suscribirse o alquilar una bicicleta?
+-- A través de una plataforma en línea fácil de usar, donde pueden seleccionar el plan que mejor se ajuste a sus necesidades.
+<br>
+- ¿Cómo se garantiza la disponibilidad de bicicletas para los usuarios?
+-- Mediante una gestión eficiente de la flota de bicicletas y ubicaciones estratégicas para asegurar la disponibilidad en los puntos de mayor demanda.
 
-**Who:**
-
-- ¿Quiénes son los principales afectados cuando ocurre un problema durante una operación?
-- ¿Quiénes son los médicos que podrían necesitar asesoramiento legal en tales situaciones?
-- ¿Quiénes podrían ser los posibles culpables que se buscan cuando algo sale mal en una operación?
-
-**Why:**
-
-- ¿Por qué los médicos tienden a buscar culpables más allá de la razón cuando algo sale mal en una operación?
-- ¿Por qué es importante proporcionar apoyo legal a los médicos en tales situaciones?
-- ¿Por qué la presencia de peritos en anestesiología es crucial en casos legales relacionados con operaciones?
-
-**How:**
-
-- ¿Cómo pueden los médicos acceder a asesoramiento legal cuando lo necesitan?
-- ¿Cómo pueden los médicos convertirse en peritos en anestesiología para brindar apoyo en casos legales?
-- ¿Cómo se puede implementar un sistema eficaz para ayudar a los médicos en situaciones legales relacionadas con operaciones?
-
-**How much:**
-
-- ¿Cuánto tiempo suele llevar resolver legalmente un problema relacionado con una operación médica?
-- ¿Cuánto costo puede implicar para un médico enfrentar una situación legal sin asesoramiento adecuado?
-- ¿Cuántos médicos podrían beneficiarse de un sistema que brinde asesoramiento legal y apoyo en casos de problemas durante operaciones?
 
 ### 1.2.2. Lean UX Process
 
@@ -189,10 +187,10 @@ Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para 
 
 ## 1.3. Segmento Objetivo
 
-Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición del siguiente segmento objetivo.
+Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición de los siguientes segmentos objetivos:
 
-Segmento 1: Para nuestro primer segmento objetivo está compuesto por médicos que buscan asistencia legal especializada de parte de nuestros abogados expertos en medicina legal. Este grupo incluye a profesionales médicos de diversas especialidades, desde médicos generales hasta cirujanos y especialistas en áreas específicas como la obstetricia, la oncología o la neurología.
+**Segmento 1:** Para nuestro primer segmento objetivo está compuesto por médicos que buscan asistencia legal especializada de parte de nuestros abogados expertos en medicina legal. Este grupo incluye a profesionales médicos de diversas especialidades, desde médicos generales hasta cirujanos y especialistas en áreas específicas como la obstetricia, la oncología o la neurología.
 
 Estos médicos enfrentan una serie de desafíos legales en su práctica clínica diaria, que van desde cuestiones relacionadas con la responsabilidad profesional y la mala praxis médica hasta la interpretación de regulaciones y normativas sanitarias. La complejidad creciente del entorno legal y regulatorio en el que operan los profesionales de la salud hace que sea fundamental contar con asesoramiento legal sólido y especializado.
 
-Segmento 2: Este segmento objetivo estará compuesto por estudiantes de medicina, residentes, internos y practicantes recién graduados que buscan adquirir nuestras suscripciones para obtener acceso a consultas legales especializadas en medicina. Estos individuos están en las primeras etapas de sus carreras médicas y reconocen la importancia de comprender el marco legal en el que operan como futuros profesionales de la salud.
+**Segmento 2:** Este segmento objetivo estará compuesto por estudiantes de medicina, residentes, internos y practicantes recién graduados que buscan adquirir nuestras suscripciones para obtener acceso a consultas legales especializadas en medicina. Estos individuos están en las primeras etapas de sus carreras médicas y reconocen la importancia de comprender el marco legal en el que operan como futuros profesionales de la salud.
