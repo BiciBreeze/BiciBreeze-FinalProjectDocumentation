@@ -75,11 +75,12 @@ Otros servicios de alquiler de bicicletas, empresas de transporte público, y pr
 
 **Problem Statement**
 
-Nuestra futura plataforma de asistencia de perito en anestesiología tiene como objetivo proporcionar acceso fácil y confiable a servicios especializados para médicos en busca de defensa legal y estudiantes de medicina interesados en obtener asesoramiento sobre peritaje en anestesiología, además de ofrecer oportunidades laborales en este campo altamente especializado. Sin embargo, enfrentamos diversos desafíos, como la constante evolución de las demandas legales en medicina, la competencia en la educación médica en línea, y la necesidad de asegurar que la plataforma permanezca alineada con sus objetivos iniciales.
+Nuestra futura plataforma de alquiler de bicicletas tiene como objetivo proporcionar acceso fácil y confiable a los jóvenes universitarios como a otros usuarios un medio de transporte ecológico y cada vez más seguro, ya que cada vez hay más ciclovías en nuestra ciudad. Sin embargo, enfrentamos diversos desafíos, como la competencia ya existente, ya que hay otras empresas que ofrecen un servicio similar; la inseguridad vial, porque sabemos que hay zonas y horas en las que es mas riesgoso manejar en bicicleta, etc. 
 
-Para abordar estos desafíos, debemos aprovechar las oportunidades presentes en el mercado. Enfocándonos en un nicho específico como la anestesiología, podemos diferenciarnos de otras plataformas más generalistas. La implementación de tecnología avanzada, como la inteligencia artificial, mejorará la precisión y eficiencia del asesoramiento legal. Colaborar con expertos reconocidos aumentará la credibilidad de la plataforma, y ofrecer una combinación de recursos educativos y oportunidades laborales creará una propuesta de valor integral para los usuarios.
+Para abordar estos desafíos, debemos aprovechar las oportunidades presentes en el mercado. Enfocándonos en atraer a un público de jóvenes universitarios con la propuesta innovadora que les tenemos, sin dejar de lado a los jóvenes que si bien ahora pueden no estar cursando alguna carrera universitaria también puedan acceder a nuestro servicio. La confianza que queremos que tengan en la plataforma será mayor si nos aliamos con diversos municipios de los distritos hacia los que estamos enfocados.
 
-Nuestras estrategias de mejora incluyen la actualización continua del contenido para mantenernos al día con las normativas y avances en anestesiología y derecho médico, la creación de contenido altamente especializado, la mejora de la experiencia del usuario mediante una interfaz intuitiva, el desarrollo de una estrategia de marketing robusta y la formación de alianzas con instituciones educativas y organizaciones médicas. Además, estableceremos métricas claras para medir el éxito de la plataforma, como el aumento en la adopción de usuarios y la satisfacción del cliente, realizando evaluaciones periódicas para ajustar las estrategias según sea necesario.
+Nuestras estrategias de mejora incluyen la actualización continua del contenido para mantenernos al día con las normativas municipales, la mejora continua de la calidad de las bicicletas, y buscando siempre otras nuevas ideas que puedan hacer mejor nuestra plataforma.
+
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -87,89 +88,100 @@ Nuestras estrategias de mejora incluyen la actualización continua del contenido
 
 - ¿Quién es el usuario?
 
-El usuario puede ser un médico que necesite defensa legal en casos relacionados con anestesiología o un estudiante de medicina interesado en obtener asesoramiento sobre el peritaje en anestesiología. Además, personas que han estudiado peritaje en anestesiología y buscan oportunidades laborales pueden ser usuarios potenciales.
+El usuario puede ser un universitario(a) que quiera transportarse hacia la universidad o algun lugar de interes personal mediente el uso de una bicicleta moderna y adecuada. O tambien otro joven adulto que quiera usar una bicicleta para fines personales.
 
 - ¿Dónde encaja nuestro producto, en su trabajo o vida?
 
-Nuestro producto encaja en la vida profesional de médicos y estudiantes de medicina, así como en la búsqueda de empleo de personas con experiencia en peritaje en anestesiología. Para los médicos, el producto puede ayudar a resolver problemas legales relacionados con la anestesiología, mientras que para los estudiantes y profesionales del peritaje en anestesiología, puede proporcionar oportunidades laborales y asesoramiento educativo.
+Nuestro producto encaja en la vida universitaria de jovenes que quieran movilizarse mediante esta forma y tambien cuidar su salud haciendo ejercicio mediante el uso de la bicicleta. Para los universitarios, el producto puede ayudar a resolver problemas como la carencia de formas de transporte y aportar positivamente en su salud, mientras que para jovenes con trabajo o que quieran usar bicicletas por motivos personales, ya sea para su recreacion o trabajo, brindarles una bicicleta de calidad.
 
 - ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
 
-- Problema 1: Falta de acceso a expertos en anestesiología para asesoramiento legal o educativo.
+- Problema 1: Disponibilidad limitada de bicicletas en horas pico
 
-  - Solución: Nosotros ofrecemos una plataforma donde los usuarios puedan encontrar peritos en anestesiología
-    disponibles para asistencia legal y orientación educativa.
+  - Solución: Implementar un sistema de redistribución de bicicletas en tiempo real, donde se monitorice la demanda y se reubiquen bicicletas de zonas con menor uso hacia áreas de mayor demanda durante horas pico.
 
-- Problema 2: Falta de oportunidades laborales específicas en el campo del peritaje en anestesiología
+- Problema 2: Dificultad para los nuevos usuarios en comprender el proceso de suscripción y uso
 
-  - Solución: El sistema puede conectar a los usuarios con empleadores que buscan estos perfiles.
+  - Solución: Crear tutoriales interactivos y guías paso a paso en la plataforma, que expliquen cómo registrarse, suscribirse y usar el servicio, incluyendo un soporte al cliente en vivo para asistencia inmediata.
+
+  - Problema 3: Desgaste y mantenimiento insuficiente de las bicicletas
+
+  - Solución: Implementar un programa de mantenimiento preventivo y revisiones periódicas, además de permitir a los usuarios reportar problemas directamente desde la aplicación, incentivando el reporte con puntos de recompensa.
+
+- Problema 4: Competencia de otros medios de transporte, como scooters eléctricos y transporte público
+
+  - Solución: Diferenciar el servicio ofreciendo beneficios exclusivos a suscriptores, como descuentos en tiendas asociadas o eventos, además de reforzar el mensaje ecológico y saludable del uso de bicicletas.
 
 - ¿Cuándo y cómo es usado nuestro producto?
 
-Nuestro producto podría ser utilizado por los usuarios en momentos en que enfrenten situaciones legales relacionadas con la anestesiología, como demandas por errores médicos. También podría ser utilizado por estudiantes de medicina interesados en aprender más sobre el peritaje en anestesiología y por profesionales que buscan oportunidades laborales en este campo. El producto sería utilizado a través de la plataforma en línea, donde los usuarios pueden acceder a los servicios de asesoramiento legal, educativo y de empleo.
+Nuestro servicio de alquiler de bicicletas podría ser utilizado por jóvenes universitarios y otros usuarios cuando necesitan un medio de transporte económico y ecológico para desplazarse a sus lugares de estudio, trabajo, o actividades personales. Es particularmente útil durante horas pico o cuando el transporte público es poco fiable. Los usuarios acceden al servicio a través de nuestra plataforma en línea, donde pueden suscribirse a un plan mensual o alquilar bicicletas por horas o días. El proceso es sencillo y rápido, permitiendo a los usuarios reservar y desbloquear bicicletas en estaciones ubicadas estratégicamente cerca de universidades y centros urbanos.
 
 - ¿Qué características son importantes?
 
-Características importantes pueden incluir un directorio de peritos en anestesiología disponibles para asistencia legal, recursos educativos sobre el peritaje en anestesiología, una sección de ofertas de empleo para profesionales en este campo, opciones de suscripción para acceder a diferentes niveles de servicios y una interfaz fácil de usar y navegación intuitiva.
+Características importantes incluyen un sistema de reserva en tiempo real, posteriormente desarrollar una aplicación móvil fácil de usar, opciones de suscripción mensual para estudiantes y profesionales, un programa de mantenimiento regular de bicicletas, y un sistema de geolocalización para encontrar bicicletas disponibles cerca de la ubicación del usuario. También es crucial un sistema de soporte al cliente integrado en la plataforma, que permita a los usuarios resolver cualquier problema rápidamente.
 
 - ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 
-El producto debe tener una apariencia profesional y confiable, con un diseño limpio y fácil de entender. Debe comportarse de manera eficiente, brindando acceso rápido y fácil a los recursos y servicios necesarios para los usuarios. La plataforma debe ser intuitiva y fácil de navegar, con opciones claras y concisas para acceder a diferentes funciones y servicios.
+El sitio web y la aplicación de nuestra startup deben tener una apariencia moderna y atractiva, con un diseño intuitivo y fácil de navegar. La interfaz debe ser clara, con opciones de acceso rápido para suscribirse, reservar bicicletas, y gestionar el plan de suscripción. El comportamiento del producto debe ser eficiente, permitiendo a los usuarios encontrar y alquilar bicicletas con pocos clics, y asegurando que las bicicletas estén siempre en buenas condiciones y disponibles en los lugares de mayor demanda. Además, la plataforma debe ser capaz de manejar grandes volúmenes de usuarios simultáneamente sin ralentizaciones.
 
 **User Outcomes**
 
-- **Acceso a Asistencia Especializada:** Los usuarios, ya sean médicos que necesiten defensa legal o estudiantes de medicina buscando orientación sobre el peritaje en anestesiología, buscan acceso fácil y rápido a asistencia especializada en el campo. Este outcome se centra en la capacidad de los usuarios para obtener ayuda experta y específica cuando la necesiten, lo que les proporciona confianza y apoyo en situaciones críticas o decisiones importantes.
+**Acceso a Transporte Eficiente y Económico:** 
+Los usuarios, especialmente jóvenes universitarios y profesionales, buscan un medio de transporte económico, ecológico y fácil de acceder. Este outcome se centra en la capacidad de los usuarios para obtener bicicletas disponibles cerca de su ubicación cuando las necesiten, lo que les proporciona una solución de transporte fiable y asequible para sus desplazamientos diarios. El éxito se mide por la satisfacción del usuario al tener acceso a bicicletas bien mantenidas y fácilmente disponibles en los momentos clave del día.
 
-- **Oportunidades Laborales:** Para aquellos usuarios que hayan estudiado peritaje en anestesiología, el outcome deseado es la identificación y acceso a oportunidades laborales relevantes en su campo. Esto podría incluir ofertas de trabajo, oportunidades de consultoría o proyectos freelance dentro de la especialidad. El éxito se mide por la capacidad de la plataforma para conectar a estos usuarios con oportunidades laborales que se ajusten a sus habilidades y aspiraciones profesionales.
+**Flexibilidad y Conveniencia en el Transporte:**
+ Los usuarios valoran la flexibilidad de elegir entre planes de suscripción o alquileres a corto plazo que se adapten a sus necesidades. Este outcome se enfoca en ofrecer a los usuarios diferentes opciones que les permitan ajustar el uso del servicio según sus horarios y necesidades, ya sea mediante una suscripción mensual o alquileres por horas o días. El éxito se refleja en la capacidad de la plataforma para proporcionar opciones convenientes que se alineen con el estilo de vida de los usuarios, aumentando así la lealtad y recurrencia del uso.
 
-- **Educación y Orientación Profesional:** Para los estudiantes de medicina interesados en la anestesiología, así como para otros profesionales en busca de orientación, el outcome deseado es recibir educación y orientación profesional en el campo del peritaje en anestesiología. Esto incluiría recursos informativos, consejos prácticos, y posiblemente mentoría por parte de expertos en el campo. El éxito se evalúa por la utilidad y relevancia de la información proporcionada, así como por el impacto positivo en la trayectoria profesional y el desarrollo de los usuarios.
+**Promoción de un Estilo de Vida Saludable y Sostenible:**
+Para los usuarios interesados en mantener un estilo de vida activo y reducir su huella de carbono, el outcome deseado es que el servicio no solo facilite el transporte, sino que también promueva hábitos saludables y sostenibles. Esto incluye el uso regular de bicicletas como parte de su rutina diaria y la concienciación sobre los beneficios ambientales de reducir el uso de vehículos motorizados. El éxito se mide por la adopción y continuidad en el uso del servicio como parte de un compromiso más amplio con un estilo de vida saludable y sostenible.
 
 **Business Assumptions**
 
 - ¿Cuál es nuestro mercado objetivo y cómo podemos alcanzarlo?
 
-Nuestro mercado objetivo son médicos que necesiten defensa legal en casos relacionados con anestesiología, estudiantes de medicina interesados en el peritaje en anestesiología y profesionales del peritaje en anestesiología en busca de oportunidades laborales. Podemos alcanzarlos mediante campañas de marketing dirigidas a instituciones médicas, facultades de medicina y asociaciones profesionales relacionadas con la anestesiología.
+Nuestro mercado objetivo son jóvenes universitarios que necesitan un medio de transporte económico y ecológico para desplazarse a sus universidades, así como profesionales que buscan alternativas de transporte flexibles en zonas urbanas. Podemos alcanzarlos a través de campañas de marketing dirigidas en redes sociales, colaboraciones con universidades, y asociaciones con empresas locales que valoren la movilidad sostenible. Además, eventos y promociones cerca de los campus universitarios y zonas de alta actividad laboral pueden atraer a nuestro público objetivo.
 
 - ¿Cuál es nuestra estrategia de monetización y cómo podemos garantizar la rentabilidad?
 
-Nuestra estrategia de monetización se basa en ofrecer planes de suscripción para acceder a los servicios de la plataforma. Además, podemos generar ingresos a través de asociaciones con instituciones médicas para ofrecer servicios adicionales, como programas de formación continua en anestesiología. Para garantizar la rentabilidad, debemos asegurarnos de que nuestros planes de suscripción están estratégicamente diseñados para atraer a los usuarios y ofrecer un valor significativo.
+Nuestra estrategia de monetización se basa en ofrecer planes de suscripción mensual para estudiantes universitarios, así como tarifas competitivas para alquileres por horas o días para otros usuarios. Además, podemos generar ingresos a través de asociaciones con empresas locales que ofrezcan beneficios o descuentos a nuestros suscriptores, y mediante la colocación de publicidad en nuestras bicicletas o estaciones. Para garantizar la rentabilidad, debemos optimizar nuestras tarifas para asegurar un equilibrio entre accesibilidad para el usuario y margen de beneficio, además de fomentar la suscripción recurrente mediante incentivos y promociones.
 
 - ¿Cuáles son nuestros costos operativos y cómo podemos mantenerlos bajo control?
 
-Nuestros costos operativos incluirían el desarrollo y mantenimiento de la plataforma web, así como los costos asociados con la contratación de personal especializado en anestesiología para proporcionar servicios de asesoramiento legal y educativo. Para mantener estos costos bajo control, podemos considerar la externalización de ciertas funciones y la optimización de nuestros procesos internos.
+Nuestros costos operativos incluirían la adquisición y mantenimiento de la flota de bicicletas, el desarrollo y mantenimiento de la plataforma web y móvil, y la logística de redistribución de bicicletas en las estaciones. Para mantener estos costos bajo control, podemos explorar opciones como la externalización de mantenimiento a empresas especializadas, la implementación de tecnología para optimizar la redistribución de bicicletas, y la negociación de contratos de largo plazo con proveedores para reducir costos de adquisición de bicicletas.
 
 - ¿Cuál es nuestra estrategia de crecimiento a corto y largo plazo?
 
-A corto plazo, nuestra estrategia de crecimiento puede centrarse en la adquisición de usuarios y la mejora de la plataforma para aumentar la retención. A largo plazo, podemos expandir nuestros servicios para incluir otras áreas de especialización médica y buscar asociaciones estratégicas con instituciones médicas y empresas del sector de la salud.
+A corto plazo, nuestra estrategia de crecimiento se centrará en la expansión de la base de usuarios a través de campañas de adquisición agresivas y la mejora continua de la experiencia del usuario para aumentar la retención. A largo plazo, podemos considerar la expansión a nuevas ciudades o regiones, el incremento de la flota de bicicletas, y la diversificación de servicios ofreciendo otros tipos de vehículos de movilidad urbana (como scooters eléctricos). También podemos buscar asociaciones con gobiernos locales para integrar nuestros servicios en planes de movilidad urbana sostenible.
 
 - ¿Cómo vamos a diferenciarnos de la competencia y crear una propuesta de valor única?
 
-Nos diferenciaremos ofreciendo acceso directo a peritos en anestesiología para asistencia legal y educativa, así como oportunidades laborales específicas en este campo. Además, nos enfocaremos en brindar una experiencia de usuario excepcional y contenido de alta calidad para establecer nuestra plataforma como líder en el mercado de servicios de anestesiología.
+Nos diferenciaremos al ofrecer planes de suscripción únicos y altamente accesibles para estudiantes universitarios, con una experiencia de usuario optimizada y un enfoque fuerte en la sostenibilidad. También, al garantizar un alto nivel de disponibilidad y mantenimiento de nuestras bicicletas, y al integrar funciones innovadoras en nuestra plataforma, como la posibilidad de reservar bicicletas con anticipación o acceder a promociones exclusivas de socios locales. Además, la cercanía con las universidades y la constante retroalimentación de los usuarios nos permitirá adaptar el servicio de manera precisa a sus necesidades.
 
 **Business Outcomes**
 
-1. **Desarrollo de una comunidad especializada:** Con una base de 2650 usuarios potenciales esperamos que el 10% inicie sesión en tan solo 1 mes después de haber lanzado nuestra plataforma. Ya que al proporcionar servicios de asistencia y asesoramiento en el área médica de anestesiología, garantizamos que la plataforma pueda convertirse en un punto de encuentro para médicos, estudiantes de medicina y profesionales interesados en esta especialidad. Esto puede fomentar el intercambio de conocimientos, experiencias y oportunidades laborales dentro de la comunidad, creando un ambiente propicio para la colaboración y el networking. 
+1. **Desarrollo de una comunidad de usuarios leales:** Con una base inicial proyectada de 3000 usuarios, esperamos que al menos el 15% se suscriba a nuestros planes de alquiler de bicicletas dentro del primer mes de lanzamiento. Al ofrecer un servicio accesible y conveniente, especialmente para jóvenes universitarios, nuestra plataforma puede convertirse en el medio de transporte preferido para estudiantes y profesionales. Esto fomentará la creación de una comunidad de usuarios recurrentes, quienes no solo utilizarán el servicio de manera regular, sino que también actuarán como embajadores de la marca, recomendando el servicio a amigos y compañeros. 
 
-2. **Generación de ingresos sostenibles:** Al ver la atencion recibida por parte de los usuarios potenciales podemos esperar 50 adquisiciones de nuestros servicios pagados, ya sea un plan de suscripcion o un pago inmediato dependiendo del caso. Esto logrará que la plataforma tenga la capacidad de generar ingresos recurrentes. Esto asegura una fuente estable de financiamiento que puede respaldar el crecimiento y la expansión de la plataforma a largo plazo. Además, al tener una base de clientes suscritos, se llevará una optima contabilidad de las ganancias, lo que contribuye a la estabilidad financiera del proyecto.
+2. **Generación de ingresos recurrentes y sostenibles:** Basándonos en el interés inicial proyectado, anticipamos al menos 450 suscripciones mensuales en los primeros dos meses, con un crecimiento mensual del 10% en suscripciones. Esta base de usuarios recurrentes permitirá generar ingresos sostenibles a largo plazo. Además, al ofrecer planes de suscripción accesibles y promociones dirigidas, podemos mantener una tasa alta de retención de usuarios, asegurando un flujo constante de ingresos que respalde tanto la operación diaria como las futuras expansiones del servicio.
 
-3. **Impacto positivo en la industria médica:** Al proporcionar acceso a servicios de asistencia y asesoramiento especializados en anestesiología, la plataforma puede contribuir significativamente a mejorar la práctica médica en este campo. Esperamos llegar a 530 usuarios (entre médicos y estudiantes), ya que al ofrecer defensa legal a médicos y asesoramiento a estudiantes de medicina interesados en la especialidad de peritaje en anestesiología, tu proyecto puede ayudar a mejorar la calidad de la atención médica y a garantizar estándares más altos en esta área crucial de la medicina. Este impacto positivo no solo beneficia a los individuos directamente involucrados, sino que también puede tener repercusiones más amplias en la comunidad médica en general.
+3. **Promoción del transporte sostenible en entornos urbanos:** Con el objetivo de impactar positivamente en la movilidad urbana, esperamos que 700 usuarios adopten el uso regular de nuestras bicicletas en el primer trimestre, reduciendo así el uso de vehículos motorizados en al menos un 5% entre nuestra base de usuarios. Al promover el uso de bicicletas como una alternativa saludable y ecológica, nuestra startup no solo contribuirá a la reducción de emisiones de carbono, sino que también ayudará a descongestionar el tráfico en áreas urbanas. Este impacto positivo se alineará con las iniciativas de sostenibilidad de las ciudades, potenciando colaboraciones futuras con gobiernos locales y organizaciones que promuevan la movilidad sostenible.
 
 **Features Outcomes**
 
-1. **Acceso a Asistencia Especializada:**
+1. **Acceso a Transporte Eficiente y Económico:**
 
-   - **Chat en vivo con expertos:** Implementar una función de chat en vivo que permita a los usuarios comunicarse directamente con expertos en anestesiología para obtener asesoramiento inmediato y específico.
-   - **Biblioteca de recursos:** Desarrollar una sección de la plataforma que contenga una amplia variedad de recursos, como artículos, estudios de casos y preguntas frecuentes, que los usuarios puedan consultar para obtener información detallada sobre temas relacionados con la anestesiología y el peritaje.
+   - **Reserva anticipada de bicicletas:** Implementar una función en la aplicación que permita a los usuarios reservar bicicletas con anticipación, garantizando que tendrán una bicicleta disponible en el momento y lugar que la necesiten, especialmente durante horas pico.
+   - **Mapa interactivo de estaciones:** Desarrollar un mapa en tiempo real dentro de la aplicación que muestre la ubicación y disponibilidad de bicicletas en todas las estaciones cercanas, permitiendo a los usuarios encontrar fácilmente una bicicleta libre.
 
-2. **Oportunidades Laborales:**
+2. **Flexibilidad y Conveniencia en el Transporte:**
 
-   - **Tablero de empleo y proyectos:** Crear un espacio dedicado en la plataforma donde los usuarios puedan buscar y postularse a oportunidades laborales, como trabajos permanentes, proyectos freelance o posiciones de consultoría en el campo de la anestesiología.
-   - **Perfiles profesionales:** Permitir a los usuarios crear perfiles profesionales detallados que muestren su experiencia, habilidades y disponibilidad laboral, facilitando así la búsqueda y selección por parte de posibles empleadores o clientes.
+   - **Planes de suscripción personalizables:** Ofrecer opciones de suscripción que los usuarios puedan personalizar según sus necesidades, como la cantidad de horas o días de uso, permitiendo así una mayor flexibilidad y adaptabilidad a diferentes estilos de vida.
+   - **Historial y estadísticas de uso:** Crear una sección en la aplicación donde los usuarios puedan ver su historial de uso, incluyendo la cantidad de kilómetros recorridos, calorías quemadas y emisiones de CO2 ahorradas, incentivando un uso continuo del servicio.
 
-3. Educación y Orientación Profesional:
+3. **Promoción de un Estilo de Vida Saludable y Sostenible:**
 
-   - **Sesiones de orientación en línea:** Organizar sesiones regulares de orientación en línea dirigidas por expertos en anestesiología, donde los usuarios puedan aprender sobre diversos aspectos del peritaje y hacer preguntas en tiempo real.
-   - **Foro de discusión y mentoría:** Establecer un espacio de discusión en la plataforma donde los usuarios puedan interactuar entre ellos y con profesionales experimentados en el campo, compartiendo conocimientos, experiencias y consejos útiles.
+   - **Desafíos y recompensas:** Implementar desafíos regulares que motiven a los usuarios a usar las bicicletas con mayor frecuencia, como metas semanales o mensuales, con recompensas en forma de descuentos o promociones exclusivas.
+
+   - **Contenido educativo sobre movilidad sostenible:** Crear una sección en la plataforma con artículos, videos y recursos que eduquen a los usuarios sobre los beneficios de la movilidad sostenible y cómo el uso regular de bicicletas contribuye a un estilo de vida saludable y al cuidado del medio ambiente.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
