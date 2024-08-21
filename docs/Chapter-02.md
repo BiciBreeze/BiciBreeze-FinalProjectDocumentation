@@ -107,7 +107,7 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-Para enfrentar a los competidores...
+Para posicionar BiciBreeze frente a competidores, se pueden implementar estrategias como alianzas con universidades para ofrecer descuentos exclusivos a estudiantes, programas de referidos para incentivar la recomendación entre amigos, y campañas de marketing digital enfocadas en resaltar la conveniencia y accesibilidad sobre el modelo de suscripción mensual. Además, se pueden organizar eventos y actividades en campus universitarios para generar comunidad y fidelizar a nuestros clientes. También, podemos considerar ofrecer servicios adicionales como talleres de mantenimiento de bicicletas o rutas guiadas para estudiantes, diferenciándonos aún más de la competencia.
 
 ## 2.2. Entrevistas
 La entrevista se realiza con el objetivo de obtener mayor información acerca de los usuarios y del servicio de tecnología. De este modo, podremos conocer cuál es sus puntos de vista respecto a los servicios electrónicos, qué problemas tuvieron y cuáles son sus expectativas frente a los nuevos servicios educativos virtuales.
