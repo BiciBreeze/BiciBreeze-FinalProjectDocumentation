@@ -242,3 +242,33 @@ Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la 
 -El público general busca alternativas al tráfico y al transporte público, con opciones recreativas y familiares.
 
 -BiciBreeze puede ofrecer soluciones a ambos segmentos, destacando la conveniencia, el ahorro y la sostenibilidad.
+
+### 2.3.3. User Journey Mapping
+
+Creamos los User Journey Maps con el objetivo de comprender la experiencia de nuestro cliente al utilizar nuestra aplicación. Por ende, cada paso que el cliente realiza se detalla minuciosamente, incluyendo el proceso, los obstáculos encontrados y los pensamientos o emociones que surgen a raíz de ello.
+
+**_Segmento 1: Estudiantes Universitarios_**
+
+
+**_Segmento 2: Publico General_**
+
+
+### 2.3.4. Empathy Mapping
+Para el desarrollo de los Empathy Map hemos utilizado la información recopilada en base a nuestros dos User Personas que representan nuestro segmento.
+
+**_Segmento 1: Estudiantes Universitarios_**
+
+
+**_Segmento 2: Publico General_**
+
+
+### 2.3.5. As-is Scenario Mapping
+Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuesto en los User Persona. De tal modo, hemos conseguido realizar los As-Is mapping para los segmentos dados.
+
+**_Segmento 1: Estudiantes Universitarios_**
+
+
+**_Segmento 2: Publico General_**
+
+
+### 2.3.6. Ubiquitous Language
