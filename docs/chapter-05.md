@@ -56,8 +56,8 @@ Estructura de las ramas:
 
 - Main Branch: Rama principal de la aplicación. Se encuentran las versiones más actualizadas y estables de desarrollo, por medio de un proceso de admisión se agregan cambios de otras ramas derivadas.
 - Develop Branch: Esta rama es donde se reunen de las demás ramas los avances del proyecto y desarollo. Se evalúan todos los cambios para ser registradas posteriormente en nuestra rama main.
-- CapituloI Branch: En esta rama se actualizará toda la información y documentación del capítulo I del producto presentado.
-- CapituloII Branch: En esta rama se actualizará toda la información y documentación del capítulo II del producto presentado.
-- CapituloIII Branch: En esta rama se actualizará toda la información y documentación del capítulo III del producto presentado.
-- CapituloIV Branch: En esta rama se actualizará toda la información y documentación del capítulo IV del producto presentado.
-- CapituloV Branch: En esta rama se actualizará toda la información y documentación del capítulo V del producto presentado.
+- Chapter-01 Branch: En esta rama se actualizará toda la información y documentación del capítulo 1 del producto presentado.
+- Chapter-02 Branch: En esta rama se actualizará toda la información y documentación del capítulo 2 del producto presentado.
+- Chapter-03 Branch: En esta rama se actualizará toda la información y documentación del capítulo 3 del producto presentado.
+- Chapter-04 Branch: En esta rama se actualizará toda la información y documentación del capítulo 4 del producto presentado.
+- Chapter-05 Branch: En esta rama se actualizará toda la información y documentación del capítulo 5 del producto presentado.
