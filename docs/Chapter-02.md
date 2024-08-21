@@ -144,9 +144,55 @@ Las entrevistas buscan entender mejor a los usuarios y cómo usan la tecnología
 - ¿Qué precio por hora o por día consideras razonable para alquilar una bicicleta en buen estado?
 
 ### 2.2.2. Registro de entrevistas 
+En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
+Link de la entrevista:
+
+#### Entrevista 1:
+
+**Nombre y Apellido:**
+
+**Edad:** 
+
+**Distrito:** 
+
+**Screenshot de la Entrevista:**
+
+**Timelapse:** [Inicio: , Fin: ]
+
+**Resumen de la Entrevista:**
+
+#### Entrevista 2:
+
+**Nombre y Apellido:**
+
+**Edad:** 
+
+**Distrito:** 
+
+**Screenshot de la Entrevista:**
+
+**Timelapse:** [Inicio: , Fin: ]
+
+**Resumen de la Entrevista:**
+
+#### Entrevista 3:
+
+**Nombre y Apellido:**
+
+**Edad:** 
+
+**Distrito:** 
+
+**Screenshot de la Entrevista:**
+
+**Timelapse:** [Inicio: , Fin: ]
+
+**Resumen de la Entrevista:**
 
 ### 2.2.3. Análisis de entrevistas
 
 
 ## 2.3. Needfinding
+Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
+Esta información también nos ayudará a realizar los esquemas para las secciones de User Personas, User Task Matrix, User Journey Maps y el Empathy Mapping.
