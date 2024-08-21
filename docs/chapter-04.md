@@ -68,6 +68,121 @@ El color azul claro es un tono fresco y relajante asociado con la serenidad, la 
  <img src="https://i.postimg.cc/9fgfbzM9/Adobe-Color-colors.jpg" alt="colors" style="width: 80%; height: auto;">
 </div>
 
-## Web Style Guidelines
+## 4.1.2.Web Style Guidelines
 
 En nuestra guía de estilo web, los colores seleccionados juegan un papel esencial en la creación de una experiencia de usuario coherente y efectiva. El blanco se utiliza predominantemente para los fondos y elementos de diseño, promoviendo una sensación de limpieza y claridad, y asegurando que el contenido sea visualmente accesible. El negro, con su elegancia y sofisticación, se emplea en textos principales y detalles clave, ofreciendo un fuerte contraste que facilita la lectura y resalta la información importante. El gris claro, con su tono neutro y suave, se usa para fondos y textos secundarios, aportando calma y estabilidad, y creando un equilibrio visual que mejora la fluidez de la experiencia de lectura. El azul claro, asociado con serenidad y creatividad, se aplica a elementos destacados y llamados a la acción, atrayendo la atención del usuario y guiando la interacción hacia acciones clave. Cada color ha sido elegido para contribuir a una interfaz visualmente atractiva y funcional, centrada en mejorar la navegación y la comunicación con el usuario.
+
+# 4.2. Information Architecture
+
+## 4.2.1. Organization Systems
+
+La organización de BiciBreeze se presenta a través de un diagrama que detalla la estructura de navegación y funcionalidad de la aplicación. Comienza en la Página de Aterrizaje, desde la cual los usuarios pueden acceder a la opción de Iniciar Sesión o Registrarse, con una opción adicional para Recuperar Contraseña. Una vez que los usuarios inician sesión, son dirigidos a la página Inicio (Home), que actúa como el núcleo del sistema, desde donde se ramifican múltiples secciones principales: Perfil, Bicicletas, Barra de Navegación (Navbar), Configuración (Settings), Alquiler (Rent) y Pago (Payment). Cada una de estas secciones incluye subfuncionalidades; por ejemplo, dentro del perfil, el usuario puede editar su información, y dentro de la configuración, puede modificar sus preferencias o cerrar sesión. La sección de bicicletas permite ver el estado y los elementos disponibles, mientras que la sección de pago ofrece diferentes tipos de transacciones, como efectivo, tarjetas de crédito y billeteras virtuales. El sistema es intuitivo y está diseñado para guiar al usuario a través de diversas opciones relacionadas con el alquiler de bicicletas, configuración de perfil, y gestión de pagos de una manera organizada y accesible.
+
+<div style="text-align: center;">
+ <img src="https://i.postimg.cc/gjXL88Hr/Bici-Breeze-Organization-Systems-1.png" alt="O-S" style="width: 100%; height: auto;">
+</div>
+
+Link : https://www.figma.com/board/wkDJMnrYZRK1yRuETAcpAW/BiciBreeze---Organization-Systems?node-id=0-1&t=CZPkzLf8DCWgiMKp-1
+
+## 4.2.2. Labeling Systems
+__Landing Page__: Etiqueta para la página de inicio donde los usuarios pueden seleccionar entre iniciar sesión, registrarse o recuperar una contraseña.
+
+__Login:__ Etiqueta para la función que permite a los usuarios ingresar a la aplicación.
+
+__Home:__ Etiqueta para la página principal que actúa como el centro de navegación de la aplicación una vez que el usuario ha iniciado sesión.
+
+__Profile:__ Incluye etiquetas adicionales como:
+
+__Edit User:__ Para editar la información del usuario.
+Config: Para configuraciones relacionadas con el perfil del usuario.
+User: Para la información del usuario organizada por país y ciudad.
+Bikes: Contiene las etiquetas:
+
+__Items:__ Para los artículos disponibles.
+State: Para el estado de las bicicletas.
+Navbar: Etiqueta para la barra de navegación, que incluye opciones como:
+
+__Rent:__ Para alquilar bicicletas.
+Support: Para soporte al usuario.
+Payment: Para opciones de pago.
+Config: Para configuraciones generales.
+Settings: Incluye etiquetas como:
+
+__Edit Config:__ Para editar configuraciones.
+Sign Out: Para cerrar sesión.
+Rent: Etiqueta para la función de alquiler, que incluye:
+
+__Time:__ Para gestionar el tiempo de alquiler, con opciones de fecha.
+Expired: Para indicar cuando un alquiler ha expirado.
+Payment: Etiqueta para la gestión de pagos, con opciones de:
+
+__Type:__ Para seleccionar el tipo de pago, como efectivo, tarjetas de débito/crédito o billetera virtual.
+Subscription: Para gestionar suscripciones.
+
+## 4.2.3. SEO Tags and Meta
+
+Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de MedicDefense.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- Meta Tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="BiciBreeze, la mejor opción de alquiler de bicicletas para universitarios. Alquila tu bici de manera rápida y económica con nuestro servicio exclusivo para estudiantes.">
+    <meta name="keywords" content="alquiler de bicicletas, bicicletas para universitarios, bicis para estudiantes, alquiler de bicis, transporte universitario, BiciBreeze, bicis económicas">
+    <meta name="author" content="BiciBreeze">
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="BiciBreeze | Alquiler de Bicicletas para Universitarios">
+    <meta property="og:description" content="Descubre BiciBreeze, la plataforma ideal para alquilar bicicletas, diseñada especialmente para estudiantes universitarios. ¡Ahorra dinero y viaja de manera sostenible!">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.bicibreeze.com">
+    <meta property="og:image" content="https://www.bicibreeze.com/images/landing-page.jpg">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="BiciBreeze | Alquiler de Bicicletas para Universitarios">
+    <meta name="twitter:description" content="Alquila una bicicleta de manera rápida y económica con BiciBreeze, el servicio exclusivo para estudiantes universitarios.">
+    <meta name="twitter:image" content="https://www.bicibreeze.com/images/landing-page.jpg">
+    
+    <!-- Title Tag -->
+    <title>BiciBreeze | Alquiler de Bicicletas para Universitarios</title>
+
+<body>
+    <!-- Codigo de la landing...... -->
+
+</body>
+</html>
+```
+
+##  4.2.4. Searching Systems
+
+__Ubicación:__ Se encuentra de manera prominente en la página principal para que los usuarios puedan buscar bicicletas, estaciones cercanas, o cualquier otra información relacionada con facilidad.
+
+__Funcionalidad:__ Permite la búsqueda por palabras clave, como “bicicletas eléctricas en Campus 1” o “estaciones cerca de mí”.
+Filtros de Búsqueda:
+
+__Ubicación:__ Filtrar por ciudad, campus universitario, o áreas específicas.
+
+__Disponibilidad:__ Muestra bicicletas disponibles en tiempo real.
+Tipo de Bicicleta: Filtrar según el tipo de bicicleta, como estándar, eléctrica, etc.
+
+__Rango de Precios:__ Permite al usuario seleccionar un rango de precios que se ajuste a su presupuesto.
+
+__Duración del Alquiler:__ Permite seleccionar la duración del alquiler, ya sea por día, semana, o mes.
+
+__Presentación:__ Los resultados se muestran en una lista o un mapa interactivo, proporcionando detalles como disponibilidad, ubicación exacta, y precios.
+
+__Ordenamiento:__ Los resultados pueden ordenarse por cercanía, precio, o popularidad.
+Sugerencias de Búsqueda:
+
+## 4.2.5. Navigation Systems
+
+En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte superior de cada página.
+
+<div style="text-align: center;">
+ <img src="https://i.postimg.cc/x1RyPrzm/Captur1e21a.png" alt="N-S" style="width: 100%; height: auto;">
+</div>
+
