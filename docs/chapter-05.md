@@ -44,3 +44,20 @@ Los miembros del equipo accederán a través de la línea de comandos en sus sis
 
 - GitHub: Plataforma basada en la nube que alojará los repositorios de código del proyecto. Facilitará la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo. Los miembros 
 del equipo accederán a través de sus navegadores web. Ruta de referencia: https://github.com/
+
+### 5.1.2. Source Code Management
+
+Nuestro proyecto seguirá los lineamientos del modelo GitFlow para controlar las versiones, donde utilizaremos GitHub como plataforma y sistema para el control de dichas versiones. Links del repositorio de GitHub:
+
+- Link de la organización: https://github.com/BiciBreeze
+- Link del informe del proyecto: https://github.com/BiciBreeze/Informe-TF
+
+Estructura de las ramas:
+
+- Main Branch: Rama principal de la aplicación. Se encuentran las versiones más actualizadas y estables de desarrollo, por medio de un proceso de admisión se agregan cambios de otras ramas derivadas.
+- Develop Branch: Esta rama es donde se reunen de las demás ramas los avances del proyecto y desarollo. Se evalúan todos los cambios para ser registradas posteriormente en nuestra rama main.
+- CapituloI Branch: En esta rama se actualizará toda la información y documentación del capítulo I del producto presentado.
+- CapituloII Branch: En esta rama se actualizará toda la información y documentación del capítulo II del producto presentado.
+- CapituloIII Branch: En esta rama se actualizará toda la información y documentación del capítulo III del producto presentado.
+- CapituloIV Branch: En esta rama se actualizará toda la información y documentación del capítulo IV del producto presentado.
+- CapituloV Branch: En esta rama se actualizará toda la información y documentación del capítulo V del producto presentado.
