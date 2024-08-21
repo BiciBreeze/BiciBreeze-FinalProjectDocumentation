@@ -119,7 +119,7 @@ Payment: Etiqueta para la gestión de pagos, con opciones de:
 __Type:__ Para seleccionar el tipo de pago, como efectivo, tarjetas de débito/crédito o billetera virtual.
 Subscription: Para gestionar suscripciones.
 
-## 4.2.3. SEO Tags and Meta
+### 4.2.3. SEO Tags and Meta
 
 Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de MedicDefense.
 
@@ -186,3 +186,42 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
  <img src="https://i.postimg.cc/x1RyPrzm/Captur1e21a.png" alt="N-S" style="width: 100%; height: auto;">
 </div>
 
+## 4.3. Landing Page UI Design
+ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing Page y el Website que seria toda la parte visible por parte del cliente.
+
+ ### 4.3.1. Landing Page Wireframe
+
+<div style="text-align: center;">
+ <img src="https://i.postimg.cc/vH4pjzzD/Bici-Breeze-Landing-Wireframe.png" alt="N-S" style="width: 100%; height: auto;">
+</div>
+
+Link para una mejor visualizacion: https://www.figma.com/board/XDFNTPooV7cVGfn8XCMCUi/BiciBreeze-Landing-Wireframe?node-id=0-1&t=eBl4gROdPEGX94Gr-1
+
+ ### 4.3.2. Landing Page Mock-up
+
+ <div style="text-align: center;">
+ <img src="https://i.postimg.cc/gJ0Mhztr/l1.png" alt="N-S" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.postimg.cc/pV3HP4yK/l2.png" alt="N-S" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.postimg.cc/28vfyGBM/l3.png" alt="N-S" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.postimg.cc/gcCfChBD/l4.png" alt="N-S" style="width: 100%; height: auto;">
+</div> 
+
+
+Link del Figma: https://www.figma.com/design/dgS00phyaRs0jgU5GPVZUx/Landing-Page?node-id=0-1&t=qjbIEII7v76RjMSe-1
+
+
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.
+### 4.4.2. Web Applications Wireflow Diagrams.
+### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications User Flow Diagrams.
+## 4.5. Web Applications Prototyping
