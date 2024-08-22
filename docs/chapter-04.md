@@ -121,7 +121,7 @@ Subscription: Para gestionar suscripciones.
 
 ### 4.2.3. SEO Tags and Meta
 
-Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de MedicDefense.
+Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de BiciBreeze.
 
 ```html
 <!DOCTYPE html>
@@ -180,7 +180,7 @@ Sugerencias de Búsqueda:
 
 ## 4.2.5. Navigation Systems
 
-En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte superior de cada página.
+En la plataforma de BiciBreeze, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte superior de cada página.
 
 <div style="text-align: center;">
  <img src="https://i.postimg.cc/x1RyPrzm/Captur1e21a.png" alt="N-S" style="width: 100%; height: auto;">
