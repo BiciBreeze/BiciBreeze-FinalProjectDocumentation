@@ -17,7 +17,7 @@ Relación de Integrantes:
 - Noriega Suschenko, Anatoly Andrey  - U202211813  
 - Flores Avalos, Diego - U20221B394  
 - Apaza Morales, Fabricio - U201922146  
-
+- Dueñas Canales Leonardo Manuel - U202117475 
 
 ## Historial de Versiones
 
