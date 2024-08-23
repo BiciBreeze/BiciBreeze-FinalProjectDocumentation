@@ -16,33 +16,27 @@
 ##### 3.2. User Stories.
 |User Story ID | Título  | Descripción   |  Criterios de aceptación | Prioridad  |
 | -------- | ------------ | ------------ | ------------ | ------------ |
-| US01  |  Ver Informacion |  Como usuario, quiero ver un diseño moderno y atractivo en la landing page, para sentir confianza y motivación a usar el servicio. |  Escenario: Acceso a información de BiziBreeze: Dado que el usuario está interesado en alquilar bicicletas, cuando ingrese al sitio web de BiziBreeze, entonces se mostrará información detallada sobre los planes de suscripción del sitio web y como esta funciona. |  f |
-|  US02 |   |   |   |   |
-| US03  |   |   |   |   |
-|  US04 |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| US01  |  Ver informacion |  Como usuario, quiero ver un diseño moderno y atractivo en la landing page, para sentir confianza y motivación a usar el servicio. |  Escenario:  **Dado que** el usuario está interesado en alquilar bicicletas, **cuando** ingrese al sitio web de BiziBreeze, **entonces** se mostrará información detallada sobre los planes de suscripción del sitio web y como esta funciona. |  f |
+|  US02 | Tener informacion clara  | Como usuario, quiero una interfaz clara y fácil de usar, para reservar una bicicleta rápidamente.  |  Escenario: **Dado que** estoy en la página de reservas, **cuando** interactúe con los elementos, **entonces** el proceso de reserva debería completarse en menos de 3 pasos. |   |
+| US03  | Ver ubicaciones de bicicleta  | Como usuario, quiero ver un mapa interactivo con estaciones de bicicletas, para localizar la bicicleta más cercana.  | Escenario: **Dado que** quiero buscar una bicicleta, **cuando** abra el mapa, **entonces** debería visualizar las estaciones disponibles en tiempo real.  |   |
+|  US04 |  Recibir notificaciones | Como usuario, quiero recibir notificaciones en tiempo real sobre la disponibilidad de bicicletas, para estar informado de los cambios.  | Escenario: **Dado que** he configurado notificaciones, **cuando** haya un cambio en la disponibilidad, **entonces** debería recibir una notificación inmediata.  |   |
+|  US05 | Dejar opiniones  | Como usuario, quiero poder compartir mi experiencia en la plataforma, para ayudar a otros usuarios a tomar decisiones.  | Escenario:** Dado que** he usado el servicio, **cuando** intente dejar una reseña,** entonces** debería poder hacerlo fácilmente desde mi perfil.  |   |
+|  US06 |  Iniciar Sesion  | Como usuario, quiero un sistema de autenticación rápido y seguro, para iniciar sesión sin problemas.  | Escenario:  **Dado que** quiero iniciar sesión, **cuando** ingrese mis credenciales, **entonces** debería poder acceder a mi cuenta en menos de 5 segundos. |   |
+|  US07 | Personalizacion de Perfil  | Como usuario, quiero poder personalizar mi perfil, para ajustar mis preferencias de uso y comunicación.  | Escenario: **Dado que** quiero cambiar mis datos, **cuando** edite mi perfil, **entonces** los cambios deberían reflejarse inmediatamente.  |   |
+|  US08 | Promocion especial  |  Como usuario universitario, quiero una suscripcion especial, para animarme y animar a muchos estudiantes en adquirir los servicios.  | Escenario: **Dado que** vaya a adquirir los servicios,** cuando**  me registre con mi correo institucional, **entonces** se aplicara una suscripcion especial para estudiantes. |   |
+|  US09 |  Seguridad de datos |  Como usuario, quiero que mis datos personales estén seguros, para sentirme confiado al usar la plataforma. | Escenario: **Dado que** he proporcionado mis datos, **cuando** los guarde en la plataforma, **entonces** deberían estar encriptados y almacenados de manera segura.  |   |
+|  US10 | Alerta de suscripcion  |  Como usuario, quiero recibir un recordatorio antes de que mi reserva expire, para evitar perder mi bicicleta reservada. | Escenario: **Dado que** he reservado una bicicleta, **cuando** esté cerca de expirar la reserva, **entonces** debería recibir un recordatorio.  |   |
+|  US11 |   |   |   |   |
+|  US12 |   |   |   |   |
+|  US13 |   |   |   |   |
+|  US14 |   |   |   |   |
+|  US15 |   |   |   |   |
+|  US16 |   |   |   |   |
+|  US17 |   |   |   |   |
+|  US18 |   |   |   |   |
+|  US19 |   |   |   |   |
+| US20  |   |   |   |  F |
+
 
 
 
