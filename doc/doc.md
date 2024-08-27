@@ -46,23 +46,23 @@ g
 
 | Orden  |User Story ID  | Titulo   | Descripcion | Prioridad |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|  1 | US01 | Registro de cuenta  |  |   |
-| 2  | US02 |   |  |   |
-| 3  | US03 |   |  |   |
-|  4 | US04 |   |  |   |
-| 5  | US05 |   |  |   |
-|  6 | US06 |   |  |   |
-| 7 | US07 |   |  |   |
-| 8  | US08  |   |  |   |
-| 9  | US09 |   |  |   |
-| 10  | US10 |   |  |   |
-| 11  |  US11|   |  |   |
-|  12 | US12 |   |  |   |
-| 13  | US13 |   |  |   |
-| 14  |US14  |   |  |   |
-|15   |US15  |   |  |   |
-|16   | US16 |   |  |   |
-| 17  | US17 |   |  |   |
-| 18  | US18 |   |  |   |
-| 19  |US19  |   |  |   |
-| 20  | US20 |   |  |   |
+|  1 | US01 | Registro de cuenta  | Como ciudadano que le interesa el servicio, quiero poder registrarme facilemente al sitio web recibiendo un correo de confirmacion, para poder disfrutar los beneficios. | Alta  |
+| 2  | US02 | Ver informacion  |Como usuario, quiero ver un diseño moderno y atractivo en la landing page, para sentir confianza y motivación a usar el servicio.  | Alta  |
+| 3  | US03 | Tener informacion clara  |Como usuario, quiero una interfaz clara y fácil de usar, para reservar una bicicleta rápidamente.  | Alta  |
+|  4 | US04 | Ver ubicaciones de bicicleta  |Como usuario, quiero ver un mapa interactivo con estaciones de bicicletas, para localizar la bicicleta más cercana.  |  Alta |
+| 5  | US05 | Recibir notificaciones  | Como usuario, quiero recibir notificaciones en tiempo real sobre la disponibilidad de bicicletas, para estar informado de los cambios. | Alta  |
+|  6 | US06 | Dejar opiniones  | Como usuario, quiero poder compartir mi experiencia en la plataforma, para ayudar a otros usuarios a tomar decisiones. |  Media |
+| 7 | US07 |  Iniciar Sesion | Como usuario, quiero un sistema de autenticación rápido y seguro, para iniciar sesión sin problemas. |  Alta |
+| 8  | US08  | Personalizacion de Perfil  |Como usuario, quiero poder personalizar mi perfil, para ajustar mis preferencias de uso y comunicación.  | Alta  |
+| 9  | US09 | Promocion especial  |Como usuario universitario, quiero una suscripcion especial, para animarme y animar a muchos estudiantes en adquirir los servicios.  |  Alta |
+| 10  | US10 | Seguridad de datos  |  Como usuario, quiero que mis datos personales estén seguros, para sentirme confiado al usar la plataforma.| Alta  |
+| 11  |  US11| Alerta de suscripcion  | Como usuario, quiero recibir un recordatorio antes de que mi reserva expire, para evitar perder mi bicicleta reservada. | Alta  |
+|  12 | US12 |Reportes de problemas   | Como usuario, quiero poder reportar problemas con las bicicletas, para que se solucionen rápidamente. |  Alta |
+| 13  | US13 | Reportes de uso  |Como usuario, quiero que el sistema genere reportes automáticos de mi uso mensual, para poder revisar mi actividad y gastos.  |  Alta |
+| 14  |US14  | Preferencias de usuario  | Como usuario, quiero que el sistema mantenga un registro de mis preferencias de viaje, para que el proceso de alquiler sea más rápido en el futuro. |  Alta |
+|15   |US15  | Idioma preferido  | Como usuario, quiero acceder a la landing page en mi idioma preferido, para entender mejor la información proporcionada.  | Media  |
+|16   | US16 |  Cambio de contraseña |Como usuario, quiero recibir un correo electrónico de confirmación después de cambiar mi contraseña, para estar seguro de que la actualización se ha realizado correctamente.  | Alta  |
+| 17  | US17 | Contraseña Encriptada  |Como usuario, quiero que mi contraseña sea encriptada en la base de datos, para proteger la seguridad de mi cuenta.  |Alta   |
+| 18  | US18 |Recordar inicio de sesion   |Como usuario, quiero que el sistema me recuerde mi sesión iniciada incluso después de cerrar y reabrir BiziBreeze, para evitar tener que iniciar sesión repetidamente.  |  Alta |
+| 19  |US19  |  Agregar Favoritos | Como usuario, quiero poder agregar bicicletas a una lista de favoritos, para alquilar rápidamente mis bicicletas preferidas sin tener que buscarlas cada vez. |Alta   |
+| 20  | US20 | Historial  |	Como usuario, quiero poder ver un historial de todas mis reservas y alquileres anteriores, para revisar cuándo y dónde he usado el servicio.  |Media   |
