@@ -267,8 +267,10 @@ Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuest
 
 **_Segmento 1: Estudiantes Universitarios_**
 
+![alt text](<../assets/imgs/as-is estudiantes.jpg>)
 
 **_Segmento 2: Publico General_**
 
+![alt text](<../assets/imgs/as-is publico.jpg>)
 
 ### 2.3.6. Ubiquitous Language
