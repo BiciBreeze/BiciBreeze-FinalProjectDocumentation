@@ -249,6 +249,7 @@ Creamos los User Journey Maps con el objetivo de comprender la experiencia de nu
 
 **_Segmento 1: Estudiantes Universitarios_**
 
+![alt text](<../assets/imgs/Jorge Diaz Malca - Journey.png>)
 
 **_Segmento 2: Publico General_**
 
