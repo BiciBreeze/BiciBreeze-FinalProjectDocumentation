@@ -259,6 +259,7 @@ Para el desarrollo de los Empathy Map hemos utilizado la información recopilada
 
 **_Segmento 1: Estudiantes Universitarios_**
 
+![alt text](<../assets/imgs/Jorge Diaz Malca - Empathy.png>)
 
 **_Segmento 2: Publico General_**
 
