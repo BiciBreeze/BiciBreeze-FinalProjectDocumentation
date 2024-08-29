@@ -202,7 +202,7 @@ Para desarrollar BiciBreeze, hemos entrevistado a estudiantes y usuarios de bici
 
 **_Segmento 1: Estudiantes Universitarios_**
 
-
+![alt text](<../assets/imgs/Jorge Diaz Malca - User Persona.png>)
 
 **_Segmento 2: Publico General_**
 
