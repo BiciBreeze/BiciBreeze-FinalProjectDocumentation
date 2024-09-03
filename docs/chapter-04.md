@@ -223,67 +223,69 @@ Link del Figma: https://www.figma.com/design/dgS00phyaRs0jgU5GPVZUx/Landing-Page
 ### 4.4.1. Web Applications Wireframes.
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/b5fcBS6/Bici-Breeze-1-1.png" alt="w-w" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze%20(1)-1.png?alt=media&token=5644e9c2-9bd4-4427-bf79-c45344705d75" alt="w-w" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/PtymdLx/Bici-Breeze-1-3.png" alt="w-w" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze%20(1)-2.png?alt=media&token=c2493ccf-1aff-4fc1-b201-368a574effdf" alt="w-w" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/yQKyhLw/Bici-Breeze-1-6.png" alt="w-w" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze%20(1)-3.png?alt=media&token=a1b3aa5e-c4ed-41fa-9070-41001c4f1e09" alt="w-w" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/hyQ1Cqz/Bici-Breeze-1-2.png" alt="w-w" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze%20(1)-4.png?alt=media&token=2b03826b-bfcb-47c3-9d4c-a443ff6922be" alt="w-w" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/h8D4KwK/Bici-Breeze-1-4.png" alt="w-w" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze%20(1)-6.png?alt=media&token=02144bbd-ab80-406f-8525-f5c1c0ca9dcb" alt="w-w" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/VNJQGhD/Bici-Breeze-1-7.png" alt="w-w" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze%20(1)-7.png?alt=media&token=3fc098b0-592e-4b60-bfbf-566c250c013b" alt="w-w" style="width: 100%; height: auto;">
 </div> 
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/Gdvb9Y9/Bicycle-Rental-Website-Flow-Diagram.png" alt="W-D" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBicycle%20Rental%20Website%20Flow%20Diagram.png?alt=media&token=ab6a4cb1-0426-47ed-ac08-ca46247de8ee" alt="W-D" style="width: 100%; height: auto;">
 </div> 
 
 ### 4.4.2. Web Applications Mock-ups.
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/fFjQ1cP/Bici-Breeze-page-0001.jpg" alt="W-D" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze_page-0001.jpg?alt=media&token=b32040e1-6820-4a4c-ad57-20fd64180858" alt="W-D" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/f03cX4n/Bici-Breeze-page-0002.jpg" alt="W-D" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze_page-0002.jpg?alt=media&token=41c41a7d-5d31-4929-8438-9a9169c8bfdb" alt="W-D" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/gwg7fHb/Bici-Breeze-page-0003.jpg" alt="W-D" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze_page-0003.jpg?alt=media&token=62b32e44-ba65-4bff-b8a8-655910f02ca9" alt="W-D" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/xHfzcFt/Bici-Breeze-page-0005.jpg" alt="W-D" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze_page-0004.jpg?alt=media&token=4ae7c393-4f2f-4035-a560-1786a9ba754b" alt="W-D" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/9HFMc45/Bici-Breeze-page-0006.jpg" alt="W-D" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze_page-0005.jpg?alt=media&token=a46043fa-ee3a-4a6c-a005-9618b17f5f5d" alt="W-D" style="width: 100%; height: auto;">
 </div> 
 
 <div style="text-align: center;">
- <img src="https://i.ibb.co/bvBChvg/Bici-Breeze-page-0004.jpg" alt="W-D" style="width: 100%; height: auto;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FBiciBreeze_page-0006.jpg?alt=media&token=5c884a10-eaf8-47c2-ab08-56fc13229ad0" alt="W-D" style="width: 100%; height: auto;">
 </div> 
 
 link del figma: https://www.figma.com/design/JjHab3CxGK7SuZxPxuMcvf/BiciBreeze?node-id=0-1&t=wXsOiHwXeh4QXj6x-1 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
-<a href="https://ibb.co/JtbWy64"><img src="https://i.ibb.co/V9h0QnZ/userflowbiccibreeze.png" alt="userflowbiccibreeze" border="0"></a>
+<div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fuserflowbiccibreeze.png?alt=media&token=ec28cba3-8b47-4306-aa09-6b6fb79582ac" alt="pr" style="width: 100%; height: auto;">
+</div> 
 
 
 ## 4.5. Web Applications Prototyping
@@ -292,4 +294,7 @@ link del figma: https://www.figma.com/design/JjHab3CxGK7SuZxPxuMcvf/BiciBreeze?n
  <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2F821-1x-shots-so.png?alt=media&token=2cbf53f4-cf80-4474-90dd-4b245b2368ce" alt="pr" style="width: 100%; height: auto;">
 </div> 
 
-<a href="https://ibb.co/f12sCk3"><img src="https://i.ibb.co/5M6P5rQ/88-1x-shots-so.png" alt="88-1x-shots-so" border="0"></a>
+
+<div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2F88_1x_shots_so.png?alt=media&token=a53e9234-5e0b-4b8b-b9b7-8e25df87b7a1" alt="pr" style="width: 100%; height: auto;">
+</div> 
