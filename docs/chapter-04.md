@@ -221,7 +221,65 @@ Link del Figma: https://www.figma.com/design/dgS00phyaRs0jgU5GPVZUx/Landing-Page
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/b5fcBS6/Bici-Breeze-1-1.png" alt="w-w" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/PtymdLx/Bici-Breeze-1-3.png" alt="w-w" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/yQKyhLw/Bici-Breeze-1-6.png" alt="w-w" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/hyQ1Cqz/Bici-Breeze-1-2.png" alt="w-w" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/h8D4KwK/Bici-Breeze-1-4.png" alt="w-w" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/VNJQGhD/Bici-Breeze-1-7.png" alt="w-w" style="width: 100%; height: auto;">
+</div> 
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/Gdvb9Y9/Bicycle-Rental-Website-Flow-Diagram.png" alt="W-D" style="width: 100%; height: auto;">
+</div> 
+
 ### 4.4.2. Web Applications Mock-ups.
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/fFjQ1cP/Bici-Breeze-page-0001.jpg" alt="W-D" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/f03cX4n/Bici-Breeze-page-0002.jpg" alt="W-D" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/gwg7fHb/Bici-Breeze-page-0003.jpg" alt="W-D" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/xHfzcFt/Bici-Breeze-page-0005.jpg" alt="W-D" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/9HFMc45/Bici-Breeze-page-0006.jpg" alt="W-D" style="width: 100%; height: auto;">
+</div> 
+
+<div style="text-align: center;">
+ <img src="https://i.ibb.co/bvBChvg/Bici-Breeze-page-0004.jpg" alt="W-D" style="width: 100%; height: auto;">
+</div> 
+
+link del figma: https://www.figma.com/design/JjHab3CxGK7SuZxPxuMcvf/BiciBreeze?node-id=0-1&t=wXsOiHwXeh4QXj6x-1 
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping
