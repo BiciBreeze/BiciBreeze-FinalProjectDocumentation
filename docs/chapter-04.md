@@ -282,4 +282,9 @@ Link del Figma: https://www.figma.com/design/dgS00phyaRs0jgU5GPVZUx/Landing-Page
 link del figma: https://www.figma.com/design/JjHab3CxGK7SuZxPxuMcvf/BiciBreeze?node-id=0-1&t=wXsOiHwXeh4QXj6x-1 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+<a href="https://ibb.co/JtbWy64"><img src="https://i.ibb.co/V9h0QnZ/userflowbiccibreeze.png" alt="userflowbiccibreeze" border="0"></a>
+
+
 ## 4.5. Web Applications Prototyping
+
