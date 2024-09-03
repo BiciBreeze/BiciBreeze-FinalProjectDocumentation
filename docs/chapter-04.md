@@ -288,6 +288,8 @@ link del figma: https://www.figma.com/design/JjHab3CxGK7SuZxPxuMcvf/BiciBreeze?n
 
 ## 4.5. Web Applications Prototyping
 
-<a href="https://ibb.co/L9PVsXG"><img src="https://i.ibb.co/3SsgP9J/821-1x-shots-so.png" alt="821-1x-shots-so" border="0"></a>
+<div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2F821-1x-shots-so.png?alt=media&token=2cbf53f4-cf80-4474-90dd-4b245b2368ce" alt="pr" style="width: 100%; height: auto;">
+</div> 
 
 <a href="https://ibb.co/f12sCk3"><img src="https://i.ibb.co/5M6P5rQ/88-1x-shots-so.png" alt="88-1x-shots-so" border="0"></a>
