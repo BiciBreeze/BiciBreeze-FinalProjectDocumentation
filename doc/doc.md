@@ -38,10 +38,8 @@
 | US20  |  Historial | Como usuario, quiero poder ver un historial de todas mis reservas y alquileres anteriores, para revisar cuándo y dónde he usado el servicio.  |Escenario: **Dado que** he realizado reservas y alquileres en el pasado, **cuando** accedo a la sección de historial en mi perfil, **entonces** debería ver una lista cronológica de todas mis reservas y alquileres, incluyendo fechas, horas, y ubicaciones de uso.  |
 
 ##### 3.3. Impact Mapping.
+![impact maping](https://github.com/user-attachments/assets/e6ed7a08-7655-4a1d-b618-369816d65117)
 
-
-
-g
 ##### 3.4. Product Backlog.
 
 | Orden  |User Story ID  | Titulo   | Descripcion | Prioridad |
