@@ -148,19 +148,27 @@ En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrev
 
 Link de la entrevista:
 
+**Segmento 1: Universitarios**
+
 #### Entrevista 1:
 
-**Nombre y Apellido:**
+**Nombre y Apellido:** Gabriel Garcia
 
-**Edad:** 
+**Edad:** 21 años
 
-**Distrito:** 
+**Distrito:** Carabayllo
 
 **Screenshot de la Entrevista:**
+
+![alt text](<../assets/imgs/Entrevista Gabo.png>)
 
 **Timelapse:** [Inicio: , Fin: ]
 
 **Resumen de la Entrevista:**
+El entrevistado es Gabriel García, un estudiante de 21 años que vive en Carabayllo. Usa principalmente su iPhone y prefiere navegadores como Safari, Opera y Chrome. Para comunicarse, prefiere llamadas telefónicas y redes sociales como Instagram, Facebook y WhatsApp. Sus marcas que han influenciado en el son Adidas y Apple ya que han tenido un gran impacto en él.
+
+Entre los desafíos para ir a la universidad menciona el tráfico excesivo, que retrasa su llegada. Aunque no usa bicicletas frecuentemente, estaría dispuesto a suscribirse a un servicio de alquiler de bicicletas para ahorrar tiempo y contribuir al medio ambiente. Considera importantes la calidad de las bicicletas, estaciones bien ubicadas y un precio accesible. Estaría dispuesto a pagar 30 soles al mes por el servicio y valora promociones en alimentos, descuentos en ropa y conexiones con servicios como gimnasios.
+
 
 #### Entrevista 2:
 
@@ -189,6 +197,33 @@ Link de la entrevista:
 **Timelapse:** [Inicio: , Fin: ]
 
 **Resumen de la Entrevista:**
+
+
+**Segmento 2: Profesionales Urbanos**
+
+**Nombre y Apellido:** Jeremy Morales
+
+**Edad:** 24 años
+
+**Distrito:** Surquillo
+
+**Screenshot de la Entrevista:**
+
+![alt text](<../assets/imgs/Entrevista Jeremy.png>)
+
+**Timelapse:** [Inicio: , Fin: ]
+
+**Resumen de la Entrevista:**
+El entrevistado es un joven de 24 años que vive en el distrito de Surquillo. Es soltero pero tiene pareja actualmente. Terminó la universidad hace un par de años y trabaja como analista de datos en Culqui.
+
+En cuanto a herramientas tecnológicas, utiliza una PC con sistema operativo Windows en su trabajo debido a los programas que emplea, como SQL, Visual Code y Trino. Para su uso personal, utiliza un celular con sistema operativo Android. Prefiere el navegador Brave por su eficiencia y menor consumo de datos, aunque en su trabajo usa Google Chrome. Para comunicarse, prefiere los mensajes por WhatsApp porque le permite responder en su propio tiempo.
+
+Las marcas que han tenido mayor impacto en él son Samsung, Microsoft, Xbox y Sennheiser. Estas marcas están relacionadas con sus intereses en tecnología, trabajo y entretenimiento.
+
+Sobre el uso de la bicicleta, la utiliza como medio de transporte dos veces por semana para ir al trabajo, ya que le toma aproximadamente media hora y es más eficiente y económico que otros medios de transporte como el Metropolitano. Las principales barreras que encuentra al usar la bicicleta en la ciudad son la falta de ciclovías y la poca consideración de los conductores hacia los ciclistas.
+
+Le atrae la idea de un servicio de alquiler de bicicletas que permita tomar una bicicleta en un punto y dejarla en otro, con múltiples estaciones disponibles. De igual modo, valora especialmente los descuentos, promociones y planes de suscripción mensual o anual que ofrezcan precios más atractivos. A la vez, considera razonable pagar cinco soles por hora o entre cuarenta y sesenta soles por día para alquilar una bicicleta en buen estado.
+
 
 ### 2.2.3. Análisis de entrevistas
 
