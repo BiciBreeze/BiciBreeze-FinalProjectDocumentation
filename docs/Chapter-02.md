@@ -356,3 +356,14 @@ Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuest
 ![alt text](<../assets/imgs/as-is publico.jpg>)
 
 ### 2.3.6. Ubiquitous Language
+
+- **Estación de bicicletas:** Punto físico donde las bicicletas se encuentran disponibles para alquilar o devolver.
+
+- **Suscripción:** Modelo de pago en el que un usuario paga de manera anticipada por el uso del servicio por un período de tiempo.
+
+- **Mantenimiento:** Estado o proceso en el que una bicicleta está siendo revisada o reparada.
+
+- **App:** Plataforma móvil que los usuarios utilizan para gestionar sus alquileres, reservas y suscripciones.
+
+- **Alquiler:** Acción en la que un usuario toma una bicicleta para su uso temporal.
+
