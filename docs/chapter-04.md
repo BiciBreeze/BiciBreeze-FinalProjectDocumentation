@@ -303,5 +303,27 @@ link del figma: https://www.figma.com/design/JjHab3CxGK7SuZxPxuMcvf/BiciBreeze?n
 
 Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nuestro software, basándonos en el enfoque de desarrollo de Domain Driven Design.
 
-<a href="https://ibb.co/gwzhKyp"><img src="https://i.ibb.co/3WBQZ1q/Captura-de-pantalla-2024-09-05-223516.png" alt="ContextDiagram" border="0"></a>
- 
+
+ <div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-SystemContext-001.png?alt=media&token=d71c4b9a-a4d0-4dcb-8962-a1ec6f5f24df" alt="pr" style="width: 100%; height: auto;">
+</div> 
+
+ <div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-Container-001.png?alt=media&token=4425b3bf-880b-438b-84a1-15bb677fa35c" alt="pr" style="width: 100%; height: auto;">
+</div> 
+
+ <div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsUserProfile.png?alt=media&token=86a560b1-40d3-4d1e-b63e-f051f411a2c2" alt="pr" style="width: 100%; height: auto;">
+</div> 
+
+ <div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsSubscription.png?alt=media&token=cc227841-4062-486a-ab08-268e255e5997" alt="pr" style="width: 100%; height: auto;">
+</div> 
+
+ <div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsRegistration.png?alt=media&token=a3f5de65-281d-4b16-af4f-7d965212973f" alt="pr" style="width: 100%; height: auto;">
+</div> 
+
+ <div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsPayment.png?alt=media&token=8a08dcd5-9081-4d6c-b7be-c1f2d90cfdce" alt="pr" style="width: 100%; height: auto;">
+</div> 
