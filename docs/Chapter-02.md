@@ -280,7 +280,9 @@ Para desarrollar BiciBreeze, hemos entrevistado a estudiantes y usuarios de bici
 
 ![alt text](<../assets/imgs/Jorge Diaz Malca - User Persona.png>)
 
-**_Segmento 2: Publico General_**
+**_Segmento 2: Profesional urbano_**
+
+![alt text](<../assets/imgs/Alex Brocca.png>)
 
 ### 2.3.2. User Task Matrix
 
@@ -299,7 +301,7 @@ Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la 
 | Lidiar con el tráfico y la congestión	     |Alta                    | Diaria                 
 | Preocuparse por la seguridad al viajar de noche                    |Media                     | Ocasionalmente    
 
-**_Segmento 2: Publico General_**
+**_Segmento 2: Profesional urbano_**
 
 | Tareas                                                        | Universitario/a Importancia   | Universitario/a  Frecuencia               |
 |---------------------------------------------------------------|--------------------------|--------------------------
@@ -327,8 +329,9 @@ Creamos los User Journey Maps con el objetivo de comprender la experiencia de nu
 
 ![alt text](<../assets/imgs/Jorge Diaz Malca - Journey.png>)
 
-**_Segmento 2: Publico General_**
+**_Segmento 2: Profesional urbano_**
 
+![alt text](<../assets/imgs/Alex Brocca - Journey.png>)
 
 ### 2.3.4. Empathy Mapping
 Para el desarrollo de los Empathy Map hemos utilizado la información recopilada en base a nuestros dos User Personas que representan nuestro segmento.
@@ -337,8 +340,9 @@ Para el desarrollo de los Empathy Map hemos utilizado la información recopilada
 
 ![alt text](<../assets/imgs/Jorge Diaz Malca - Empathy.png>)
 
-**_Segmento 2: Publico General_**
+**_Segmento 2: Profesional urbano_**
 
+![alt text](<../assets/imgs/Alex Brocca - empathy.png>)
 
 ### 2.3.5. As-is Scenario Mapping
 Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuesto en los User Persona. De tal modo, hemos conseguido realizar los As-Is mapping para los segmentos dados.
@@ -347,7 +351,7 @@ Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuest
 
 ![alt text](<../assets/imgs/as-is estudiantes.jpg>)
 
-**_Segmento 2: Publico General_**
+**_Segmento 2: Profesional urbano_**
 
 ![alt text](<../assets/imgs/as-is publico.jpg>)
 
