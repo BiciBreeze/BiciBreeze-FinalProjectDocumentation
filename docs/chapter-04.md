@@ -302,4 +302,7 @@ link del figma: https://www.figma.com/design/JjHab3CxGK7SuZxPxuMcvf/BiciBreeze?n
 ## 4.6 Domain Driven Software Architecture.
 
 Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nuestro software, basándonos en el enfoque de desarrollo de Domain Driven Design.
- <img src="https://ibb.co/gwzhKyp" alt="dc" style="width: 100%; height: auto;">
+<div style="text-align: center;">
+<img src="https://ibb.co/gwzhKyp" alt="dc" style="width: 100%; height: auto;">
+</div> 
+ 
