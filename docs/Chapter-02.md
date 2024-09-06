@@ -151,7 +151,7 @@ Link de la entrevista:
 
 ![alt text](<../assets/imgs/Entrevista Gabo.png>)
 
-**Timelapse:** [Inicio: , Fin: ]
+**Timelapse:** [Inicio: 00:00, Fin: 06:53]
 
 **Resumen de la Entrevista:**
 El entrevistado es Gabriel García, un estudiante de 21 años que vive en Carabayllo. Usa principalmente su iPhone y prefiere navegadores como Safari, Opera y Chrome. Para comunicarse, prefiere llamadas telefónicas y redes sociales como Instagram, Facebook y WhatsApp. Sus marcas que han influenciado en el son Adidas y Apple ya que han tenido un gran impacto en él.
@@ -161,31 +161,37 @@ Entre los desafíos para ir a la universidad menciona el tráfico excesivo, que 
 
 #### Entrevista 2:
 
-**Nombre y Apellido:**
+**Nombre y Apellido:** Diego Flores
 
-**Edad:** 
+**Edad:** 20 años
 
-**Distrito:** 
+**Distrito:** Barranco
 
 **Screenshot de la Entrevista:**
 
-**Timelapse:** [Inicio: , Fin: ]
+![alt text](<../assets/imgs/Entrevista Diego.png>)
+
+**Timelapse:** [Inicio: 06:53, Fin: 10:28]
 
 **Resumen de la Entrevista:**
+Diego Flores, un estudiante de 20 años que vive en Barranco, utiliza principalmente un iPhone y una PC con Windows, y prefiere navegadores como Chrome y Opera GX. Para comunicarse, opta por redes sociales y encuentros presenciales. Las marcas que más influyen en él son Adidas, Apple y Microsoft. En cuanto a transporte, enfrenta problemas de tráfico y tiempo al desplazarse a la universidad, lo que lo motiva a usar medios alternativos como bicicletas y scooters. Le interesa un servicio de suscripción de bicicletas, considerando cruciales las ubicaciones de las estaciones y un precio accesible, estando dispuesto a pagar 10 soles mensuales. También valora promociones como viajes gratuitos tras un número determinado de viajes, lo que lo haría más atractivo para estudiantes como él.
 
 #### Entrevista 3:
 
-**Nombre y Apellido:**
+**Nombre y Apellido:** Joseph Ulises Yacho Peralta
 
-**Edad:** 
+**Edad:** 20 años
 
-**Distrito:** 
+**Distrito:** Rimac 
 
 **Screenshot de la Entrevista:**
 
-**Timelapse:** [Inicio: , Fin: ]
+![alt text](<../assets/imgs/Entrevista Mathifa.png>)
+
+**Timelapse:** [Inicio: 10:28, Fin: 16:46]
 
 **Resumen de la Entrevista:**
+Joseph Ulises Yacho Peralta, de 20 años y estudiante de ingeniería de software en su sexto ciclo, utiliza principalmente su laptop para sus actividades diarias, llevándola consigo a la universidad y otros lugares. Prefiere navegar con Chrome y Edge y para comunicarse opta por llamadas virtuales a través de Zoom o Meet. En cuanto a transporte, su principal preocupación es el riesgo de robo al llevar su laptop en el transporte público, por lo que usa su carnet universitario para reducir costos. Aunque no tiene bicicleta propia, ocasionalmente utiliza la de su hermano para moverse por su zona. Está interesado en un servicio de suscripción de bicicletas, siempre que las estaciones estén a una distancia conveniente. Le gustan las bicicletas clásicas como las BMX, y estaría dispuesto a pagar entre 20 y 30 soles al mes, ya que actualmente gasta unos 60 soles en pasajes. Además, le gustaría ver promociones como descuentos por meses de uso o sorteos para suscriptores recurrentes, lo cual haría el servicio más atractivo para él y otros estudiantes.
 
 
 **Segmento 2: Profesionales Urbanos**
@@ -200,7 +206,7 @@ Entre los desafíos para ir a la universidad menciona el tráfico excesivo, que 
 
 ![alt text](<../assets/imgs/Entrevista Jeremy.png>)
 
-**Timelapse:** [Inicio: , Fin: ]
+**Timelapse:** [Inicio: 16:46, Fin: 24:38]
 
 **Resumen de la Entrevista:**
 El entrevistado es un joven de 24 años que vive en el distrito de Surquillo. Es soltero pero tiene pareja actualmente. Terminó la universidad hace un par de años y trabaja como analista de datos en Culqui.
