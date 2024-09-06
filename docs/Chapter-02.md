@@ -135,7 +135,7 @@ Las entrevistas buscan entender mejor a los usuarios y cómo usan la tecnología
 ### 2.2.2. Registro de entrevistas 
 En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
-Link de la entrevista:
+Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/ET-wXZaUgZ5Bri_hw1N7cTgBe26622tOUkysmrLFjecIRA?e=5WUtQU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Segmento 1: Universitarios**
 
@@ -196,6 +196,8 @@ Joseph Ulises Yacho Peralta, de 20 años y estudiante de ingeniería de software
 
 **Segmento 2: Profesionales Urbanos**
 
+#### Entrevista 1:
+
 **Nombre y Apellido:** Jeremy Morales
 
 **Edad:** 24 años
@@ -204,7 +206,7 @@ Joseph Ulises Yacho Peralta, de 20 años y estudiante de ingeniería de software
 
 **Screenshot de la Entrevista:**
 
-![alt text](<../assets/imgs/Entrevista Jeremy.png>)
+![Entrevista Jeremy](<../assets/imgs/Entrevista Jeremy.png>)
 
 **Timelapse:** [Inicio: 16:46, Fin: 24:38]
 
@@ -218,6 +220,50 @@ Las marcas que han tenido mayor impacto en él son Samsung, Microsoft, Xbox y Se
 Sobre el uso de la bicicleta, la utiliza como medio de transporte dos veces por semana para ir al trabajo, ya que le toma aproximadamente media hora y es más eficiente y económico que otros medios de transporte como el Metropolitano. Las principales barreras que encuentra al usar la bicicleta en la ciudad son la falta de ciclovías y la poca consideración de los conductores hacia los ciclistas.
 
 Le atrae la idea de un servicio de alquiler de bicicletas que permita tomar una bicicleta en un punto y dejarla en otro, con múltiples estaciones disponibles. De igual modo, valora especialmente los descuentos, promociones y planes de suscripción mensual o anual que ofrezcan precios más atractivos. A la vez, considera razonable pagar cinco soles por hora o entre cuarenta y sesenta soles por día para alquilar una bicicleta en buen estado.
+
+#### Entrevista 2:
+
+**Nombre y Apellido:**Mariela Sanchez
+
+**Edad:** 39 años
+
+**Distrito:** Callao
+
+**Screenshot de la Entrevista:**
+
+![Entrevista Mariela](<../assets/imgs/Entrevista Mathifa2.png>)
+
+**Timelapse:** [Inicio: 24:38, Fin: 29:22]
+
+**Resumen de la Entrevista:**
+Mariela Sánchez, una mujer de 39 años que vive en el Callao y está casada, nos comenta que trabaja actualmente y usa principalmente su celular Android y una laptop con Windows. Prefiere el navegador Chrome y las reuniones presenciales para comunicarse con sus amistades y en temas de trabajo.
+
+En cuanto a su uso de la bicicleta, Mariela la utiliza 2-3 veces por semana. Prefiere este medio de transporte por su rapidez, los beneficios para la salud y su contribución al medio ambiente. Sin embargo, enfrenta desafíos como la falta de respeto a las ciclovías por parte de algunos conductores y el mal mantenimiento de estas vías.
+
+Respecto al servicio de alquiler de bicicletas, Mariela prefiere alquilar por días y valora la asistencia en caso de problemas mecánicos, como llantas ponchadas o fallos en los cambios. Considera razonable un precio de 5-6 soles por día y sugiere promociones para uso frecuente de lunes a viernes, con la posibilidad de dejar la bicicleta el sábado para mantenimiento.
+
+De tal modo, la entrevista se realizó para entender mejor las preferencias y necesidades de los usuarios y así mejorar el servicio. A su vez, se destacó la importancia de contar con asistencia técnica y precios competitivos, lo cual ayudará a la startup a ofrecer un servicio más atractivo y eficiente para sus clientes.
+
+#### Entrevista 3:
+
+**Nombre y Apellido:** Miguel Polo
+
+**Edad:** 19 años
+
+**Distrito:** Centro de Lima
+
+**Screenshot de la Entrevista:**
+
+![Entrevista Miguel](<../assets/imgs/Entrevista Mathifa3.png>)
+
+**Timelapse:** [Inicio: 29:22, Fin: 33:41]
+
+**Resumen de la Entrevista:**
+Miguel Polo es un joven de 19 años que trabaja en Tailoy y está soltero. Vive en Lima y, a pesar de su juventud, muestra una gran responsabilidad y organización en su vida diaria. Utiliza principalmente una computadora con Windows para sus actividades tecnológicas y prefiere los navegadores Opera y Chrome para navegar por Internet. En cuanto a la comunicación, Miguel se inclina por usar WhatsApp para mensajes de texto y Google Meet para videoconferencias, lo que indica su comodidad tanto con la tecnología como con la interacción digital.
+
+Miguel es un usuario frecuente de la bicicleta, utilizándola todos los días para ir y volver del trabajo. Esta elección refleja su preferencia por la eficiencia y la rapidez, ya que considera que la bicicleta es un medio de transporte más rápido y sencillo en comparación con el microbús. Sin embargo, también enfrenta desafíos significativos, como la inseguridad vial y la falta de respeto hacia las ciclovías por parte de algunos conductores, lo que demuestra su conciencia sobre los problemas de infraestructura y seguridad en la ciudad.
+
+En su tiempo libre, es probable que Miguel disfrute de actividades al aire libre, dado su uso diario de la bicicleta. Su elección de herramientas tecnológicas y su preferencia por la comunicación digital sugieren que es una persona adaptada a las nuevas tecnologías y que valora la eficiencia en su vida cotidiana. Además, su disposición a participar en la entrevista y compartir sus opiniones indica que es una persona colaborativa y abierta a contribuir con ideas para mejorar servicios que beneficien a la comunidad.
 
 
 ### 2.2.3. Análisis de entrevistas
