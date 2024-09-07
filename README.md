@@ -15,15 +15,16 @@
  Nombre del Producto: BiciBreeze
 Relación de Integrantes:  
 - Vasquez Requejo, Augusto Mathias Leonardo - U20221A955   
-- Dueñas Canales Leonardo Manuel - U202117475 
-- Casaverde De La Cruz Ernesto David -U20221B657
-- Perez Tuesta Gabriel - U202321281
+- Dueñas Canales, Leonardo Manuel - U202117475 
+- Casaverde De La Cruz, Ernesto David -U20221B657
+- Reyes Trujillano, Fabian Alonso
+- Perez Tuesta, Gabriel - U202321281
 ## Historial de Versiones
 
 
 | Versión | Fecha      | Autores                     | Descripción de Modificaciones |
 |---------|------------|-----------------------------|-------------------------------|
-| 1era    |  07/09/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales, Gabriel Pérez Tuesta |Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V                          |
+| 1era    |  07/09/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales, Gabriel Pérez Tuesta, Fabian Reyes Trujillano, Ernesto Casaverde De La Cruz |Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V                          |
 
 # Índice
 
