@@ -25,7 +25,7 @@ Relación de Integrantes:
 
 | Versión | Fecha      | Autores                     | Descripción de Modificaciones |
 |---------|------------|-----------------------------|-------------------------------|
-| 1era    |  07/09/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales, Gabriel Pérez Tuesta, Fabian Reyes Trujillano, Ernesto Casaverde De La Cruz |Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V                          |
+| 1era    |  07/09/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales, Gabriel Pérez Tuesta, Fabian Reyes Trujillano, Ernesto Casaverde De La Cruz, Dueñas Canales Leonardo Manuel |Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V                          |
 
 # Índice
 
