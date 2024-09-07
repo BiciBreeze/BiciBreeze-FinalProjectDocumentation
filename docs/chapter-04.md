@@ -68,7 +68,7 @@ El color azul claro es un tono fresco y relajante asociado con la serenidad, la 
  <img src="https://i.postimg.cc/9fgfbzM9/Adobe-Color-colors.jpg" alt="colors" style="width: 80%; height: auto;">
 </div>
 
-## 4.1.2.Web Style Guidelines
+## 4.1.2. Web Style Guidelines
 
 En nuestra guía de estilo web, los colores seleccionados juegan un papel esencial en la creación de una experiencia de usuario coherente y efectiva. El blanco se utiliza predominantemente para los fondos y elementos de diseño, promoviendo una sensación de limpieza y claridad, y asegurando que el contenido sea visualmente accesible. El negro, con su elegancia y sofisticación, se emplea en textos principales y detalles clave, ofreciendo un fuerte contraste que facilita la lectura y resalta la información importante. El gris claro, con su tono neutro y suave, se usa para fondos y textos secundarios, aportando calma y estabilidad, y creando un equilibrio visual que mejora la fluidez de la experiencia de lectura. El azul claro, asociado con serenidad y creatividad, se aplica a elementos destacados y llamados a la acción, atrayendo la atención del usuario y guiando la interacción hacia acciones clave. Cada color ha sido elegido para contribuir a una interfaz visualmente atractiva y funcional, centrada en mejorar la navegación y la comunicación con el usuario.
 
