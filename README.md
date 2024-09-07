@@ -5,7 +5,7 @@
 
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 ### INGENIERÍA DE SISTEMAS DE INFORMACIÓN Y  SOFTWARE
-### CICLO 2024-01
+### CICLO 2024-02
 
 
  Nombre del curso: Aplicaciones Web 
@@ -17,6 +17,7 @@ Relación de Integrantes:
 - Vasquez Requejo, Augusto Mathias Leonardo - U20221A955   
 - Dueñas Canales Leonardo Manuel - U202117475 
 - Casaverde De La Cruz Ernesto David -U20221B657
+- Perez Tuesta Gabriel - U202321281
 ## Historial de Versiones
 
 
