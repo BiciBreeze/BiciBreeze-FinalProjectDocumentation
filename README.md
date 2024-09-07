@@ -1,22 +1,18 @@
 # INFORME DEL TRABAJO FINAL
-![alt text](assets/imgs/upc.png)
+![alt text](../Informe-/logo%20upc.png)
 
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 ### INGENIERÍA DE SISTEMAS DE INFORMACIÓN Y  SOFTWARE
 ### CICLO 2024-01
 
 
- Nombre del curso: Desarrollo de Aplicaciones Open-Source  
- Sección: WX55  
- Nombre del Profesor: Angel Augusto Velasquez Nuñez  
- Nombre del StartUp: Testigos de Jehova  
- Nombre del Producto: MedicDefensed  
+ Nombre del curso: Aplicaciones Web 
+ Sección: SI92
+ Nombre del Profesor: Naldo Reupo-Musayon Gastulo 
+ Nombre del StartUp: BiciBreeze  
+ Nombre del Producto: BiciBreeze
 Relación de Integrantes:  
-- Vasquez Requejo, Augusto Mathias Leonardo - U20221A955  
-- Garcia Rodriguez,  Gabriel Stefano - U202018627  
-- Noriega Suschenko, Anatoly Andrey  - U202211813  
-- Flores Avalos, Diego - U20221B394  
-- Apaza Morales, Fabricio - U201922146  
+- Vasquez Requejo, Augusto Mathias Leonardo - U20221A955   
 - Dueñas Canales Leonardo Manuel - U202117475 
 
 ## Historial de Versiones
@@ -24,12 +20,7 @@ Relación de Integrantes:
 
 | Versión | Fecha      | Autores                     | Descripción de Modificaciones |
 |---------|------------|-----------------------------|-------------------------------|
-| 1era    | 12/04/2024 | Augusto Mathias Leonardo Vasquez Requejo, Gabriel Stefano Garcia Rodriguez, Anatoly Andrey Noriega Suschenko, Diego Flores Avalos, Fabricio Apaza Morales. |Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V                          |
-|         |            |                             |                    |
-|         |            |                             |                    |
-|         |            |                             |                   |
-|         |            |                             |                   |
-
+| 1era    |  07/09/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales. |Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V                          |
 
 # Índice
 
@@ -113,12 +104,6 @@ Relación de Integrantes:
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-    - [5.3. Validation Interviews](#53-validation-interviews)
-        - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-    - [5.4. Video About-the-Product](#54-video-about-the-product)
-    
 - [Conclusiones](#conclusiones)
     - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
     - [Video About-the-Team](#video-about-the-team)
@@ -130,6 +115,5 @@ Relación de Integrantes:
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |-----------------|--------------------|---------------------|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |                    |                     |
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.
-|                    |                     |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |**Augusto Mathias Leonardo Vasquez Requejo** <br> TB1: Startup profile, descripcion de la Startup, solution profile, Antecedentes y problematica, Lean UX process (Statements, Assumptions, Hyphotesis Statements), 3 Entrevistas, Software Configuration Management (development environment configuration, code management, style guide, deployment configuration). Además colaboré también en el desarrollo de los capitulos 2 y 3 aparte de lo antes mencionado.                  |                     |
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|**Augusto Mathias Leonardo Vasquez Requejo** <br> TB1: Startup profile, descripcion de la Startup, solution profile, Antecedentes y problematica, Lean UX process (Statements, Assumptions, Hyphotesis Statements), 3 Entrevistas, Software Configuration Management (development environment configuration, code management, style guide, deployment configuration). Además colaboré también en el desarrollo de los capitulos 2 y 3 aparte de lo antes mencionado.                    |                     |
