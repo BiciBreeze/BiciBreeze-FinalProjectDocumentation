@@ -268,6 +268,115 @@ En su tiempo libre, es probable que Miguel disfrute de actividades al aire libre
 
 ### 2.2.3. Análisis de entrevistas
 
+**_Segmento 1: Jovenes Universitarios_**
+
+**Edad:**
+
+21 años: 1, 33.3%
+20 años: 2, 66.6%
+
+De esto, se puede notar que la mayoría de los entrevistados (66.6%) tiene 20 años, mientras que solo el 33.3% tiene 21 años.
+
+**Distrito:**
+
+Carabayllo: 1, 33.3%
+Barranco: 1, 33.3%
+Rímac: 1, 33.3%
+
+Se observa que todos los entrevistados viven en distritos diferentes. Carabayllo y Rímac están más alejados del centro, mientras que Barranco está en una zona más céntrica de Lima.
+
+**Estado Civil:**
+
+Soltero: 3, 100%
+
+De esto, se determina que el 100% de los entrevistados es soltero.
+
+**Dispositivos:**
+iPhone: 2, 66.6% en celulares, 33.3% en general
+PC Windows: 2, 66.6% en computadoras, 33.3% en general
+Laptop Windows: 1, 33.3% en computadoras, 16.67% en general
+
+De esto, se puede notar que la mayoría (66.6%) utiliza iPhone como celular, y el 66.6% usa una PC con Windows, aunque el 33.3% también usa una laptop con Windows.
+
+**Navegadores:**
+
+Google Chrome: 3, 100%
+Opera (Opera GX): 2, 66.6%
+Safari: 1, 33.3%
+Edge: 1, 33.3%
+
+El 100% de los entrevistados usa Google Chrome. Además, el 66.6% utiliza Opera (incluyendo Opera GX), y Safari y Edge son usados por el 33.3% de los entrevistados, respectivamente.
+
+**Canales de Comunicación:**
+
+Redes sociales: 2, 66.6%
+Llamadas (telefónicas o virtuales): 2, 66.6%
+Encuentros presenciales: 1, 33.3%
+
+La mayoría de los entrevistados (66.6%) prefiere comunicarse mediante redes sociales o llamadas telefónicas o virtuales, mientras que un 33.3% prefiere los encuentros presenciales.
+
+**Marcas que le influencian:**
+
+Adidas: 2, 66.6%
+Apple: 2, 66.6%
+Microsoft: 1, 33.3%
+
+El 66.6% de los entrevistados está influenciado por marcas como Adidas y Apple. Solo un 33.3% menciona a Microsoft como marca influyente.
+
+**_Segmento 2: Profesionales Urbanos_**
+
+**Edad:**
+
+19 años: 1, 33.3%
+20 años: 1, 33.3%
+24 años: 1, 33.3%
+
+De esto, se puede notar que todos los entrevistados tienen edades distintas, representando cada uno un tercio del grupo.
+
+**Distrito:**
+
+Callao: 1, 33.3%
+Lima: 1, 33.3%
+Surquillo: 1, 33.3%
+
+Todos los entrevistados viven en distritos diferentes, lo que muestra una diversidad en la ubicación geográfica dentro de Lima y el Callao.
+
+**Estado Civil:**
+
+Soltero: 2, 66.6%
+Casado: 1, 33.3%
+
+De esto, se puede observar que la mayoría (66.6%) de los entrevistados es soltero, mientras que un tercio está casado.
+
+**Ocupación:**
+
+Trabaja: 3, 100%
+
+Todos los entrevistados están trabajando actualmente, a diferencia de los anteriores que eran estudiantes.
+
+**Dispositivos:**
+
+Celular Android: 2, 66.6%
+Celular (no especificado): 1, 33.3%
+Computadora con Windows: 3, 100%
+
+Todos los entrevistados usan una computadora con Windows. Además, la mayoría usa un celular Android.
+
+**Navegadores:**
+
+Chrome: 2, 66.6%
+Opera: 1, 33.3%
+Brave: 1, 33.3%
+
+De esto, se observa que Chrome es el navegador más utilizado, seguido por Opera y Brave, que son usados por un tercio de los entrevistados.
+
+**Canales de Comunicación:**
+
+WhatsApp: 2, 66.6%
+Google Meet: 1, 33.3%
+Reuniones presenciales: 1, 33.3%
+
+La mayoría de los entrevistados prefiere WhatsApp, mientras que Google Meet y las reuniones presenciales son utilizados por un tercio de los entrevistados.
 
 ## 2.3. Needfinding
 Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
