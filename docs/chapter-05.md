@@ -112,78 +112,454 @@ Para desplegar la landing page de BiciBreeze resultó necesario cumplir una seri
   <li>Cargar los archivos mediante un push a la rama main del repositorio.</li>
   <li>Verificar que se haya desplegado correctamente.</li>
 
+De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace. Enlace del Landing Page: https://bicibreeze.github.io/LandingPage/ 
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
 ### 5.2.1 Sprint 1
 
 #### 5.2.1.1 Sprint Planning 1
+Para este primer sprint nos enfocaremos en los tasks para la
+elaboración de la Landing Page. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-04-12</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">11:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Mathias Leonardo Vasquez R</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Mathias Vasquez, Fabricio Apaza, Leonardo Dueñas, Grabiel Tuesta, Fabian Reyes</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo del landing page para nuestro proyecto llamado BiciBreeze</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando landing pages</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Culminar el landing Page</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">6 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">9 Story Points</td>
+</tr>
+</table>
+
+### 5.2.1.2. Sprint Backlog 1
 
 <table>
-  
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">5</td>
+    <td colspan="2">Visualización de lista de tipos de suscripción</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
+    <td colspan="3">Como visitador del alding page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">16</td>
+    <td colspan="2">Sección de Creadores</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Mathias</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">13</td>
+    <td colspan="2">Visualización de servicios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir sección de servicios</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">14</td>
+    <td colspan="2">Sección de contacto</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Añadir sección de contacto</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">15</td>
+    <td colspan="2">Sección nosotros</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Añadir sección nosotros</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">16</td>
+    <td colspan="2">Sección de inicio</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Añadir sección de inicio</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+#### 5.2.1.2 Sprint Backlog 1
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">5</td>
+    <td colspan="2">Visualización de lista de tipos de suscripción</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
+    <td colspan="3">Como visitador del alding page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">16</td>
+    <td colspan="2">Sección de Creadores</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Mathias</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">13</td>
+    <td colspan="2">Visualización de servicios</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir sección de servicios</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">14</td>
+    <td colspan="2">Sección de contacto</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Añadir sección de contacto</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">15</td>
+    <td colspan="2">Sección nosotros</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Añadir sección nosotros</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">16</td>
+    <td colspan="2">Sección de inicio</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Añadir sección de inicio</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.2.1.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">b6d10b1</td>
+        <td colspan="2">feat: added contact section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+        <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">4808ace</td>
+        <td colspan="2">feat: Added "Our Services" code</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+     <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">168d5f0</td>
+        <td colspan="2">chore: initial commit</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">7ace2eb</td>
+        <td colspan="2">fix: updated image errors</td>
+        <td colspan="2">-</td>
+        <td colspan="2">10/04/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">b96e52c</td>
+        <td colspan="2">fix: updated menu.js</td>
+        <td colspan="2">-</td>
+        <td colspan="2">10/04/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">0ad72ce</td>
+        <td colspan="2">feat: add 'About Us' and 'Our Services' sections to landing page</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+</table>
+
+### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+**Unit Tests**
+
+Test de visualización de lista de tipos de suscripción
+
+- Clase relacionada: SubscriptionService
+
+- Comportamiento: Verificar que la función para mostrar la lista de tipos de suscripción funciona correctamente.
+
+Test de visualización de servicios
+
+- Clase relacionada: ServiceController
+
+- Comportamiento: Verificar que la sección de servicios se muestra correctamente en la página principal.
+
+Test de visualización de sección de contacto
+
+- Clase relacionada: ContactController
+
+- Comportamiento: Verificar que la sección de contacto se muestra correctamente en la página principal.
+
+Test de visualización de sección nosotros
+
+- Clase relacionada: AboutUsController
+
+- Comportamiento: Verificar que la sección nosotros se muestra correctamente en la página principal.
+
+Test de visualización de sección de inicio
+
+- Clase relacionada: NavigationController
+
+- Comportamiento: Verificar que la barra de navegación se muestra correctamente en la página principal.
+
+<table>
   <thead>
     <tr>
-      <th colspan="2">Sprint #1</th>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th colspan="2">Sprint Planning Background</th>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>168d5f0532985817301307d0eb0e651ebb233a77</td>
+      <td>initial commit</td>
+      <td>- Created initial commit for landing page</td>
+      <td>2024-04-06</td>
     </tr>
     <tr>
-      <td>Date</td>
-      <td></td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>4808acedb5738c031b71416e6ea0fff5d057e0e5</td>
+      <td>Added "Our Services"</td>
+      <td>- created our services section to landing page</td>
+      <td>2024-04-06</td>
     </tr>
     <tr>
-      <td>Time</td>
-      <td></td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>b6d10b1525acdd2e4914c5de25d2ecb836884e94</td>
+      <td>added contact section</td>
+      <td>- created our contact section to landing page</td>
+      <td>2024-04-06</td>
     </tr>
     <tr>
-      <td>Location</td>
-      <td></td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>555441bd8dc434640170aae69d2f517df739251a</td>
+      <td>Added "About us" and "Our Services"</td>
+      <td>- Created About us and Our Services to landing page</td>
+      <td>2024-04-06</td>
     </tr>
     <tr>
-      <td>Prepared by</td>
-      <td></td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>a778131e10a50a903dfd234b986164615c9871e2</td>
+      <td>Added creators section</td>
+      <td>- Created Creators to landing page</td>
+      <td>2024-04-08</td>
     </tr>
     <tr>
-      <td>Atendees (to planning meeting)</td>
-      <td></td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>2d479db24e63fa3b3e24f141b8bfc56d5efc2883</td>
+      <td>update creators section</td>
+      <td>- update creators section to landing page</td>
+      <td>2024-04-09</td>
     </tr>
     <tr>
-      <td colspan="2">
-        <strong>Sprint n - 1 Review</strong>
-      </td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>7ace2ebbe27f9ea32f3e94c00e516610f996e68d</td>
+      <td>updated image errors</td>
+      <td>- Resolved image errors by updating references or fixing issues, ensuring proper display of images</td>
+      <td>2024-04-10</td>
     </tr>
     <tr>
-      <td>Summary</td>
-      <td>
-      </td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>5b77d4e726f5b1b0dac3a9b6f17c8731562d9608</td>
+      <td>updated contact section</td>
+      <td>- Enhanced the contact section by updating its functionality or improving user experience</td>
+      <td>2024-04-10</td>
     </tr>
     <tr>
-      <td colspan="2">
-        <strong>Sprint n - 1 Retrospective</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>Summary</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <strong>Sprint Goal and User Stories</strong>
-      </td>
-    </tr>
-    <tr>
-      <td>Sprint 1 Velocity</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Sum of Story Points</td>
-      <td></td>
+      <td>Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>b96e52c2884c042e2a27a25de945b9f263f9365a</td>
+      <td>updated menu.js</td>
+      <td>- Updated menu.js file, potentially to improve menu functionality or fix bugs</td>
+      <td>2024-04-10</td>
     </tr>
   </tbody>
 </table>
 
 
-#### 5.2.1.2 Sprint Backlog 1
+### 5.2.1.5. Execution Evidence for Sprint Review
+
+Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+
+**Sección de inicio**: Se implementó el Header de nuestra Landing Page.
+![alt text](../imgs/Inicio%20BICIBREEZE.png)
+**Sección de Nosotros**: Se implementó la sección de nosotros para describir un poco sobre quienes somos.
+![alt text](../imgs/Section%20BICIBREEZE.png)
+**Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
+![alt text](../imgs/Plans%20BICIBREEZE.png) 
+**Sección de comparacion de planes**: Se implementó la sección para comparar los tipos de suscripción.
+![alt text](../imgs/Plans%20comparation%20BICIBREEZE.png)
+**Sección de Testimonios**: Se añadió la sección de testimonios para demostrar la confianza de otros usuarios.
+![alt text](../imgs/Testimonios%20BICIBREEZE.png)
+**Sección de Beneficios**: Se añadió la sección de beneficios para demostrar la confianza de otros usuarios.
+![alt text](../imgs/Benefits%20BICIBREEZE.png)
+
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En este sprint solo se trabajó el landing page.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+
+![alt text](../imgs/software%20deploymentbici.png)
+
+Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
+
+![alt text](../imgs/deployment%20pages.png)
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+
+![alt text](../imgs/commits%20landing%20bici.png)
+
+Analiticas de Colaboración:
+
+![alt text](../imgs/colaborations%20bici.png)
