@@ -24,9 +24,9 @@
 
 |User Story ID | Título  | Descripción   |  Criterios de aceptación |  
 | -------- | ------------ | ------------ | ------------ | 
-|  US01 | Registro de cuenta  | Como ciudadano que le interesa el servicio, quiero poder registrarme facilemente al sitio web recibiendo un correo de confirmacion, para poder disfrutar los beneficios.  |  Escenario: **Dado que** quiero registrarme al sitio web, **cuando** ingrese a BiziBreeze **y**  le de click a la opcion de registro, **entonces** podre colocar mis datos **y** recibir un correo de verificacion de cuenta.   |   
-| US02  |  Ver informacion |  Como usuario, quiero ver un diseño moderno y atractivo en la landing page, para sentir confianza y motivación a usar el servicio. |  Escenario:  **Dado que** el usuario está interesado en alquilar bicicletas, **cuando** ingrese al sitio web de BiziBreeze, **entonces** se mostrará información detallada sobre los planes de suscripción del sitio web y como esta funciona. |  
-|  US03 | Tener informacion clara  | Como usuario, quiero una interfaz clara y fácil de usar, para reservar una bicicleta rápidamente.  |  Escenario: **Dado que** estoy en la página de reservas, **cuando** interactúe con los elementos, **entonces** el proceso de reserva debería completarse en menos de 3 pasos. |   
+|  US01 | Registro de cuenta  | Como visitante de la landing page, quiero poder registrarme facilemente al sitio web recibiendo un correo de confirmacion, para poder disfrutar los beneficios.  |  Escenario: **Dado que** quiero registrarme al sitio web, **cuando** ingrese a BiziBreeze **y**  le de click a la opcion de registro, **entonces** podre colocar mis datos **y** recibir un correo de verificacion de cuenta.   |   
+| US02  |  Ver informacion |  Como visitante de la landing page, quiero ver un diseño moderno y atractivo, para sentir confianza y motivación a usar el servicio. |  Escenario:  **Dado que** el usuario está interesado en alquilar bicicletas, **cuando** ingrese al sitio web de BiziBreeze, **entonces** se mostrará información detallada sobre los planes de suscripción del sitio web y como esta funciona. |  
+|  US03 | Tener informacion clara  | Como visitante de la landing page, quiero una interfaz clara y fácil de usar, para reservar una bicicleta rápidamente.  |  Escenario: **Dado que** estoy en la página de reservas, **cuando** interactúe con los elementos, **entonces** el proceso de reserva debería completarse en menos de 3 pasos. |   
 | US04  | Ver ubicaciones de bicicleta  | Como usuario, quiero ver un mapa interactivo con estaciones de bicicletas, para localizar la bicicleta más cercana.  | Escenario: **Dado que** quiero buscar una bicicleta, **cuando** abra el mapa, **entonces** debería visualizar las estaciones disponibles en tiempo real.  |   
 |  US05 |  Recibir notificaciones | Como usuario, quiero recibir notificaciones en tiempo real sobre la disponibilidad de bicicletas, para estar informado de los cambios.  | Escenario: **Dado que** he configurado notificaciones, **cuando** haya un cambio en la disponibilidad, **entonces** debería recibir una notificación inmediata.  |   
 |  US06| Dejar opiniones  | Como usuario, quiero poder compartir mi experiencia en la plataforma, para ayudar a otros usuarios a tomar decisiones.  | Escenario: **Dado que** he usado el servicio, **cuando** intente dejar una reseña, **entonces** debería poder hacerlo fácilmente desde mi perfil.  |   
@@ -46,7 +46,9 @@
 | US20  |  Historial | Como usuario, quiero poder ver un historial de todas mis reservas y alquileres anteriores, para revisar cuándo y dónde he usado el servicio.  |Escenario: **Dado que** he realizado reservas y alquileres en el pasado, **cuando** accedo a la sección de historial en mi perfil, **entonces** debería ver una lista cronológica de todas mis reservas y alquileres, incluyendo fechas, horas, y ubicaciones de uso.  |
 
 ##### 3.3. Impact Mapping.
-![impact maping](https://github.com/user-attachments/assets/e6ed7a08-7655-4a1d-b618-369816d65117)
+![ef2671ed-62cf-40fa-bf76-21ba165061fa](https://github.com/user-attachments/assets/f2ffc57b-c6b0-4825-a250-ebd132e30fbe)
+![defbe6f6-6376-4186-86b6-06af25db54b0](https://github.com/user-attachments/assets/6102ad1f-f238-42b6-aaa0-c64163bbe92e)
+
 
 ##### 3.4. Product Backlog.
 
