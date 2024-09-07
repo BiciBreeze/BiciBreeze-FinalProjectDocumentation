@@ -342,8 +342,159 @@ Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama vi
 
 Diagrama de clases:
 
+ <div style="text-align: center;">
+ <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2FDiagrama%20en%20blanco%20(16).png?alt=media&token=92f4957f-24b6-4faf-b03d-1b432c3fb499" alt="pr" style="width: 100%; height: auto;">
+</div> 
+
 ### 4.7.2. Class Dictionary
 Para la siguiente explicacion de los atributos de las clases, es crucial comprender los atributos de estas clases, ya que proporcionan información clave sobre la estructura y el funcionamiento del sistema. Documentar adecuadamente estos atributos facilita el desarrollo, la depuración y el mantenimiento del código, asegurando un sistema robusto y seguro
+
+##### Bicycle
+Descripción: Representa una bicicleta disponible para alquiler.
+
+Atributos:
+
+bicycleID: int
+model: String
+status: String
+
+Métodos:
+getBicycleID(): int
+getModel(): String
+getStatus(): String
+
+##### Rental
+Descripción: Gestiona la información de un alquiler de bicicleta.
+
+Atributos:
+
+rentalID: int
+startDate: Date
+endDate: Date
+userID: int
+bicycleID: int
+
+Métodos:
+getRentalID(): int
+getStartDate(): Date
+getEndDate(): Date
+getUserID(): int
+getBicycleID(): int
+
+##### Payment
+Descripción: Maneja los pagos asociados a los alquileres.
+
+Atributos:
+
+paymentID: int
+amount: double
+date: Date
+rentalID: int
+
+Métodos:
+getPaymentID(): int
+getAmount(): double
+getDate(): Date
+getRentalID(): int
+
+##### User
+Descripción: Representa a un usuario del sistema de alquiler.
+
+Atributos:
+
+userID: int
+name: String
+email: String
+phoneNumber: String
+
+Métodos:
+getUserID(): int
+getName(): String
+getEmail(): String
+getPhoneNumber(): String
+
+##### Feedback
+Descripción: Almacena comentarios y calificaciones de los usuarios sobre los alquileres.
+
+Atributos:
+
+feedbackID: int
+rating: int
+comment: String
+userID: int
+
+Métodos:
+getFeedbackID(): int
+getRating(): int
+getComment(): String
+getUserID(): int
+
+##### Maintenance
+Descripción: Registra las actividades de mantenimiento de las bicicletas.
+
+Atributos:
+
+maintenanceID: int
+description: String
+cost: double
+bicycleID: int
+
+Métodos:
+getMaintenanceID(): int
+getDescription(): String
+getCost(): double
+getBicycleID(): int
+
+##### Employee
+Descripción: Representa a un empleado del sistema de alquiler de bicicletas.
+
+Atributos:
+
+employeeID: int
+name: String
+position: String
+
+Métodos:
+getEmployeeID(): int
+getName(): String
+getPosition(): String
+
+##### University
+Descripción: Representa la universidad asociada al sistema de alquiler de bicicletas.
+
+Atributos:
+
+universityID: int
+name: String
+location: String
+
+Métodos:
+getUniversityID(): int
+getName(): String
+getLocation(): String
+
+##### Student
+Descripción: Representa a un estudiante que puede usar el sistema de alquiler de bicicletas.
+
+Atributos:
+
+studentID: int
+university: String
+
+Métodos:
+getStudentID(): int
+getUniversity(): String
+
+##### Relaciones
+
+User "makes" Rental (Un usuario realiza alquileres)
+Rental "requires" Payment (Un alquiler requiere un pago)
+Bicycle "rented by" Rental (Una bicicleta es alquilada mediante un alquiler)
+User "gives" Feedback (Un usuario proporciona retroalimentación)
+Bicycle "receives" Maintenance (Una bicicleta recibe mantenimiento)
+Employee "performs" Maintenance (Un empleado realiza mantenimiento)
+Student "associated with" University (Un estudiante está asociado a una universidad)
+User "related to" Student (Un usuario puede ser un estudiante)
 
 
 ## 4.8. Database desing
