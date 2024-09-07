@@ -398,7 +398,7 @@ En este sprint solo se trabajó el landing page.
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
-![alt text](../imgs/software%20deploymentbici.png)
+![alt text](../imgs/githubdeploy.png)
 
 Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
 
