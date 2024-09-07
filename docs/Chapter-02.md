@@ -412,7 +412,7 @@ Elaboramos los User Task Matrix  del Usuario con el propósito de determinar la 
 
 **_Segmento 2: Profesional urbano_**
 
-| Tareas                                                        | Universitario/a Importancia   | Universitario/a  Frecuencia               |
+| Tareas                                                        | Profesional Importancia   | Profesional  Frecuencia               |
 |---------------------------------------------------------------|--------------------------|--------------------------
 | Desplazarse al trabajo		                        |Alta                     | Diaria
 | Ir a citas médicas, reuniones o eventos sociales	 |Media                 | Semanal/Mensual                  
