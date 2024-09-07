@@ -226,8 +226,8 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="1">4</td>
-    <td colspan="2">Sección de contacto</td>
-    <td colspan="1">4</td>
+    <td colspan="2">Sección de beneficios</td>
+    <td colspan="1">21</td>
     <td colspan="2">Añadir sección de beneficios</td>
     <td colspan="3">Como visitante de la landing page de BiciBreeze, quiero ver una sección de "beneficios" para ver cuales serian posibles motivos para movilizarme más en bicicleta.</td>
     <td colspan="1">1</td>
@@ -236,8 +236,8 @@ una de las tareas identificadas para el sprint.
 </tr>
 <tr>
     <td colspan="1">5</td>
-    <td colspan="2">Sección nosotros</td>
-    <td colspan="1">5</td>
+    <td colspan="2">Sección de testimonios</td>
+    <td colspan="1">22</td>
     <td colspan="2">Añadir sección testimonios</td>
     <td colspan="3">Como visitante de la landing page de BiciBreeze, quiero ver una sección "Testimonios" para ver que opinan otros usuarios de BiciBreeze.</td>
     <td colspan="1">1</td>
