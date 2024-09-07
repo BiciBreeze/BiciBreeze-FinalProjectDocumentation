@@ -54,9 +54,9 @@
 
 | Orden  |User Story ID  | Titulo   | Descripcion | Prioridad |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-|  1 | US01 | Registro de cuenta  | Como ciudadano que le interesa el servicio, quiero poder registrarme facilemente al sitio web recibiendo un correo de confirmacion, para poder disfrutar los beneficios. | Alta  |
-| 2  | US02 | Ver informacion  |Como usuario, quiero ver un diseño moderno y atractivo en la landing page, para sentir confianza y motivación a usar el servicio.  | Alta  |
-| 3  | US03 | Tener informacion clara  |Como usuario, quiero una interfaz clara y fácil de usar, para reservar una bicicleta rápidamente.  | Alta  |
+|  1 | US01 | Registro de cuenta  | Como visitante de la landing page, quiero poder registrarme facilemente al sitio web recibiendo un correo de confirmacion, para poder disfrutar los beneficios. | Alta  |
+| 2  | US02 | Ver informacion  |Como visitante de la landing page, quiero ver un diseño moderno y atractivo, para sentir confianza y motivación a usar el servicio.  | Alta  |
+| 3  | US03 | Tener informacion clara  |Como visitante de la landing page, quiero una interfaz clara y fácil de usar, para reservar una bicicleta rápidamente.  | Alta  |
 |  4 | US04 | Ver ubicaciones de bicicleta  |Como usuario, quiero ver un mapa interactivo con estaciones de bicicletas, para localizar la bicicleta más cercana.  |  Alta |
 | 5  | US05 | Recibir notificaciones  | Como usuario, quiero recibir notificaciones en tiempo real sobre la disponibilidad de bicicletas, para estar informado de los cambios. | Alta  |
 |  6 | US06 | Dejar opiniones  | Como usuario, quiero poder compartir mi experiencia en la plataforma, para ayudar a otros usuarios a tomar decisiones. |  Media |
