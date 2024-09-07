@@ -14,6 +14,14 @@
 |   Feeling| Siente una gran motivación por aprovechar al máximo las funciones del sitio web para optimizar sus trayectos.  |  Se siente responsable y motivado a utilizar el servicio para hacer sus desplazamientos más sostenibles y eficientes. |Siente satisfacción al haber elegido un plan que se adapta perfectamente a su ritmo laboral. |  Se siente realizado al comprobar que ha mejorado significativamente la gestión de su tiempo gracias al servicio de alquiler. | 
 
 ##### 3.2. User Stories.
+### Epicas
+
+|  Epic | Titulo  |  Descripcion |
+| ------------ | ------------ | ------------ |
+| EP01   |  Gestión de Cuentas de Usuario |  Como usuario, quiero registrarme, iniciar sesión y gestionar mi cuenta para acceder de manera segura a la aplicación y mantener mis datos personales actualizados.|
+| EP02  |  Navegación Intuitiva y Accesible |  Como  usuario quiero un sistema de navegación que me permita acceder rápidamente a  las funciones principales, como buscar y gestionar casos, usar el chat para  el seguimiento y actualizar mi perfil, mejorando mi experiencia en BiziBrezze.|
+| EP03  |  Landing Page Informativa | Como usuario interesado, quiero una landing page clara, atractiva y fácil de entender, que me informe sobre BiziBreeze y los servicios que ofrece, para que pueda tomar una decisión informada sobre su uso.|
+
 |User Story ID | Título  | Descripción   |  Criterios de aceptación |  
 | -------- | ------------ | ------------ | ------------ | 
 |  US01 | Registro de cuenta  | Como ciudadano que le interesa el servicio, quiero poder registrarme facilemente al sitio web recibiendo un correo de confirmacion, para poder disfrutar los beneficios.  |  Escenario: **Dado que** quiero registrarme al sitio web, **cuando** ingrese a BiziBreeze **y**  le de click a la opcion de registro, **entonces** podre colocar mis datos **y** recibir un correo de verificacion de cuenta.   |   
