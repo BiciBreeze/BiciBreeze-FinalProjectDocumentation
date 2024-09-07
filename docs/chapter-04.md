@@ -303,14 +303,22 @@ link del figma: https://www.figma.com/design/JjHab3CxGK7SuZxPxuMcvf/BiciBreeze?n
 
 Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nuestro software, basándonos en el enfoque de desarrollo de Domain Driven Design.
 
+#### 4.6.1. Software Architecture Context Diagram
+Este es el diagrama de Contexto de nuestro sistema:
 
  <div style="text-align: center;">
  <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-SystemContext-001.png?alt=media&token=d71c4b9a-a4d0-4dcb-8962-a1ec6f5f24df" alt="pr" style="width: 100%; height: auto;">
 </div> 
 
+#### 4.6.1. Software Architecture Container Diagram
+Este es el diagrama de Contenedores de nuestro sistema:
+
  <div style="text-align: center;">
  <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-Container-001.png?alt=media&token=4425b3bf-880b-438b-84a1-15bb677fa35c" alt="pr" style="width: 100%; height: auto;">
 </div> 
+
+#### 4.6.1. Software Architecture Components Diagram
+Esto son los diagramas de componentes de nuestro sistema:
 
  <div style="text-align: center;">
  <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsUserProfile.png?alt=media&token=86a560b1-40d3-4d1e-b63e-f051f411a2c2" alt="pr" style="width: 100%; height: auto;">
