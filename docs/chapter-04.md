@@ -335,3 +335,22 @@ Esto son los diagramas de componentes de nuestro sistema:
  <div style="text-align: center;">
  <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsPayment.png?alt=media&token=8a08dcd5-9081-4d6c-b7be-c1f2d90cfdce" alt="pr" style="width: 100%; height: auto;">
 </div> 
+
+## 4.7. Software Object-Oriented Design
+### 4.7.1. Class Diagrams
+Para nuestro sistema, hemos implementado un diagrama de clases. Este diagrama visualiza la estructura estática del software, mostrando las clases, sus atributos y las relaciones entre ellas. Es una herramienta esencial que nos ayuda a comprender cómo se organizan y comunican las diferentes partes de nuestro sistema de software.
+
+Diagrama de clases:
+
+### 4.7.2. Class Dictionary
+Para la siguiente explicacion de los atributos de las clases, es crucial comprender los atributos de estas clases, ya que proporcionan información clave sobre la estructura y el funcionamiento del sistema. Documentar adecuadamente estos atributos facilita el desarrollo, la depuración y el mantenimiento del código, asegurando un sistema robusto y seguro
+
+
+## 4.8. Database desing
+### 4.8.1 Database Diagrams
+Para nuestro sistema, también hemos implementado un diagrama de base de datos. Este diagrama proporciona una representación visual de la estructura de nuestra base de datos, incluyendo tablas, columnas y relaciones entre ellas. Es una herramienta clave para comprender la arquitectura de datos de nuestro sistema y cómo se relacionan entre sí las entidades de nuestra aplicación.
+
+ <div style="text-align: center;">
+ <img src="https://i.postimg.cc/FK8KxV4Z/Bici-Breeze-DB.png" alt="pr" style="width: 100%; height: auto;">
+</div> 
+
