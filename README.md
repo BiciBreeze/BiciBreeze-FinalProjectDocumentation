@@ -1,5 +1,7 @@
 # INFORME DEL TRABAJO FINAL
-![alt text](../Informe-/logo%20upc.png)
+<div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="LogoUPC" style="width: 25%; height: auto;">
+</div>
 
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 ### INGENIERÍA DE SISTEMAS DE INFORMACIÓN Y  SOFTWARE
