@@ -307,7 +307,7 @@ Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nu
 Este es el diagrama de Contexto de nuestro sistema:
 
  <div style="text-align: center;">
- <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-SystemContext-001.png?alt=media&token=d71c4b9a-a4d0-4dcb-8962-a1ec6f5f24df" alt="pr" style="width: 100%; height: auto;">
+ <img src="https://i.postimg.cc/WzfrTvvm/structurizr-System-Context-001.png" alt="pr" style="width: 100%; height: auto;">
 </div> 
 
 #### 4.6.1. Software Architecture Container Diagram
