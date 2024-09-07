@@ -28,51 +28,75 @@ Nuestro sitio web ofrece el servicio de alquiler de bicicletas, en la brevedad d
 
 Los antecedentes son esenciales para una comprensión más profunda de la problemática en cuestión. Por esta razón, hemos aplicado la técnica de las "5W 2H":
 
-**What (¿Qué?):**
+**What:**
 
-- ¿Qué necesidad específica o problema resuelve tu startup?
-  Facilita el acceso a bicicletas para jóvenes universitarios y otros usuarios con precios accesibles, promoviendo un transporte económico y ecológico.
-<br>
-- ¿Qué diferencia tu servicio de otros similares en el mercado?
-  Ofrecemos un plan de suscripción mensual único y accesible para jóvenes universitarios, además de opciones flexibles para otros usuarios.
+- ¿Qué ofrece nuestro sitio web?
 
-**Where (¿Dónde?)**
+Nuestro sitio web ofrece un servicio de alquiler de bicicletas, con un enfoque innovador en suscripción mensual accesible para jóvenes universitarios y planes flexibles para usuarios mayores o profesionales.
 
-- ¿Dónde pueden los usuarios acceder a tus servicios?
-A través de una plataforma en línea que facilita la reserva y alquiler de bicicletas en ubicaciones cercanas a universidades y zonas urbanas.
-<br>
-- ¿Dónde es más probable que tu servicio tenga mayor demanda?
-En zonas urbanas con alta concentración de estudiantes universitarios y profesionales que prefieren un medio de transporte económico y ecológico.
+- ¿Qué tipo de suscripción ofrecemos a los jóvenes universitarios?
 
-**When (¿Cuándo?)**
+Ofrecemos un plan de suscripción mensual a un precio accesible para que los jóvenes universitarios puedan trasladarse a su universidad o a otros lugares de interés personal de manera económica.
 
-- ¿Cuándo es más probable que los usuarios necesiten tu servicio?
-Principalmente durante los días laborales, en horas pico, cuando los estudiantes y profesionales necesitan desplazarse a sus lugares de estudio o trabajo.
-<br>
-- ¿Cuándo deberían considerar los usuarios cambiar a un plan de suscripción?
-Cuando necesitan una opción de transporte regular y económica para sus desplazamientos diarios.
+**Where:**
 
-**Who (¿Quién?)**
+- ¿Dónde pueden los jóvenes universitarios utilizar nuestras bicicletas?
 
-¿Quiénes son los principales beneficiarios de tu servicio?
-Jóvenes universitarios y profesionales que buscan una alternativa de transporte económica y sostenible.
-¿Quiénes podrían ser los competidores directos de tu startup?
-Otros servicios de alquiler de bicicletas, empresas de transporte público, y proveedores de servicios de movilidad compartida.
+Pueden utilizar las bicicletas en sus trayectos a la universidad o para moverse por la ciudad hacia otros lugares de interés personal.
 
-**Why (¿Por qué?)**
+- ¿Dónde pueden encontrar nuestro servicio de alquiler de bicicletas?
 
-- ¿Por qué los jóvenes universitarios preferirían tu servicio sobre otras opciones de transporte?
-Por la accesibilidad económica del plan de suscripción, la conveniencia y la posibilidad de contribuir al cuidado del medio ambiente.
-<br>
-- ¿Por qué es importante para tu startup ofrecer precios accesibles?
-Para democratizar el acceso al transporte ecológico y fomentar su uso entre un público joven que generalmente tiene recursos limitados.
+Nuestro servicio está disponible a través de nuestra plataforma en línea, donde los usuarios pueden suscribirse y gestionar su alquiler de bicicletas.
 
-**How (¿Cómo?)**
-- ¿Cómo pueden los usuarios suscribirse o alquilar una bicicleta?
-A través de una plataforma en línea fácil de usar, donde pueden seleccionar el plan que mejor se ajuste a sus necesidades.
-<br>
-- ¿Cómo se garantiza la disponibilidad de bicicletas para los usuarios?
-Mediante una gestión eficiente de la flota de bicicletas y ubicaciones estratégicas para asegurar la disponibilidad en los puntos de mayor demanda.
+**When:**
+
+- ¿Cuándo pueden los jóvenes universitarios acceder al servicio de alquiler de bicicletas?
+
+Los universitarios pueden acceder a nuestro servicio de forma continua durante todo el año, con la flexibilidad de alquilar bicicletas por horas, días o mediante un plan mensual.
+
+-¿Cuándo se pueden beneficiar los usuarios de nuestros planes flexibles?
+
+Los usuarios pueden beneficiarse de nuestros planes en cualquier momento que necesiten moverse por la ciudad, ya sea por horas o días, según sus necesidades de transporte.
+
+**Who:**
+
+- ¿Quiénes se benefician de nuestro plan de suscripción mensual?
+
+Los jóvenes universitarios que buscan una alternativa económica y ecológica para moverse, especialmente aquellos que necesitan un transporte regular hacia la universidad.
+
+- ¿Quiénes son los usuarios de nuestros planes flexibles por horas o días?
+
+Los usuarios mayores o profesionales que necesitan una bicicleta de manera puntual para desplazarse por la ciudad por motivos de trabajo o actividades personales.
+
+**Why:**
+
+- ¿Por qué ofrecemos un plan accesible para jóvenes universitarios?
+
+Porque creemos en facilitar el transporte a los estudiantes sin que tengan que incurrir en altos costos, promoviendo una movilidad sostenible y económica.
+
+- ¿Por qué incluimos planes para usuarios mayores o profesionales?
+
+Porque entendemos que no solo los jóvenes necesitan opciones de transporte accesibles y ecológicas, sino también aquellos que buscan soluciones de movilidad flexibles para su vida diaria o profesional.
+
+**How:**
+
+- ¿Cómo pueden los jóvenes suscribirse a nuestro plan mensual?
+
+Los jóvenes universitarios pueden registrarse fácilmente en nuestra plataforma en línea, seleccionar el plan de suscripción mensual y empezar a usar una bicicleta de inmediato.
+
+- ¿Cómo pueden los usuarios mayores o profesionales alquilar una bicicleta?
+
+Los usuarios pueden alquilar bicicletas por horas o días a través de nuestra plataforma, seleccionando el plan que mejor se ajuste a sus necesidades de transporte.
+
+**How much:**
+
+- ¿Cuánto cuesta la suscripción mensual para los jóvenes universitarios?
+
+La suscripción mensual tiene un costo muy accesible, pensado específicamente para ajustarse al presupuesto de los jóvenes universitarios.
+
+- ¿Cuánto cuesta alquilar una bicicleta por horas o días para los usuarios profesionales o mayores?
+
+El costo de alquiler por horas o días es competitivo y accesible, asegurando que tanto estudiantes como profesionales puedan disfrutar de una movilidad económica.
 
 
 ### 1.2.2. Lean UX Process
