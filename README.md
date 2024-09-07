@@ -17,6 +17,7 @@ Relación de Integrantes:
 - Vasquez Requejo, Augusto Mathias Leonardo - U20221A955   
 - Dueñas Canales, Leonardo Manuel - U202117475 
 - Casaverde De La Cruz, Ernesto David -U20221B657
+- Apaza Morales, Fabricio Josue - U201922146
 - Reyes Trujillano, Fabian Alonso
 - Perez Tuesta, Gabriel - U202321281
 ## Historial de Versiones
