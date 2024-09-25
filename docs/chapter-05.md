@@ -498,26 +498,26 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1">25</td>
-    <td colspan="2">Configuración de la base de datos</td>
+    <td colspan="1">08</td>
+    <td colspan="2">Personalizacion de Perfil</td>
     <td colspan="1">1</td>
-    <td colspan="2">Crear y Configurar el Fake-API para el FrontEnd</td>
-    <td colspan="3">Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad, ubicación, etc.</td>
+    <td colspan="2">Desarrollar personalizacion del perfil de usuario </td>
+    <td colspan="3">Como usuario, quiero poder personalizar mi perfil, para ajustar mis preferencias de uso y comunicación.</td>
     <td colspan="1">3</td>
     <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">26</td>
-    <td colspan="2">Desarrollo del frontend para la lista de abogados</td>
+    <td colspan="1">15</td>
+    <td colspan="2">Idioma preferido</td>
     <td colspan="1">2</td>
-    <td colspan="2">Añadir Lista de Abogados</td>
-    <td colspan="3">Como desarrollador, necesito crear componentes en el frontend para mostrar la lista de abogados y diseñar la interfaz de usuario utilizando la biblioteca Angular.</td>
-    <td colspan="1">5</td>
+    <td colspan="2">Cambio de idioma en landing y app web</td>
+    <td colspan="3">Como usuario, quiero acceder a la landing page en mi idioma preferido, para entender mejor la información proporcionada.</td>
+    <td colspan="1">3</td>
     <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
 <tr>
-    <td colspan="1">27</td>
+    <td colspan="1">23</td>
     <td colspan="2">Integración del toolbar</td>
     <td colspan="1">3</td>
     <td colspan="2">Añadir Toolbar</td>
@@ -527,7 +527,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">28</td>
+    <td colspan="1">24</td>
     <td colspan="2">Estilizado y diseño responsivo</td>
     <td colspan="1">4</td>
     <td colspan="2">Añadir estilizado y diseño responsivo</td>
@@ -537,27 +537,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">29</td>
-    <td colspan="2">Implementación de la funcionalidad de búsqueda de abogados</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Añadir busqueda de abogados</td>
-    <td colspan="3">Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Ernesto</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">30</td>
-    <td colspan="2">Implementación de la paginación de resultados</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Añadir la paginación de resultados</td>
-    <td colspan="3">Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Ernesto</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">9</td>
+    <td colspan="1">25</td>
     <td colspan="2">Perfil de abogado médico</td>
     <td colspan="1">7</td>
     <td colspan="2">Añadir Perfil de abogado médico</td>
@@ -567,7 +547,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">31</td>
+    <td colspan="1">26</td>
     <td colspan="2">Implementar card que se superpone para mostrar perfiles de abogados</td>
     <td colspan="1">8</td>
     <td colspan="2">Añadir Card que muestre perfil de abogados</td>
@@ -577,7 +557,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">32</td>
+    <td colspan="1">27</td>
     <td colspan="2">Implementar método para cargar información de abogado en el card que se superpone</td>
     <td colspan="1">9</td>
     <td colspan="2">Añadir metodo para cargar la información de abogado en el card</td>
@@ -587,7 +567,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">33</td>
+    <td colspan="1">28</td>
     <td colspan="2">Implementación de la Entidad de Usuario</td>
     <td colspan="1">10</td>
     <td colspan="2">Añadir entidad de Usuario con sus respectivos atributos</td>
@@ -597,17 +577,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">34</td>
-    <td colspan="2">Diseño de la Sección de Perfil de Usuario</td>
-    <td colspan="1">11</td>
-    <td colspan="2">Añadir interfaz del perfil de usuario</td>
-    <td colspan="3">Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Fabian</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">35</td>
+    <td colspan="1">29</td>
     <td colspan="2">Diseño de la Interfaz de Edición de Perfil de Usuario</td>
     <td colspan="1">12</td>
     <td colspan="2">Añadir interfaz de edición del perfil de usuario</td>
@@ -617,17 +587,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">36</td>
-    <td colspan="2">Diseño de la Interfaz de Edición de Filtros</td>
-    <td colspan="1">13</td>
-    <td colspan="2">Añadir interfaz de filtro</td>
-    <td colspan="3">Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Fabian</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">37</td>
+    <td colspan="1">30</td>
     <td colspan="2">Diseño de la sección Suscripciones</td>
     <td colspan="1">14</td>
     <td colspan="2">Añadir diseño de la seccion suscripciones</td>
@@ -637,7 +597,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">38</td>
+    <td colspan="1">31</td>
     <td colspan="2">Diseño de la interfaz Suscripciones</td>
     <td colspan="1">15</td>
     <td colspan="2">Añadir diseño de la interfaz Suscripciones</td>
@@ -647,7 +607,7 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">39</td>
+    <td colspan="1">32</td>
     <td colspan="2">Diseño de la interfaz de pago Suscripciones</td>
     <td colspan="1">16</td>
     <td colspan="2">Añadir diseño de la interfaz de pago suscripciones</td>
@@ -672,91 +632,127 @@ una de las tareas identificadas para el sprint.
         <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">56853799d2969ae246d7b161ba4e729451f6e577</td>
-        <td colspan="2">feat: added db.json and start.sh</td>
+        <td colspan="2">46e8edd6b014e64c0d59de8dd76e4533f0832871</td>
+        <td colspan="2">Login</td>
         <td colspan="2">-</td>
-        <td colspan="2">27/04/24</td>
+        <td colspan="2">20/09/24</td>
     </tr>
         <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">eb08f314c976895d3b6b61955c81cdf96e3849fa</td>
-        <td colspan="2">feat(static-content): added lawyers list and page no found.</td>
+        <td colspan="2">6bfb7210f10915c6a949a5cbddd0be140d0c0fe5</td>
+        <td colspan="2">feat(dependencies): added new dependencies for primevue</td>
         <td colspan="2">-</td>
-        <td colspan="2">27/04/24</td>
+        <td colspan="2">21/09/24</td>
     </tr>
      <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">81820b0e85b3959ccada181ae71969f108eb4b4e</td>
-        <td colspan="2">feat(main-view): implemented main view with in-app-navigation.</td>
+        <td colspan="2">dfd50a3e954bdc99d57a4e1ebebb19b3ace7f0a5</td>
+        <td colspan="2">feat(PrimeVue): added primevue to the project</td>
         <td colspan="2">-</td>
-        <td colspan="2">27/04/24</td>
+        <td colspan="2">21/09/24</td>
     </tr>
     <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">341a49cb0a3501c91a29f67ae765835fa5529f47</td>
-        <td colspan="2">feat(static-content): added lawyers profile</td>
+        <td colspan="2">1cfa12e787ae5397712e6bee3c9d8bd23f2c47f5</td>
+        <td colspan="2">feat(register-form): added register form view</td>
         <td colspan="2">-</td>
-        <td colspan="2">27/04/24</td>
+        <td colspan="2">21/09/24</td>
     </tr>
     <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">d1b71f4b7cde4b5d98ebf23b8623a6fbefb3ce14</td>
-        <td colspan="2">feat(view): implemented view with lawyer-profile.</td>
+        <td colspan="2">358b7810e0ffe16cfdfaf0b641f20d6dc5d4fdc4</td>
+        <td colspan="2">feat(router-login): added path login to routes</td>
         <td colspan="2">-</td>
-        <td colspan="2">27/04/24</td>
+        <td colspan="2">21/09/24</td>
     </tr>
     <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">62c825a4b204f8c4c0eef699fbb035f4b4d182e0</td>
-        <td colspan="2">feat(user): add User entity in user.entity.ts</td>
+        <td colspan="2">3dc728398fd75e86d76208abebc005191dff8af0</td>
+        <td colspan="2">fix: fixed main css</td>
         <td colspan="2">-</td>
-        <td colspan="2">28/04/24</td>
+        <td colspan="2">21/09/24</td>
     </tr>
     <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">fe00f707be521ea6e879e506455385f660f96da2</td>
-        <td colspan="2">fix(User): correct implementation details in user.entity</td>
+        <td colspan="2">ce404ae0e3f7b967d5e600600c7dfbbcadf7e4a5</td>
+        <td colspan="2">fix: fixed names of components with kebab-case</td>
         <td colspan="2">-</td>
-        <td colspan="2">28/04/24</td>
+        <td colspan="2">23/09/24</td>
     </tr>
     <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">25985a15a89a3b85d7946a26459c1e381fa2e36a</td>
-        <td colspan="2">feat(profile): add new profile section</td>
+        <td colspan="2">59c853d855f40f3f97c9ed55bf55076b46b01b1f</td>
+        <td colspan="2">chored: added dependencie of primevue toolbar</td>
         <td colspan="2">-</td>
-        <td colspan="2">28/04/24</td>
+        <td colspan="2">23/09/24</td>
     </tr>
     <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">faa63ccb4631215b6415454907e1d0d1ce8223a1</td>
-        <td colspan="2">feat(edit-profile): add new edit profile section</td>
+        <td colspan="2">793e25f76615ee4ea5b4920cfeeea0524ca9b1d7</td>
+        <td colspan="2">fix: fixed register-form with new footer component</td>
         <td colspan="2">-</td>
-        <td colspan="2">28/04/24</td>
+        <td colspan="2">23/09/24</td>
     </tr>
         <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">4c4e0abefd64de10451044343ae6ac3ad7f0c882</td>
-        <td colspan="2">feat(lawyer-filer): implemented lawyer filter interface.</td>
+        <td colspan="2">8e73bb12c3b844b317c0d774e80a53850fc03126</td>
+        <td colspan="2">feat: added header-toolbar</td>
         <td colspan="2">-</td>
-        <td colspan="2">28/04/24</td>
+        <td colspan="2">23/09/24</td>
     </tr>
     </tr>
         <tr>
         <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
-        <td colspan="2">a4750ac76217e8bd07bd816380e01bd9ec7fc03f</td>
-        <td colspan="2">feat(suscription): added suscription pay component.</td>
+        <td colspan="2">90b4d69f144b4ada8171fe07f20736e0cbc69048</td>
+        <td colspan="2">feat: Add component BikeRent</td>
         <td colspan="2">-</td>
-        <td colspan="2">28/04/24</td>
+        <td colspan="2">24/09/24</td>
+    </tr>
+        </tr>
+        <tr>
+        <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">cee6d81bd3c1ad299c5b224dbec6034d8d1c174e</td>
+        <td colspan="2">feat: add navbar</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/24</td>
+    </tr>
+        </tr>
+        <tr>
+        <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">26432c6e8159a3f446d3e8d05325d194b33afc8a</td>
+        <td colspan="2">feat: Fix Home</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/24</td>
+    </tr>
+        </tr>
+        <tr>
+        <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">a7febc3c8230a7119b07e0b270128709bbfd434c</td>
+        <td colspan="2">commit added subscription.vue component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/24</td>
+    </tr>
+        </tr>
+        <tr>
+        <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">dd2ee8d673485e4fae74e0436a35f2f5f5764961</td>
+        <td colspan="2">fea: Add Suscription</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/24</td>
     </tr>
 </table>
 
@@ -1148,13 +1144,13 @@ Commits relacionados:
         <th colspan="2">Commit Message</th>
     </tr>
         <tr>
-        <td colspan="2">Bicibreeze/Frontend-page-Bicibreeze</td>
+        <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
         <td colspan="2">56853799d2969ae246d7b161ba4e729451f6e577</td>
         <td colspan="2">feat: added db.json and start.sh</td>
     </tr>
         <tr>
-        <td colspan="2">Bicibreeze/Frontend-page-Bicibreeze</td>
+        <td colspan="2">Bicibreeze/Frontend-Bicibreeze</td>
         <td colspan="2">Develop</td>
         <td colspan="2">eb08f314c976895d3b6b61955c81cdf96e3849fa</td>
         <td colspan="2">feat(static-content): added lawyers list</td>
@@ -1162,7 +1158,7 @@ Commits relacionados:
 </table>    
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
-Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
+Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada FireBase. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
 
 ![alt text](../assets/imgs/DeployEvidence.png)
 
