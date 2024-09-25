@@ -853,6 +853,8 @@ Url del repositorio: https://github.com/Bicibreeze/frontend-app
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada FireBase. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
 
+Link de la app web deployada: https://bicibreeze-front-end.web.app/ 
+
 ![alt text](../imgs/Deploy%20front%20bici.png)
 
 ![alt text](../imgs/Deployment%20bici%20front.png)
