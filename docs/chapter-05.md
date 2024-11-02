@@ -894,15 +894,15 @@ Network Graph:
     <td colspan="8">Via Discord y Google Meet</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">Gabriel Garcia</td>
+    <td colspan="8">Ernesto Casaverde</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Anatoly Noriega, Mathias Vasquez, Carlos Avellaneda</td>
+    <td colspan="8">Ernesto Casaverde, Leonardo Dueñas, Gabriel Perez, Augusto Vasquez, Fabricio Apaza, Fabian.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 3 Review Summary</td>
-    <td colspan="8">En esta seccion se planteo el desarrollo de los Web Services para nuestro proyecto llamado MedicDefense</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo de los Web Services para nuestro proyecto llamado Bicibreeze</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 3 Retrospective Summary</td>
@@ -917,11 +917,11 @@ Network Graph:
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
-    <td colspan="8">51 story points</td>
+    <td colspan="8">25 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">51 Story Points</td>
+    <td colspan="8">25 Story Points</td>
 </tr>
 </table>
 
@@ -946,66 +946,65 @@ Network Graph:
     <td colspan="2">Assigned To</td>
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
-  <tr>
-    <td colspan="1">46</td>
-    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+ <tr>
+    <td colspan="1">20</td>
+    <td colspan="2">Historial</td>
     <td colspan="1">1</td>
-    <td colspan="2">Creación y gestión de recursos de casos legales</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Fabricio and Gabriel</td>
+    <td colspan="2">Desarrollar el historial del usuario de las veces que uso el servicio. </td>
+    <td colspan="3">Como usuario, quiero poder ver un historial de todas mis reservas y alquileres anteriores, para revisar cuándo y dónde he usado el servicio.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Ernesto</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">40</td>
-    <td colspan="2">Creación y Gestión de Recursos Educativos</td>
+    <td colspan="1">19</td>
+    <td colspan="2">Agregar Favoritos</td>
     <td colspan="1">2</td>
-    <td colspan="2">Creación y Gestión de Recursos Educativos</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+    <td colspan="2">Agregar y eliminar bicicletas de una lista de favoritos</td>
+    <td colspan="3">Como usuario, quiero poder agregar bicicletas a una lista de favoritos, para alquilar rápidamente mis bicicletas preferidas sin tener que buscarlas cada vez.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">23</td>
+    <td colspan="2">Integración del toolbar</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir Toolbar</td>
+    <td colspan="3">Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Anatoly</td>
+    <td colspan="2">Augusto Vasquez</td>
     <td colspan="1">Done</td>
+</tr>
 <tr>
-<tr>
-    <td colspan="1">41</td>
-    <td colspan="2">Implementación de Categorías de Recursos</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Implementación de Categorías de Recursos</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Anatoly</td>
-    <td colspan="1">Done</td>
-<tr>
-<tr>
-    <td colspan="1">42</td>
-    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="1">18</td>
+    <td colspan="2">Recordar inicio de sesion</td>
     <td colspan="1">4</td>
-    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
+    <td colspan="2">Recordar credenciales del usuario</td>
+    <td colspan="3">Como usuario, quiero que el sistema me recuerde mi sesión iniciada incluso después de cerrar y reabrir BiziBreeze, para evitar tener que iniciar sesión repetidamente.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Anatoly</td>
+    <td colspan="2">Fabricio</td>
     <td colspan="1">Done</td>
+</tr>
 <tr>
-<tr>
-    <td colspan="1">43</td>
-    <td colspan="2">Obtener todas las notificaciones</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Personalizacion de Perfil</td>
     <td colspan="1">5</td>
-    <td colspan="2">Obtener todas las notificaciones</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Personalizacion de Perfil</td>
+    <td colspan="3">Como usuario, quiero poder personalizar mi perfil, para ajustar mis preferencias de uso y comunicación.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Fabian</td>
     <td colspan="1">Done</td>
+</tr>
 <tr>
-<tr>
-    <td colspan="1">44</td>
-    <td colspan="2">Crear una nueva notificación</td>
+    <td colspan="1">9</td>
+    <td colspan="2">Promocion especial</td>
     <td colspan="1">6</td>
-    <td colspan="2">Crear una nueva notificación</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+    <td colspan="2">Añadir card que muestre si hay alguna promocion de precio para universitarios.</td>
+    <td colspan="3">Como usuario universitario, quiero una suscripcion especial, para animarme y animar a muchos estudiantes en adquirir los servicios.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Leonardo</td>
     <td colspan="1">Done</td>
-<tr>
+</tr>
 <tr>
 
 </table>
@@ -1050,28 +1049,36 @@ Network Graph:
   </thead>
   <tbody>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Carlos Avellaneda</td>
-      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
-      <td>Merge Bounded Context of Consultation</td>
+      <td>LexMedd/Backend-LexMedd</td>
+      <td>Main</td>
+      <td>40d9668af713d73d88dcff80f3c74e124c8a1d80</td>
+      <td>registration</td>
       <td>-</td>
-      <td>05/06/2024</td>
+      <td>31/10/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Anatoly Noriega</td>
-      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
-      <td>Merge Bounded Context of Educational</td>
+      <td>LexMedd/Backend-LexMedd</td>
+      <td>Main</td>
+      <td>c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
+      <td>added order bounded context</td>
       <td>-</td>
-      <td>05/06/2024</td>
+      <td>01/11/2024</td>
     </tr>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Augusto Vasquez</td>
-      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
-      <td>Merge Bounded Context of Payment</td>
+      <td>LexMedd/Backend-LexMedd</td>
+      <td>Main</td>
+      <td>db277136e7eedfcabc77b1af545096762fa12968</td>
+      <td>Added Bike bounded context</td>
       <td>-</td>
-      <td>05/06/2024</td>
+      <td>01/11/2024</td>
+    </tr>
+        <tr>
+      <td>LexMedd/Backend-LexMedd</td>
+      <td>Main</td>
+      <td>06000fca8b3799d4e312df5a299324eba67747ca</td>
+      <td>Added Bike bounded context</td>
+      <td>-</td>
+      <td>01/11/2024</td>
     </tr>
   </tbody>
 </table>
@@ -1079,9 +1086,12 @@ Network Graph:
 ### 5.2.3.5. Execution Evidence for Sprint Review
 Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "BiciBreeze". El cual utilizamos la plataforma "Swagger" para poder visualizar los endpoints realizados.
 
+![alt text](<../imgs/iam biciback.png>)
+![alt text](<../imgs/Order biciback.png>)
+
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-Durante este sprint, se ha desarrollado el back-end de una API de abogados utilizando Java, JPA (Java Persistence API), y siguiendo los principios de Domain-Driven Design (DDD). La API proporciona información sobre abogados ficticios, incluyendo detalles como el nombre del abogado, años de experiencia, especialización, casos ganados, tarifa por hora, correo electrónico y número de teléfono, utilizando la convención de nomenclatura snake_case para los campos. Además, la API también proporciona información sobre recursos educativos (educational_resources), pagos (payments), casos legales (legal_cases) y consultas (consultations).
+Durante este sprint, se ha desarrollado el back-end de una API de usuarios utilizando Java, JPA (Java Persistence API).
 
 <table>
   <tr>
@@ -1128,9 +1138,9 @@ Capturas de interaccion:
 
 - Visualización de los endpoints:
 
-- Controller del bounded context Notification
+- Controller del bounded context IAM
 
-- Controller del bounded context Consultation
+- Controller del bounded context Order 
 
 Url del repositorio: https://github.com/BiciBreeze/back-end 
 
@@ -1144,34 +1154,28 @@ Commits relacionados:
         <th colspan="2">Commit Message</th>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Carlos_Avellaneda</td>
-        <td colspan="2">ef480ccd255b89447523f90e8efc7a947a490001</td>
-        <td colspan="2">Merge pull request</td>
+        <td colspan="2">LexMedd/Backend-LexMedd</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">40d9668af713d73d88dcff80f3c74e124c8a1d80</td>
+        <td colspan="2">registration</td>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Anatoly_noriega</td>
-        <td colspan="2">b268969f824061e227a7d9c98ed91b53f0b11d66</td>
-        <td colspan="2">Merge pull request</td>
+        <td colspan="2">LexMedd/Backend-LexMedd</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
+        <td colspan="2">Added Order Bounden context</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Augusto_Vasquez</td>
-        <td colspan="2">6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
-        <td colspan="2">Merge pull request</td>
+        <td colspan="2">LexMedd/Backend-LexMedd</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">db277136e7eedfcabc77b1af545096762fa12968</td>
+        <td colspan="2">Added Bike bounded context</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Diego_Flores</td>
-        <td colspan="2">4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
-        <td colspan="2">Merge pull request</td>
-    </tr>
-    <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense</td>
-        <td colspan="2">Gabriel_Garcia-and-Fabricio_Apaza</td>
-        <td colspan="2">df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
-        <td colspan="2">Merge pull request</td>
+        <td colspan="2">LexMedd/Backend-LexMedd</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">06000fca8b3799d4e312df5a299324eba67747ca</td>
+        <td colspan="2">Added Bike bounded context</td>
     </tr>
 </table>    
 
