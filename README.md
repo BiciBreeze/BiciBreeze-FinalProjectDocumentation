@@ -26,7 +26,8 @@ Relación de Integrantes:
 | Versión | Fecha      | Autores                     | Descripción de Modificaciones |
 |---------|------------|-----------------------------|-------------------------------|
 | 1era    |  07/09/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales, Gabriel Pérez Tuesta, Fabian Reyes Trujillano, Ernesto Casaverde De La Cruz, Dueñas Canales Leonardo Manuel |Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V  
-| 2da    |  24/09/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales, Gabriel Pérez Tuesta, Fabian Reyes Trujillano, Ernesto Casaverde De La Cruz, Dueñas Canales Leonardo Manuel |Mejora continua capitulo 5 sprint 2 y front end vue                        |
+| 2da    |  24/09/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales, Gabriel Pérez Tuesta, Fabian Reyes Trujillano, Ernesto Casaverde De La Cruz, Dueñas Canales Leonardo Manuel |Mejora continua capitulo 5 sprint 2 y front end vue                        | 
+| 3ra    |  1/11/2024 | Augusto Mathias Leonardo Vasquez Requejo, Fabricio Apaza Morales, Gabriel Pérez Tuesta, Fabian Reyes Trujillano, Ernesto Casaverde De La Cruz, Dueñas Canales Leonardo Manuel |Sprint 3 El desarollo del backend a travez de los bounded context         | 
 
 # Índice
 
