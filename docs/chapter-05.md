@@ -1364,6 +1364,7 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 **Captura del About-the-Product**
 
 **Enlace del video en Microsoft Stream**: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/Eac9O2J2B5VFnGGYLWAm3DkBKU_k84TUs_IQKtt8ZSE2vA?e=d6bLRj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Enlace del video en Youtube**: 
 
@@ -1372,12 +1373,12 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 **Captura del About-the-Team**
 
 **Enlace del video en Microsoft Stream**: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EeZCK0gtbSJFnEkgK291URMBSSXM8reCatzmN5_V0XgDTA?e=Wc9fhJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Enlace del video en Youtube**: 
 
 **Timelapse Total:** [Inicio:00:00, Fin: ]
 
-**Timelapse :**  [Inicio: , Fin: ]
+**Timelapse :**  [Inicio:0.00 , Fin: 30.00 ]
 
 ## Conclusiones
 
