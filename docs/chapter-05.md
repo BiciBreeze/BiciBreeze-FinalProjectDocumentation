@@ -1007,45 +1007,6 @@ Network Graph:
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">45</td>
-    <td colspan="2">Obtener una notificación por ID</td>
-    <td colspan="1">7</td>
-    <td colspan="2">Obtener una notificación por ID</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Diego</td>
-    <td colspan="1">Done</td>
-<tr>
-<tr>
-    <td colspan="1">18</td>
-    <td colspan="2">Integración de pagos</td>
-    <td colspan="1">8</td>
-    <td colspan="2">Integración de pagos</td>
-    <td colspan="3">Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
-    <td colspan="1">8</td>
-    <td colspan="2">Mathias</td>
-    <td colspan="1">Done</td>
-<tr>
-<tr>
-    <td colspan="1">47</td>
-    <td colspan="2">Creación y gestión de recursos de consultas</td>
-    <td colspan="1">9</td>
-    <td colspan="2">Creación y gestión de recursos de consultas</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Carlos</td>
-    <td colspan="1">Done</td>
-<tr>
-<tr>
-    <td colspan="1">48</td>
-    <td colspan="2">Creación y gestión de asuntos legales</td>
-    <td colspan="1">10</td>
-    <td colspan="2">Creación y gestión de asuntos legales</td>
-    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de asuntos legales para que los administradores puedan gestionar los asuntos legales.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Carlos</td>
-    <td colspan="1">Done</td>
-<tr>
 
 </table>
 
@@ -1064,44 +1025,12 @@ Network Graph:
   </thead>
   <tbody>
     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Carlos Avellaneda</td>
-      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
-      <td>Merge Bounded Context of Consultation</td>
+      <td>BiciBreeze/back-end</td>
+      <td>Main</td>
+      <td>c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
+      <td>Added Order Bounden context</td>
       <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Anatoly Noriega</td>
-      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
-      <td>Merge Bounded Context of Educational</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Augusto Vasquez</td>
-      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
-      <td>Merge Bounded Context of Payment</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Diego Flores</td>
-      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
-      <td>Merge Bounded Context of Communication</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Gabriel Garcia and Fabricio Apaza</td>
-      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
-      <td>Merge Bounded Context of Legal Case</td>
-      <td>-</td>
-      <td>05/06/2024</td>
+      <td>01/11/2024</td>
     </tr>
   </tbody>
 </table>
@@ -1144,29 +1073,13 @@ Network Graph:
       <td>-</td>
       <td>05/06/2024</td>
     </tr>
-    <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Diego Flores</td>
-      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
-      <td>Merge Bounded Context of Communication</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-     <tr>
-      <td>Open-Source-Grupo-Testigos-de-Jehova/Backend-MedicDefense</td>
-      <td>Gabriel Garcia and Fabricio Apaza</td>
-      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
-      <td>Merge Bounded Context of Legal Case</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
   </tbody>
 </table>
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
-Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "MedicDefense". El cual utilizamos la plataforma "Swagger" para poder visualizar los endpoints realizados.
+Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "BiciBreeze". El cual utilizamos la plataforma "Swagger" para poder visualizar los endpoints realizados.
 
-![alt text](../assets/imgs/endpoint-backend.png)
+![alt text](../imgs/iam%20biciback.png>)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -1209,68 +1122,6 @@ Durante este sprint, se ha desarrollado el back-end de una API de abogados utili
     <td>GET /api/legal-consultations/{legalConsultaationId}</td>
     <td>200 OK: Devuelve los detalles de los legal consultations.</td>
   </tr>
-  <tr>
-    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
-    <td>Recibir</td>
-    <td>POST</td>
-    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
-    <td>ID del legal consultations</td>
-    <td>POST/api/legal-consultations/{legalConsultaationId}</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
-    <td>Eliminar</td>
-    <td>Delete</td>
-    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
-    <td>ID del legaal consultations</td>
-    <td>Delete /api/lawyers/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/notifications/{notificationId}</td>
-    <td>Obtener</td>
-    <td>GET</td>
-    <td>/api/v1/notifications/{notificationId}</td>
-    <td>ID del notification</td>
-    <td>GET /api/notifications/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/notifications/{notificationId}</td>
-    <td>Recibir</td>
-    <td>POST</td>
-    <td>/api/v1/notifications/{notificationId}</td>
-    <td>ID de la notificacion</td>
-    <td>POST /api/v1/notifications/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legalcases/{Id}</td>
-    <td>Recibir</td>
-    <td>POST</td>
-    <td>/api/v1/legalcases/{Id}</td>
-    <td>ID del legal cases</td>
-    <td>POST /api/v1/legalcases/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/payment/{id}</td>
-    <td>Obtener</td>
-    <td>GET</td>
-    <td>/api/v1/payment/{id}</td>
-    <td>ID del payment</td>
-    <td>POST /api/v1/payment/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/educaational-resources/{id}</td>
-    <td>Recibir</td>
-    <td>POST</td>
-    <td>/api/v1/educaational-resources/{notificationId}</td>
-    <td>ID del educational resource</td>
-    <td>GET /api/v1/educaational-resources/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
   </tr>
 
 </table>
@@ -1287,17 +1138,7 @@ Capturas de interaccion:
 
 - Controller del bounded context Consultation
 
-![alt text](../assets/imgs/evidence-logal-consultation.png)
-
-- Controller del bounded context legal case
-
-![alt text](../assets/imgs/evidence-legal-case.png)
-
-- Controller del bounded context payment
-
-![alt text](../assets/imgs/evidence-payment.png)
-
-Url del repositorio: https://github.com/Open-Source-Grupo-Testigos-de-Jehova/backend-Medic-Defense
+Url del repositorio: https://github.com/BiciBreeze/back-end 
 
 Commits relacionados: 
 
@@ -1343,18 +1184,18 @@ Commits relacionados:
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 Para el desarrollo de la primera version de Web Services, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
-![alt text](<../assets/imgs/Evidence Backend.png>)
+![alt text](<../imgs/Backend Bici.png>)
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 **Commits:**
 
-![alt text](<../assets/imgs/Evidence Backend.png>)
+![alt text](<../imgs/Commits Backend.png>)
 
 **Analiticas de Colaboración:**
 
-![alt text](<../assets/imgs/NetworkGraph Backend.png>)
+![alt text](<../imgs/Network biciback.png>)
 
 ## 5.3 Validation Interviews
 
