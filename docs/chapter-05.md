@@ -1420,31 +1420,21 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 ## 5.4 Video About-the-Product
 **Captura del About-the-Product**
 
-**Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EZe_EhcxKgdEkprwnSB2xkYBzAVx31Rxmv5W6OdQyMIGvQ?e=gNhYwA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Enlace del video en Microsoft Stream**: 
 
-**Enlace del video en Youtube**: https://www.youtube.com/watch?v=sFzDCzFW6g4
+**Enlace del video en Youtube**: 
 
 ## 5.5 Video About-the-Team
 
 **Captura del About-the-Team**
-![alt text](../
 
-**Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/ET-wXZaUgZ5Bri_hw1N7cTgBe26622tOUkysmrLFjecIRA?e=5WUtQU&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Enlace del video en Microsoft Stream**: 
+
 **Enlace del video en Youtube**: 
 
-**Timelapse Total:** [Inicio:00:00, Fin: 33:41]
+**Timelapse Total:** [Inicio:00:00, Fin: ]
 
-**Timelapse Gabriel García:**  [Inicio: 00:00, Fin: 06:53]
-
-**Timelapse Diego Flores:** [Inicio: 06:53, Fin: 10:28]
-
-**Timelapse Joseph Yacchua:** [Inicio: 10:28, Fin: 16:46]
-
-**Timelapse Jeremy Morales:** [Inicio: 16:46, Fin: 24:38]
-
-**Timelapse Mariela Sanchez:** [Inicio: 24:38, Fin: 29:22]
-
-**Timelapse Miguel Polo:** [Inicio: 29:22, Fin: 33:41]
+**Timelapse :**  [Inicio: , Fin: ]
 
 ## Conclusiones
 
