@@ -877,43 +877,44 @@ Network Graph:
 <tr>
     <th colspan="5">Sprint #</th>
     <th colspan="9">Sprint 3</th>
-  </tr>
-      <tr>
+</tr>
+<tr>
     <td colspan="13">Sprint Planning Background</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td colspan="5">Date</td>
     <td colspan="8">2024-10-29</td>
 </tr>
-  <tr>
+<tr>
     <td colspan="5">Time</td>
     <td colspan="8">4:20 PM</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td colspan="5">Location</td>
     <td colspan="8">Via Discord y Google Meet</td>
+</tr>
 <tr>
     <td colspan="5">Prepared By</td>
     <td colspan="8">Ernesto Casaverde</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Ernesto Casaverde, Leonardo Dueñas, Gabriel Perez, Augusto Vasquez, Fabricio Apaza, Fabian.</td>
+    <td colspan="8">Ernesto Casaverde, Leonardo Dueñas, Gabriel Perez, Augusto Vasquez, Fabricio Apaza, Fabian</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 3 Review Summary</td>
-    <td colspan="8">En esta seccion se planteo el desarrollo de los Web Services para nuestro proyecto llamado Bicibreeze</td>
+    <td colspan="8">Se implementó el desarrollo de los Web Services para el proyecto BiciBreeze, enfocándose en la creación de endpoints REST para autenticación, gestión de bicicletas, órdenes y suscripciones</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 3 Retrospective Summary</td>
-    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en algunas partes del codigo desarrollado. Sin embargo, se pudo hacer un concenso, y a la vez, mejoramos nuestras habilidades realizando el Web Services</td>
+    <td colspan="8">El equipo logró implementar exitosamente los endpoints planificados. Se estableció una arquitectura REST clara con bounded contexts bien definidos para Authentication, Bike, Order, Subscriptions y Users</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Desplegar la primera version de Web Services.</td>
+    <td colspan="8">Implementar y desplegar la primera versión de Web Services con endpoints funcionales para todas las características principales</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
@@ -925,114 +926,106 @@ Network Graph:
 </tr>
 </table>
 
-### 5.2.1.2. Sprint Backlog 3
+### 5.2.3.2. Sprint Backlog 3
 
 <table>
 <tr>
     <th colspan="3">Sprint #</th>
     <th colspan="10">Sprint 3</th>
-  </tr>
-      <tr>
+</tr>
+<tr>
     <td colspan="3">User Story</td>
     <td colspan="10">Work-Item/Task</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td colspan="1">Id</td>
     <td colspan="2">Title</td>
     <td colspan="1">Id</td>
     <td colspan="2">Title</td>
     <td colspan="3">Description</td>
-    <td colspan="1"> Estimation</td>
+    <td colspan="1">Estimation</td>
     <td colspan="2">Assigned To</td>
-    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+    <td colspan="1">Status</td>
 </tr>
- <tr>
-    <td colspan="1">20</td>
-    <td colspan="2">Historial</td>
+<tr>
     <td colspan="1">1</td>
-    <td colspan="2">Desarrollar el historial del usuario de las veces que uso el servicio. </td>
-    <td colspan="3">Como usuario, quiero poder ver un historial de todas mis reservas y alquileres anteriores, para revisar cuándo y dónde he usado el servicio.</td>
-    <td colspan="1">3</td>
+    <td colspan="2">Authentication API</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Implementar endpoints de autenticación</td>
+    <td colspan="3">Desarrollar endpoints para sign-up y sign-in de usuarios</td>
+    <td colspan="1">5</td>
     <td colspan="2">Ernesto</td>
     <td colspan="1">Done</td>
-  </tr>
-  <tr>
-    <td colspan="1">19</td>
-    <td colspan="2">Agregar Favoritos</td>
+</tr>
+<tr>
     <td colspan="1">2</td>
-    <td colspan="2">Agregar y eliminar bicicletas de una lista de favoritos</td>
-    <td colspan="3">Como usuario, quiero poder agregar bicicletas a una lista de favoritos, para alquilar rápidamente mis bicicletas preferidas sin tener que buscarlas cada vez.</td>
-    <td colspan="1">3</td>
+    <td colspan="2">Bike Management</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Crear API de gestión de bicicletas</td>
+    <td colspan="3">Implementar endpoints CRUD para bicicletas</td>
+    <td colspan="1">5</td>
     <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
+</tr>
 <tr>
-    <td colspan="1">23</td>
-    <td colspan="2">Integración del toolbar</td>
     <td colspan="1">3</td>
-    <td colspan="2">Añadir Toolbar</td>
-    <td colspan="3">Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Augusto Vasquez</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">18</td>
-    <td colspan="2">Recordar inicio de sesion</td>
-    <td colspan="1">4</td>
-    <td colspan="2">Recordar credenciales del usuario</td>
-    <td colspan="3">Como usuario, quiero que el sistema me recuerde mi sesión iniciada incluso después de cerrar y reabrir BiziBreeze, para evitar tener que iniciar sesión repetidamente.</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Fabricio</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">8</td>
-    <td colspan="2">Personalizacion de Perfil</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Personalizacion de Perfil</td>
-    <td colspan="3">Como usuario, quiero poder personalizar mi perfil, para ajustar mis preferencias de uso y comunicación.</td>
+    <td colspan="2">Order System</td>
     <td colspan="1">3</td>
-    <td colspan="2">Fabian</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">9</td>
-    <td colspan="2">Promocion especial</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Añadir card que muestre si hay alguna promocion de precio para universitarios.</td>
-    <td colspan="3">Como usuario universitario, quiero una suscripcion especial, para animarme y animar a muchos estudiantes en adquirir los servicios.</td>
+    <td colspan="2">Desarrollo de sistema de órdenes</td>
+    <td colspan="3">Implementar endpoints para crear y gestionar órdenes</td>
     <td colspan="1">5</td>
     <td colspan="2">Leonardo</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-
+    <td colspan="1">4</td>
+    <td colspan="2">Subscription Management</td>
+    <td colspan="1">4</td>
+    <td colspan="2">API de suscripciones</td>
+    <td colspan="3">Crear endpoints para gestionar suscripciones de usuarios</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">5</td>
+    <td colspan="2">User Management</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Sistema de gestión de usuarios</td>
+    <td colspan="3">Implementar endpoints para gestionar perfiles de usuario</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Augusto</td>
+    <td colspan="1">Done</td>
+</tr>
 </table>
 
-### 5.2.3.3. Development Evidence for Sprint Review
+### 5.2.3.3. Services Documentation Evidence for Sprint Review
 
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Committed on (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>BiciBreeze/back-end</td>
-      <td>Main</td>
-      <td>c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
-      <td>Added Order Bounden context</td>
-      <td>-</td>
-      <td>01/11/2024</td>
-    </tr>
-  </tbody>
-</table>
+El backend ha sido desarrollado utilizando una arquitectura REST con los siguientes bounded contexts principales:
+
+#### Authentication Endpoints
+- POST `/api/v1/authentication/sign-up`: Registro de nuevos usuarios
+- POST `/api/v1/authentication/sign-in`: Inicio de sesión de usuarios
+
+#### Bike Endpoints
+- POST `/api/bike`: Crear nueva bicicleta
+- GET `/api/bike`: Obtener todas las bicicletas
+- GET `/api/bike/{id}`: Obtener bicicleta específica
+
+#### Order Endpoints
+- GET `/api/order`: Listar todas las órdenes
+- POST `/api/order`: Crear nueva orden
+- GET `/api/order/{id}`: Obtener orden específica
+- PUT `/api/order/{id}`: Actualizar orden existente
+
+#### Subscriptions Endpoints
+- POST `/api/subscriptions`: Crear nueva suscripción
+- GET `/api/subscriptions`: Listar todas las suscripciones
+- GET `/api/subscriptions/{id}`: Obtener suscripción específica
+
+#### Users Endpoints
+- GET `/api/v1/users`: Listar todos los usuarios
+- GET `/api/v1/users/{id}`: Obtener usuario específico
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -1049,100 +1042,50 @@ Network Graph:
   </thead>
   <tbody>
     <tr>
-      <td>LexMedd/Backend-LexMedd</td>
+      <td>BiciBreeze/back-end</td>
       <td>Main</td>
       <td>40d9668af713d73d88dcff80f3c74e124c8a1d80</td>
-      <td>registration</td>
-      <td>-</td>
+      <td>Implementation of authentication endpoints</td>
+      <td>Added sign-up and sign-in functionality</td>
       <td>31/10/2024</td>
     </tr>
     <tr>
-      <td>LexMedd/Backend-LexMedd</td>
+      <td>BiciBreeze/back-end</td>
       <td>Main</td>
       <td>c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
-      <td>added order bounded context</td>
-      <td>-</td>
+      <td>Added Order bounded context</td>
+      <td>Implemented order management system</td>
       <td>01/11/2024</td>
     </tr>
     <tr>
-      <td>LexMedd/Backend-LexMedd</td>
+      <td>BiciBreeze/back-end</td>
       <td>Main</td>
       <td>db277136e7eedfcabc77b1af545096762fa12968</td>
       <td>Added Bike bounded context</td>
-      <td>-</td>
-      <td>01/11/2024</td>
-    </tr>
-        <tr>
-      <td>LexMedd/Backend-LexMedd</td>
-      <td>Main</td>
-      <td>06000fca8b3799d4e312df5a299324eba67747ca</td>
-      <td>Added Bike bounded context</td>
-      <td>-</td>
+      <td>Implemented bike management endpoints</td>
       <td>01/11/2024</td>
     </tr>
   </tbody>
 </table>
 
+estos son los commits mas inportantes para ver todos revisar el repositorio
+
 ### 5.2.3.5. Execution Evidence for Sprint Review
-Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "BiciBreeze". El cual utilizamos la plataforma "Swagger" para poder visualizar los endpoints realizados.
 
-![alt text](<../imgs/iam biciback.png>)
-![alt text](<../imgs/Order biciback.png>)
+La API está documentada usando Swagger UI y está organizada en los siguientes schemas principales:
 
-### 5.2.3.6. Services Documentation Evidence for Sprint Review
+- BikeResource: Gestión de bicicletas
+- CreateOrderCommand: Comandos para creación de órdenes
+- Order: Gestión de órdenes
+- SignInResource: Autenticación de usuarios
+- SignUpResource: Registro de usuarios
+- SubscriptionsResource: Gestión de suscripciones
+- TimeSpan: Utilidad para manejo de períodos de tiempo
 
-Durante este sprint, se ha desarrollado el back-end de una API de usuarios utilizando Java, JPA (Java Persistence API).
 
-<table>
-  <tr>
-    <th>Endpoint</th>
-    <th>Acción</th>
-    <th>Verbo HTTP</th>
-    <th>Sintaxis de Llamada</th>
-    <th>Parámetros</th>
-    <th>Ejemplo de Llamada</th>
-    <th>Explicación del Response</th>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers</td>
-    <td>Listar</td>
-    <td>GET</td>
-    <td>/api/lawyers</td>
-    <td>-</td>
-    <td>GET /api/lawyers</td>
-    <td>200 OK: Devuelve una lista de todos los abogados.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers/{id}</td>
-    <td>Obtener</td>
-    <td>GET</td>
-    <td>/api/lawyers/{id}</td>
-    <td>ID del abogado</td>
-    <td>GET /api/lawyers/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
-    <td>Obtener</td>
-    <td>GET</td>
-    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
-    <td>ID del legal consultation</td>
-    <td>GET /api/legal-consultations/{legalConsultaationId}</td>
-    <td>200 OK: Devuelve los detalles de los legal consultations.</td>
-  </tr>
-  </tr>
+![alt text](<../imgs/backend bicibreeze.PNG>)
 
-</table>
-
-Capturas de interaccion:
-
-- Visualización de los endpoints:
-
-- Controller del bounded context IAM
-
-- Controller del bounded context Order 
-
-Url del repositorio: https://github.com/BiciBreeze/back-end 
+Repository URL: https://github.com/BiciBreeze/back-end
 
 Commits relacionados: 
 
@@ -1154,25 +1097,25 @@ Commits relacionados:
         <th colspan="2">Commit Message</th>
     </tr>
         <tr>
-        <td colspan="2">LexMedd/Backend-LexMedd</td>
+        <td colspan="2">BiciBreeze/Backend-LexMedd</td>
         <td colspan="2">Main</td>
         <td colspan="2">40d9668af713d73d88dcff80f3c74e124c8a1d80</td>
         <td colspan="2">registration</td>
     </tr>
         <tr>
-        <td colspan="2">LexMedd/Backend-LexMedd</td>
+        <td colspan="2">biciBreeze/Backend-LexMedd</td>
         <td colspan="2">Main</td>
         <td colspan="2">c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
         <td colspan="2">Added Order Bounden context</td>
     </tr>
     <tr>
-        <td colspan="2">LexMedd/Backend-LexMedd</td>
+        <td colspan="2">BiciBreeze/Backend-LexMedd</td>
         <td colspan="2">Main</td>
         <td colspan="2">db277136e7eedfcabc77b1af545096762fa12968</td>
         <td colspan="2">Added Bike bounded context</td>
     </tr>
     <tr>
-        <td colspan="2">LexMedd/Backend-LexMedd</td>
+        <td colspan="2">biciBreeze/Backend-LexMedd</td>
         <td colspan="2">Main</td>
         <td colspan="2">06000fca8b3799d4e312df5a299324eba67747ca</td>
         <td colspan="2">Added Bike bounded context</td>
