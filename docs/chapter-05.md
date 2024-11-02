@@ -1079,8 +1079,6 @@ Network Graph:
 ### 5.2.3.5. Execution Evidence for Sprint Review
 Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "BiciBreeze". El cual utilizamos la plataforma "Swagger" para poder visualizar los endpoints realizados.
 
-![alt text](../imgs/iam%20biciback.png>)
-
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 Durante este sprint, se ha desarrollado el back-end de una API de abogados utilizando Java, JPA (Java Persistence API), y siguiendo los principios de Domain-Driven Design (DDD). La API proporciona información sobre abogados ficticios, incluyendo detalles como el nombre del abogado, años de experiencia, especialización, casos ganados, tarifa por hora, correo electrónico y número de teléfono, utilizando la convención de nomenclatura snake_case para los campos. Además, la API también proporciona información sobre recursos educativos (educational_resources), pagos (payments), casos legales (legal_cases) y consultas (consultations).
@@ -1130,11 +1128,7 @@ Capturas de interaccion:
 
 - Visualización de los endpoints:
 
-![alt text](../assets/imgs/endpoint-backend.png)
-
 - Controller del bounded context Notification
-
-![alt text](../assets/imgs/evidence-notification.png)
 
 - Controller del bounded context Consultation
 
@@ -1348,8 +1342,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 Al momento de ingresar nuestros datos, no podemos regresar al formulario en caso nos hayamos equivocado de credenciales, en caso de que el usuario quiera cambiarlos, no hay un botón que le de esta opción, lo cual nos obliga a efectuar la acción de salir y cerrar la app, realizar el formulario de inicio de sesión otra vez. Esto se traduce en una falta de control y flexibilidad para el usuario, lo cual afecta negativamente la usabilidad de la aplicación.
 
-![alt text](../assets/imgs/Lil1.png)
-
 **Recomendación:**
 
 La más práctica es que al momento en que queramos realizar dicho cuestionario las opciones sean mas variadas, como un ingreso de invitado para conocer un poco la app y su funcionamiento. Se sugiere implementar un botón o enlace claramente visible en el formulario de inicio de sesión o registro que permita a los usuarios regresar y corregir cualquier error o modificar la información ingresada. Además, se debe considerar la posibilidad de proporcionar mensajes de error claros y descriptivos para ayudar a los usuarios a comprender y corregir sus errores de manera efectiva.
@@ -1366,8 +1358,6 @@ La más práctica es que al momento en que queramos realizar dicho cuestionario 
 
 Existen las opciones como “Edit Profile”, “Sign off” y “Delete Account” que son útiles para el usuario pero aún carecen de funcionalidad.
 
-![alt text](../assets/imgs/Lil2.png)
-
 **Recomendación:**
 
 Se recomienda que estas opciones se encuentren operativas para el usuario y a su vez este pueda poner su perfil en privado o publico si así este lo desea.
@@ -1382,8 +1372,6 @@ Se recomienda que estas opciones se encuentren operativas para el usuario y a su
 **Problema:**
 
 El problema identificado se relaciona con la falta de algún atractivo visual para cada uno de los servicios que ofrecemos y con una mayor claridad en las opciones.
-
-![alt text](../assets/imgs/Lil3.png)
 
 **Recomendación:**
 
@@ -1400,8 +1388,6 @@ Se recomienda revisar la aplicación y añadir algún atractivo visual para esta
 
 El problema identificado en este punto es la “suavidad” de las imágenes y el tamaño que tienen estas, siendo muy “toscas” para algunos usuarios y más si es lo primero que se ve al ingresar al sitio web.* 
 
-![alt text](../assets/imgs/Lil4.png)
-
 **Recomendación:**
 
 Se recomienda que las imágenes deben ser ligeramente más pequeñas y añadir algún otro atractivo visual.
@@ -1416,8 +1402,6 @@ Se recomienda que las imágenes deben ser ligeramente más pequeñas y añadir a
 **Problema:**
 
 El problema identificado se refiere a la inclusión de opciones en la aplicación que carecen de una explicación clara, lo que lleva a que los usuarios tengan que interpretar su función de forma literal. La falta de explicaciones claras para ciertas opciones puede hacer que los usuarios se sientan perdidos y desorientados al no comprender su utilidad.
-
-![alt text](../assets/imgs/Lil5.png)
 
 **Recomendación:**
 
@@ -1434,7 +1418,6 @@ Se recomienda proporcionar explicaciones claras y concisas para todas las opcion
 
 El problema identificado presenta una falta de funcionalidad en la sección de filtros que suele ser una sección muy utilizada por los usuarios cuando quieren ahorrar tiempo en los procesos que estos necesiten hacer.
 
-![alt text](../assets/imgs/Lil6.png)
 
 **Recomendación:**
 
@@ -1442,7 +1425,6 @@ Se recomienda que esta sección y todas las opciones que ofrece estén operativa
 
 ## 5.4 Video About-the-Product
 **Captura del About-the-Product**
-![alt text](../assets/imgs/about-the-product-captura.png)
 
 **Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EZe_EhcxKgdEkprwnSB2xkYBzAVx31Rxmv5W6OdQyMIGvQ?e=gNhYwA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
