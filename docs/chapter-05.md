@@ -883,7 +883,7 @@ Network Graph:
   </tr>
   <tr>
     <td colspan="5">Date</td>
-    <td colspan="8">2024-06-05</td>
+    <td colspan="8">2024-10-29</td>
 </tr>
   <tr>
     <td colspan="5">Time</td>
@@ -1295,18 +1295,16 @@ Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2019
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Ver la lista de abogados con información relevante (precios, años de experiencia, especialización).
-1. Utilizar los filtros para encontrar abogados específicos.
-1. Realizar una búsqueda de abogados.
-1. Ver el resumen de los casos legales y consultas.
+1. Ver la lista de scooters con información relevante (precios, ubicacion, etc)
+1. Realizar una búsqueda de scooters disponibles.
+1. Ver el historial de  vehiculos rentados.
 1. Seleccionar y revisar los planes de suscripción.
 1. Realizar el pago de la suscripción.
-1. Acceder y actualizar el perfil de usuario (médico/estudiante).
+1. Acceder y actualizar el perfil de usuario.
 1. Usar el botón para acceder a la página de inicio (landing page).
-
+<br>
 No están incluidas en esta versión de la evaluación las siguientes tareas:
-
-1. Acceder a recursos educacionales.
+<br>
 1. Registrar nuevos usuarios.
 1. Guardar información del usuario.
 1. Implementación de la lógica backend al frontend.
@@ -1328,15 +1326,16 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 | :-: | :-: | :-: | :-: |
 |*1*|*No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.* |*2*|*Usability: Libertad y control del usuario*|
 |*2*|*Opciones que se ven en el apartado de “Profile” pero que no llevan a nada.*|*3*|*Usability: Libertad y control del usuario*|
-|*3*|*Opciones de Legal Services limitadas* |*3*|*Usability: Consistencia y estándares*|
+|*3*|*Opciones de scooters* |*3*|*Usability: Consistencia y estándares*|
 |*4*|*Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.*|*2*|*Inclusive Design: Proporciona experiencias comparables*|
 |*5*|*Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.* |*3*|*Information Architecture: Is it usable?*|
-|*6*|*Sección de filtros muestra opciones pero no lleva a algún contenido.*|*3*|*Information Architecture: Is it findable?*|
+|*6*|*Sección de busqueda por distrito*|*3*|*Information Architecture: Is it findable?*|
 
 ## **DESCRIPCIÓN DE PROBLEMAS:**
 
-**PROBLEMA #1:** No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.*
+**PROBLEMA #1:** No hay un control que permita regresar a la parte de iniciar sesión o registro si en caso hay algún error en “Username” o “Contraseña” o limitadas opciones en este primer apartado.
 
+![alt text](<../imgs/Problema 1 Movirent.png>)
 
 **Severidad:** 2
 
@@ -1351,8 +1350,9 @@ Al momento de ingresar nuestros datos, no podemos regresar al formulario en caso
 La más práctica es que al momento en que queramos realizar dicho cuestionario las opciones sean mas variadas, como un ingreso de invitado para conocer un poco la app y su funcionamiento. Se sugiere implementar un botón o enlace claramente visible en el formulario de inicio de sesión o registro que permita a los usuarios regresar y corregir cualquier error o modificar la información ingresada. Además, se debe considerar la posibilidad de proporcionar mensajes de error claros y descriptivos para ayudar a los usuarios a comprender y corregir sus errores de manera efectiva.
 
 
-**PROBLEMA #2:**  Todos tienen el mismo tipo de cuenta al registrarse, podría haber una clasificación desde el momento de creación de cuenta.
+**PROBLEMA #2:**  Al momento de editar el perfil de usuario, se muestra una notificacion en pantalla a la que no se entiende que hace referencia.
 
+![alt text](<../imgs/Problema 2 Movirent.png>)
 
 **Severidad:** 3
 
@@ -1367,7 +1367,9 @@ Existen las opciones como “Edit Profile”, “Sign off” y “Delete Account
 Se recomienda que estas opciones se encuentren operativas para el usuario y a su vez este pueda poner su perfil en privado o publico si así este lo desea.
 
 
-**PROBLEMA #3:** Opciones de Legal Services limitadas
+**PROBLEMA #3:** Opciones de planes sin detalles o con informacion limitada
+
+![alt text](<../imgs/Problema 3 Movirent.png>)
 
 **Severidad:** 3
 
@@ -1384,13 +1386,15 @@ Se recomienda revisar la aplicación y añadir algún atractivo visual para esta
 
 **PROBLEMA #4:** Imágenes muy bruscas, podrían ser más pequeñas o dinámicas.
 
+![alt text](<../imgs/Problema 4 Movirent.png>)
+
 **Severidad:** 2
 
 **Heurística violada:** Inclusive Design: Proporciona experiencias comparables
 
 **Problema:**
 
-El problema identificado en este punto es la “suavidad” de las imágenes y el tamaño que tienen estas, siendo muy “toscas” para algunos usuarios y más si es lo primero que se ve al ingresar al sitio web.* 
+El problema identificado en este punto es que en algunas partes las imagenes carecen de "suavidad" hacia el usuario o en su defecto algunas secciones carecen de imagenes. 
 
 **Recomendación:**
 
@@ -1398,6 +1402,8 @@ Se recomienda que las imágenes deben ser ligeramente más pequeñas y añadir a
 
 
 **PROBLEMA #5:** Incluye algunas opciones no explicadas por lo que se toma a interpretación, nada de forma literal.
+
+![alt text](<../imgs/Problema 5 Movirent.png>)
 
 **Severidad:** 3
 
@@ -1409,23 +1415,7 @@ El problema identificado se refiere a la inclusión de opciones en la aplicació
 
 **Recomendación:**
 
-Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿Qué son Legal Services? Y ¿Qué son “Consultation” y cuales son las diferencias entre ambas secciones.
-
-
-**PROBLEMA #6:** Sección de filtros muestra opciones pero no lleva a algún contenido.
-
-**Severidad:** 3
-
-**Heurística violada:** Information Architecture: Is it findable?
-
-**Problema:**
-
-El problema identificado presenta una falta de funcionalidad en la sección de filtros que suele ser una sección muy utilizada por los usuarios cuando quieren ahorrar tiempo en los procesos que estos necesiten hacer.
-
-
-**Recomendación:**
-
-Se recomienda que esta sección y todas las opciones que ofrece estén operativas al lanzamiento del sitio web.
+Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿A que se refiere cuando dice que puedo editar la informacion del scooter? ¿Esa informacion es para los dueños del sitio web o para otros usuarios?
 
 ## 5.4 Video About-the-Product
 **Captura del About-the-Product**
