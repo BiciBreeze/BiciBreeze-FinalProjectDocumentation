@@ -1163,11 +1163,11 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
     <td colspan="8">Via Discord</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">Mathias Vasquez</td>
+    <td colspan="8">Ernesto Casaverde</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Mathias Vasquez, Estrella Ticona</td>
+    <td colspan="8">Mathias Vasquez, Ernesto Casaverde, Fabricio Apaza, Fabian, Leonardo Dueñas, Gabriel Perez. </td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 4 Review Summary</td>
@@ -1222,7 +1222,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
     <td colspan="2">Soporte para múltiples navegadores</td>
     <td colspan="3">Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
     <td colspan="1">3</td>
-    <td colspan="2">Gabriel</td>
+    <td colspan="2">Fabian</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
@@ -1232,7 +1232,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
     <td colspan="2">Base de datos de usuarios</td>
     <td colspan="3">Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
     <td colspan="1">5</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Ernesto</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
@@ -1262,34 +1262,42 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
   </thead>
   <tbody>
     <tr>
-      <td>LexMedd/LexMedd-Backend</td>
-      <td>Contact</td>
-      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
-      <td>Merge Bounded Context of Contact</td>
+      <td>BiciBreeze/Bicibreeze-backend</td>
+      <td>main</td>
+      <td>3cd5c1176f8210edc787b00b4b14d0d2062c758c</td>
+      <td>registration1</td>
       <td>-</td>
       <td>15/11/2024</td>
     </tr>
     <tr>
-      <td>LexMedd/LexMedd-Backend</td>
-      <td>Legal cases</td>
-      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
-      <td>Merge Bounded Context of Legal cases</td>
+      <td>BiciBreeze/Bicibreeze-backend</td>
+      <td>main</td>
+      <td>40d9668af713d73d88dcff80f3c74e124c8a1d80</td>
+      <td>registration</td>
       <td>-</td>
       <td>15/11/2024</td>
     </tr>
     <tr>
-      <td>LexMedd/LexMedd-Backend</td>
-      <td>IAM</td>
-      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
-      <td>Merge Bounded Context of Login and Register</td>
-      <td>-</td>
+      <td>BiciBreeze/Bicibreeze-backend</td>
+      <td>main</td>
+      <td>c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
+      <td>Added Order Bounden context</td>
+      <td>Se Añadio Orden para el manejo del alquiler de bicicletas</td>
       <td>15/11/2024</td>
     </tr>
     <tr>
-      <td>LexMedd/LexMedd-Backend</td>
-      <td>User profile</td>
-      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
-      <td>Merge Bounded Context of User profile</td>
+      <td>BiciBreeze/Bicibreeze-backend</td>
+      <td>main</td>
+      <td>db277136e7eedfcabc77b1af545096762fa12968</td>
+      <td>Added Bike bounded context</td>
+      <td>-</td>
+      <td>15/11/2024</td>
+    </tr>
+        <tr>
+      <td>BiciBreeze/Bicibreeze-backend</td>
+      <td>main</td>
+      <td>4cd3395068ffaba4ceb560e758156ae67bc1f86e</td>
+      <td>create bounded contex, subscription</td>
       <td>-</td>
       <td>15/11/2024</td>
     </tr>
@@ -1311,20 +1319,20 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
   </thead>
   <tbody>
     <tr>
-      <td>LexMedd/LexMedd-Backend</td>
+      <td>BiciBreeze/Bicibreeze-backend</td>
       <td>main</td>
       <td>59e769c513a378a4414d879133e867bef833a636</td>
       <td>add "bounded context paymentv"</td>
       <td>created bounded context paymentv to backend</td>
-      <td>2024-06-06</td>
+      <td>2024-11-15</td>
     </tr>
     <tr>
-      <td>LexMedd/LexMedd-Backend</td>
+      <td>BiciBreeze/Bicibreeze-backend</td>
       <td>main</td>
-      <td>92ae3c6157480b0c09b72a35ae45aeabae1d58d1</td>
-      <td>Merge branch 'main' into Augusto_Vasquez</td>
-      <td>Merge branch 'main' into Augusto_Vasquez in backend</td>
-      <td>2024-06-06</td>
+      <td>c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
+      <td>Added Order Bounden context</td>
+      <td>Se Añadio Orden para el manejo del alquiler de bicicletas</td>
+      <td>2024-11-15</td>
     </tr>
   </tbody>
 </table>
@@ -1404,8 +1412,8 @@ Sing-Up:
 Lawyers:
 
 
-Url del repositorio Frontend: https://github.com/LexMedd/LexMedd-Frontend
-Url del repositorio Backend: https://github.com/LexMedd/LexMedd-Backend
+Url del repositorio Frontend: https://github.com/BiciBreeze/front-end
+Url del repositorio Backend: https://github.com/BiciBreeze/back-end
 
 Commits relacionados: 
 
@@ -1417,33 +1425,9 @@ Commits relacionados:
         <th colspan="2">Commit Message</th>
     </tr>
         <tr>
-        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2">BiciBreeze/Bicibreeze-backend</td>
         <td colspan="2">Contact</td>
         <td colspan="2">11b4a9b6c902f26a1bda306489d7d9bc46635b83</td>
-        <td colspan="2">Merge pull request</td>
-    </tr>
-        <tr>
-        <td colspan="2">LexMedd/LexMedd-Backend</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">Merge pull request</td>
-    </tr>
-    <tr>
-        <td colspan="2">LexMedd/LexMedd-Backend</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">Merge pull request</td>
-    </tr>
-    <tr>
-        <td colspan="2">LexMedd/LexMedd-Backend</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2">Merge pull request</td>
-    </tr>
-    <tr>
-        <td colspan="2">LexMedd/LexMedd-Backend</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
         <td colspan="2">Merge pull request</td>
     </tr>
 </table>    
@@ -1452,19 +1436,17 @@ Commits relacionados:
 Para el desarrollo de la segunda version de Web Services y el Frontend Web Application, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
 
-![alt text](<../assets/imgs/Evidence Backend.png>)
+![alt text](<../imgs/github back bici.png>)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
-Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+Para el desarrollo de este cuarto sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 **Commits:**
 
-![alt text](<../assets/imgs/commits sprint 4.png>)
-
+![alt text](<../imgs/Commits sprint 4 bicibreeze.png>)
 **Analiticas de Colaboración:**
 
-![alt text](<../assets/imgs/netwk sprint 4.png>)
-
+![alt text](<../imgs/Sprint 4 network.png>)
 ## 5.3 Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
