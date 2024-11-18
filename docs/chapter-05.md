@@ -1097,25 +1097,25 @@ Commits relacionados:
         <th colspan="2">Commit Message</th>
     </tr>
         <tr>
-        <td colspan="2">BiciBreeze/Backend-LexMedd</td>
+        <td colspan="2">BiciBreeze/Backend-Bicibreeze</td>
         <td colspan="2">Main</td>
         <td colspan="2">40d9668af713d73d88dcff80f3c74e124c8a1d80</td>
         <td colspan="2">registration</td>
     </tr>
         <tr>
-        <td colspan="2">biciBreeze/Backend-LexMedd</td>
+        <td colspan="2">biciBreeze/Backend-Bicibreeze</td>
         <td colspan="2">Main</td>
         <td colspan="2">c2983b0cb575d72affd3055b43dd3e5a32322ff2</td>
         <td colspan="2">Added Order Bounden context</td>
     </tr>
     <tr>
-        <td colspan="2">BiciBreeze/Backend-LexMedd</td>
+        <td colspan="2">BiciBreeze/Backend-Bicibreeze</td>
         <td colspan="2">Main</td>
         <td colspan="2">db277136e7eedfcabc77b1af545096762fa12968</td>
         <td colspan="2">Added Bike bounded context</td>
     </tr>
     <tr>
-        <td colspan="2">biciBreeze/Backend-LexMedd</td>
+        <td colspan="2">biciBreeze/Backend-Bicibreeze</td>
         <td colspan="2">Main</td>
         <td colspan="2">06000fca8b3799d4e312df5a299324eba67747ca</td>
         <td colspan="2">Added Bike bounded context</td>
@@ -1338,18 +1338,18 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 </table>
 
 ### 5.2.4.5. Execution Evidence for Sprint Review
-Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de backend como la de frontend del proyecto "LexMedd". Desafortunadamente no conseguimos una conexion entre ambas partes. Esto permite a los usuarios interactuar con las funcionalidades de la plataforma de manera eficiente y coherente.
+Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de backend como la de frontend del proyecto "Bicibreeze". 
 
 Endpoints:
 
 Sing-In:
-
+![alt text](<../imgs/iam biciback.png>)
 
 Sing-Up:
+![alt text](<../imgs/Iniciar sesion.png>)
 
-
-
-Lawyers:
+Order:
+![alt text](<../imgs/Order biciback.png>)
 
 
 
@@ -1364,39 +1364,36 @@ Durante este sprint, se ha mejorado el back-end y front-end de una API integral 
     <th>Verbo HTTP</th>
     <th>Sintaxis de Llamada</th>
     <th>Parámetros</th>
-    <th>Ejemplo de Llamada</th>
   </tr>
   <tr>
-    <td>/api/v1/contact</td>
-    <td>Añadir solicitud</td>
-    <td>PUT</td>
-    <td>/api/v1/medic/{recordId}/add-one-to-paid-service</td>
-    <td>recordId</td>
-    <td>PUT /api/v1/medic/1/add-one-to-paid-service</td>
-  </tr>
-  <tr>
-    <td>/api/v1/contact</td>
-    <td>Añadir todos los contactos</td>
-    <td>GET</td>
-    <td>ResponseEntity List<ContactResource>getAllContacts</td>
-    <td>recordId</td>
-    <td>PUT /api/v1/medic/1/add-one-to-consultation</td>
-  </tr>
-  <tr>
-    <td>/api/v1/contact</td>
-    <td>Listar</td>
-    <td>GET</td>
-    <td>/receiver/{receiverId}</td>
-    <td>-</td>
-    <td>GET /api/v1/medic</td>
-  </tr>
-  <tr>
-    <td>/api/v1/contact</td>
-    <td>Crear</td>
+    <td>api/v1/[controller]</td>
+    <td>Sign-up</td>
     <td>POST</td>
-    <td>/api/v1/medic</td>
+    <td>Task<IActionResult> SignUp[FromBody] SignUpResource resource</td>
+    <td>recordId</td>
+  </tr>
+  <tr>
+    <td>api/v1/[controller]</td>
+    <td>Sign-in</td>
+    <td>POST</td>
+    <td>Task<IActionResult> SignIn[FromBody] SignInResource resource</td>
+    <td>recordId</td>
+  </tr>
+  <tr>
+    <td>api/[controller]</td>
+    <td>Listar</td>
+    <td>POST</td>
+    <td>SubscriptionsController : ControllerBase</td>
     <td>-</td>
-    <td>POST /api/v1/medic</td>
+    <td>POST/api/controllerpayment</td>
+  </tr>
+  <tr>
+    <td>api/[controller]</td>
+    <td>Crear</td>
+    <td>GET</td>
+    <td>TaskIActionResultGetAllSubscriptionss()</td>
+    <td>-</td>
+    <td>TaskIActionResultGetAllSubscriptionss()</td>
   </tr>
 </table>
 
@@ -1405,11 +1402,11 @@ Capturas de interaccion:
 
 Endpoints:
 
-Sing-In:
+Sing-In and sing-up:
 
-Sing-Up:
+![alt text](<../imgs/sign-in-back.png>)
+![alt text](<../imgs/sign-in-back-2.png>)
 
-Lawyers:
 
 
 Url del repositorio Frontend: https://github.com/BiciBreeze/front-end
