@@ -1138,6 +1138,333 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 ![alt text](<../imgs/Network biciback.png>)
 
+### 5.2.4. Sprint 4
+
+### 5.2.4.1. Sprint Planning 4
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-11-12</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Mathias Vasquez</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Mathias Vasquez, Estrella Ticona</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Review Summary</td>
+    <td colspan="8">En esta sección se corrigieron los errores dentro del informe, se mejoró el front y el back para hacer la conexión con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en algunas partes del código desarrollado. Sin embargo, se pudo hacer un consenso y mejorar nuestras habilidades al realizar la conexión con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Corregir errores e implementar la conexión entre el front y el back con la API y el sitio web.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">25 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">15 Story Points</td>
+</tr>
+</table>
+
+### 5.2.4.2. Sprint Backlog 4
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 4</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do /InProcess /To-Review /Done)</td>
+</tr>
+<tr>
+    <td colspan="1">24</td>
+    <td colspan="2">Soporte para múltiples navegadores</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Soporte para múltiples navegadores</td>
+    <td colspan="3">Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">19</td>
+    <td colspan="2">Base de datos de usuarios</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Base de datos de usuarios</td>
+    <td colspan="3">Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">37</td>
+    <td colspan="2">Creación y gestión de recursos de consultas</td>
+    <td colspan="1">11</td>
+    <td colspan="2">Creación y gestión de recursos de consultas</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de consultas para que los administradores puedan gestionar las consultas necesarias.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.2.4.3. Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>Contact</td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Contact</td>
+      <td>-</td>
+      <td>15/11/2024</td>
+    </tr>
+    <tr>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>Legal cases</td>
+      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+      <td>Merge Bounded Context of Legal cases</td>
+      <td>-</td>
+      <td>15/11/2024</td>
+    </tr>
+    <tr>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>IAM</td>
+      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+      <td>Merge Bounded Context of Login and Register</td>
+      <td>-</td>
+      <td>15/11/2024</td>
+    </tr>
+    <tr>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>User profile</td>
+      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+      <td>Merge Bounded Context of User profile</td>
+      <td>-</td>
+      <td>15/11/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>main</td>
+      <td>59e769c513a378a4414d879133e867bef833a636</td>
+      <td>add "bounded context paymentv"</td>
+      <td>created bounded context paymentv to backend</td>
+      <td>2024-06-06</td>
+    </tr>
+    <tr>
+      <td>LexMedd/LexMedd-Backend</td>
+      <td>main</td>
+      <td>92ae3c6157480b0c09b72a35ae45aeabae1d58d1</td>
+      <td>Merge branch 'main' into Augusto_Vasquez</td>
+      <td>Merge branch 'main' into Augusto_Vasquez in backend</td>
+      <td>2024-06-06</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.4.5. Execution Evidence for Sprint Review
+Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de backend como la de frontend del proyecto "LexMedd". Desafortunadamente no conseguimos una conexion entre ambas partes. Esto permite a los usuarios interactuar con las funcionalidades de la plataforma de manera eficiente y coherente.
+
+Endpoints:
+
+Sing-In:
+
+
+Sing-Up:
+
+
+
+Lawyers:
+
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se ha mejorado el back-end y front-end de una API integral utilizando Java, JPA (Java Persistence API) y siguiendo los principios de Domain-Driven Design (DDD). Aunque no se haya realizado la conexión entre ambos sabemos que la información detallada sobre estos elementos se maneja mediante diversos endpoints que permiten operaciones como listar, crear, actualizar y eliminar registros, utilizando la convención de nomenclatura snake_case para los campos. Estas mejoras aseguran una cobertura completa y eficiente de las necesidades del sistema, facilitando tanto la interacción de los usuarios con la plataforma como la gestión interna de los datos.
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+  </tr>
+  <tr>
+    <td>/api/v1/contact</td>
+    <td>Añadir solicitud</td>
+    <td>PUT</td>
+    <td>/api/v1/medic/{recordId}/add-one-to-paid-service</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/medic/1/add-one-to-paid-service</td>
+  </tr>
+  <tr>
+    <td>/api/v1/contact</td>
+    <td>Añadir todos los contactos</td>
+    <td>GET</td>
+    <td>ResponseEntity List<ContactResource>getAllContacts</td>
+    <td>recordId</td>
+    <td>PUT /api/v1/medic/1/add-one-to-consultation</td>
+  </tr>
+  <tr>
+    <td>/api/v1/contact</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/receiver/{receiverId}</td>
+    <td>-</td>
+    <td>GET /api/v1/medic</td>
+  </tr>
+  <tr>
+    <td>/api/v1/contact</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/medic</td>
+    <td>-</td>
+    <td>POST /api/v1/medic</td>
+  </tr>
+</table>
+
+
+Capturas de interaccion:
+
+Endpoints:
+
+Sing-In:
+
+Sing-Up:
+
+Lawyers:
+
+
+Url del repositorio Frontend: https://github.com/LexMedd/LexMedd-Frontend
+Url del repositorio Backend: https://github.com/LexMedd/LexMedd-Backend
+
+Commits relacionados: 
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2">Contact</td>
+        <td colspan="2">11b4a9b6c902f26a1bda306489d7d9bc46635b83</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+        <tr>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">LexMedd/LexMedd-Backend</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+</table>    
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review
+Para el desarrollo de la segunda version de Web Services y el Frontend Web Application, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
+
+
+![alt text](<../assets/imgs/Evidence Backend.png>)
+
+### 5.2.4.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+**Commits:**
+
+![alt text](<../assets/imgs/commits sprint 4.png>)
+
+**Analiticas de Colaboración:**
+
+![alt text](<../assets/imgs/netwk sprint 4.png>)
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -1361,6 +1688,7 @@ El problema identificado se refiere a la inclusión de opciones en la aplicació
 Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿A que se refiere cuando dice que puedo editar la informacion del scooter? ¿Esa informacion es para los dueños del sitio web o para otros usuarios?
 
 ## 5.4 Video About-the-Product
+
 **Captura del About-the-Product**
 
 **Enlace del video en Microsoft Stream**: 
