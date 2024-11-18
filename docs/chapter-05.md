@@ -1438,6 +1438,8 @@ Para el desarrollo de la segunda version de Web Services y el Frontend Web Appli
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este cuarto sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+LINK DEL BACKEND DESPLEGADO: https://bizebreeze-ane4hwhdd6adhydr.canadacentral-01.azurewebsites.net/
+
 **Commits:**
 
 ![alt text](<../imgs/Commits sprint 4 bicibreeze.png>)
@@ -1666,23 +1668,15 @@ El problema identificado se refiere a la inclusión de opciones en la aplicació
 **Recomendación:**
 
 Se recomienda proporcionar explicaciones claras y concisas para todas las opciones dentro de la aplicación. Las descripciones deberían ser informativas y ayudar a los usuarios a comprender el propósito y la función de cada opción. En este caso sería: ¿A que se refiere cuando dice que puedo editar la informacion del scooter? ¿Esa informacion es para los dueños del sitio web o para otros usuarios?
+ 
 
-## 5.4 Video About-the-Product
+## 5.5 Enlaces de videos
 
-**Captura del About-the-Product**
+**Enlace del About-the-Team**: https://youtu.be/5FXta5jDpYg
+**Enlace del video About-the-product**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EaCGdDnxj4lBgMbQ6MZO_IQBgZcJcVdH8DY8Or8FiFam7A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=fA2w4A 
 
-**Enlace del video en Microsoft Stream**: 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/Eac9O2J2B5VFnGGYLWAm3DkBKU_k84TUs_IQKtt8ZSE2vA?e=d6bLRj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
-**Enlace del video en Youtube**: 
-
-## 5.5 Video About-the-Team
-
-**Captura del About-the-Team**
-
-**Enlace del video en Microsoft Stream**: 
+**Enlace del video exposicion en Microsoft Stream**: 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/EeZCK0gtbSJFnEkgK291URMBSSXM8reCatzmN5_V0XgDTA?e=Wc9fhJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
 
 **Timelapse Total:** [Inicio:00:00, Fin: ]
 
