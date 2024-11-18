@@ -307,33 +307,29 @@ Los diagramas de arquitectura de software nos ayudan a plantear el sistema de nu
 Este es el diagrama de Contexto de nuestro sistema:
 
  <div style="text-align: center;">
- <img src="https://ibb.co/7zLzRqT" alt="pr" style="width: 100%; height: auto;">
+ <img src="https://i.ibb.co/0XvXFxW/structurizr-System-Context-001.png" alt="pr" style="width: 100%; height: auto;">
 </div> 
 
 #### 4.6.1. Software Architecture Container Diagram
 Este es el diagrama de Contenedores de nuestro sistema:
 
  <div style="text-align: center;">
- <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-Container-001.png?alt=media&token=4425b3bf-880b-438b-84a1-15bb677fa35c" alt="pr" style="width: 100%; height: auto;">
+ <img src="https://i.ibb.co/k6kQGYK/structurizr-Container-001.png" alt="pr" style="width: 100%; height: auto;">
 </div> 
 
 #### 4.6.1. Software Architecture Components Diagram
 Esto son los diagramas de componentes de nuestro sistema:
 
  <div style="text-align: center;">
- <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsUserProfile.png?alt=media&token=86a560b1-40d3-4d1e-b63e-f051f411a2c2" alt="pr" style="width: 100%; height: auto;">
+ <img src="https://i.ibb.co/Sd6mxqq/structurizr-Components-User-Profile.png" alt="pr" style="width: 100%; height: auto;">
 </div> 
 
  <div style="text-align: center;">
- <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsSubscription.png?alt=media&token=cc227841-4062-486a-ab08-268e255e5997" alt="pr" style="width: 100%; height: auto;">
+ <img src="https://i.ibb.co/PrdjG0H/structurizr-Components-Registration.png" alt="pr" style="width: 100%; height: auto;">
 </div> 
 
  <div style="text-align: center;">
- <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsRegistration.png?alt=media&token=a3f5de65-281d-4b16-af4f-7d965212973f" alt="pr" style="width: 100%; height: auto;">
-</div> 
-
- <div style="text-align: center;">
- <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes%20bicibreeze%2Fc4%20model%2Fstructurizr-ComponentsPayment.png?alt=media&token=8a08dcd5-9081-4d6c-b7be-c1f2d90cfdce" alt="pr" style="width: 100%; height: auto;">
+ <img src="https://i.ibb.co/TP2LWsV/structurizr-Components-Subscription.png" alt="pr" style="width: 100%; height: auto;">
 </div> 
 
 ## 4.7. Software Object-Oriented Design
