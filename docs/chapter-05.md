@@ -1444,6 +1444,7 @@ Para el desarrollo de este cuarto sprint, todos los miembros del equipo desarrol
 **Analiticas de Colaboración:**
 
 ![alt text](<../imgs/Sprint 4 network.png>)
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
